@@ -1,0 +1,44 @@
+---
+title: "Assignments"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introductory assignment (due 5:00 pm Tuesday, August 28, 2018)
+
+This assignment takes the place of "participation" credit for Weeks 1 and 2. It is worth four points, two each for each of the two questions. I prefer that you submit your response as an email or as a text file with "PSY 511 Assignment 1" in the subject line. If you submit a MS Word (.docx) document, please include your name in the file name, e.g. if I were submitting an answer, I would use `psy-511-assignment-1-gilmore.docx`.
+
+I plan to post your answers to the first question on the course website so that we can discuss similarities and differences among our choices. So, please write your answers with that in mind.
+
+### 1. Pick two papers you want to read and (better) understand (2 points)
+
+- Provide APA formatted citation (with DOIs)
+- Indicate three concepts/terms from these papers that you are especially interested in understanding
+
+### 2. Choose a behavior or mental state you want to (better) understand (2 points)
+
+- Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.
+  - When thinking about *outputs* make sure to distinguish between *behaviors* (e.g., movements, facial expressions, vocalizations) and *physiological states* (e.g., changes in heart rate, hormone concentrations in the blood, etc.)
+  
+## Group presentations
+
+- Provide 2-3 background readings in advance (by Friday, November 30)
+- 25 min (max) presentation + 10 min discussion
+- Focused themes + integrative section
+    - What have we learned/what do we know?
+    - What don't we know?
+    - Why are these answers important to know?
+    - How does topic X relate to/inform another theme?
+- Submit slides (after talk is fine)
+    - Statement about who did what
+    
+| Group Theme | Members | Presentation Day? |
+|-------------|---------|-------------------|
+| Measuring brain & behavior | Kelley, Anna, Alison, Lauren, Rhea | |
+| Neurodegeneration & disorder | Kaitlin, Sam, Daryl, Emily | |
+| Development, aging, & plasticity | Liz, Michael, Lia, Chloe, Nate | |
+| Cognition & emotion | Austen, Brandon, Shane, Natalia | |
+

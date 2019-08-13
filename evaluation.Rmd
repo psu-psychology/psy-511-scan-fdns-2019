@@ -1,0 +1,48 @@
+---
+title: "Evaluation"
+---
+
+PSY 511 course performance will be evaluated based on the following scheme:
+
+| Component           | Points                      | % of Grade |
+|---------------------|------------------------------|-------|
+| Quizzes             | 10 pts * 3 quizzes = 30      | 30    |
+| Symposium presentation  | 40 pts                   | 40    |
+| Paper               | 30 pts                       | 30    |
+| **TOTAL**           | **100**                      | **100** |
+
+### Grading Scheme
+
+| Points  | Percent | Grade |
+|---------|---------|-------|
+| 100+    | 100+    | A+    |
+| 94-100  | 94-99   | A     |
+| 90-93   | 90-93   | A-    |
+| 87-89   | 87-89   | B+    |
+| 84-86   | 84-86   | B     |
+| 80-83   | 80-83   | B-    |
+| 77-79   | 77-79   | C+    |
+| 70-76   | 70-76   | C     |
+| 60-69   | 60-69   | D     |
+| <59     | <59     | F     |
+
+## Student symposium presentation
+
+We will plan and host a student symposium with individual and group presentations at the end of the semester.
+
+## Resource write-up
+
+Please write-up a review of i) one of the references you discuss in your symposium presentation or ii) another paper of your choosing in the style of a *Neuron* "Preview" or a *Nature* "Research Highlights" paper ([example](https://www.nature.com/search?article_type=research-highlights&order=date_desc)).
+
+Your review should be 2,000-2,500 words (6-10 pp in length) and is due by **noon on Wednesday, December 18, 2019**.
+
+**Do's**
+
+- Put your last name and first name in the file name of your submitted paper. `gilmore-rick-psy-511-2018-final-paper.docx` works fine.
+- Submit your paper as a MS Word document or as a Google drive document that I can comment on using the track changes feature.
+- Include a cover page and title. Make sure to add page numbers.
+- Unpack and define all acronyms when you first mention them. Define or explain technical terms and concepts.
+- Include all end-of-paper citations in a format that is convenient to you and easy to extract from your reference manager.
+- Include author-date citations in the text, even if the article type (e.g., a newspaper or magazine) would not typically use them.
+- Use double-spacing.
+- Run spell-check on your paper before you submit. I also suggest reading your paper out loud as a way to catch run-on sentences, awkward phrasing, and odd word choices.

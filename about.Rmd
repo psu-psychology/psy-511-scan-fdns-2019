@@ -1,0 +1,14 @@
+---
+title: "About the course"
+---
+
+The first scientific psychologists were physiologists fascinated by the possibility of understanding the mind by studying the brain. 
+In this course, we will explore the historical roots and contemporary challenges associated with the study of biological approaches to complex adaptive behavior. 
+In doing so, we will read and examine critically primary source readings that discuss basic patterns and processes of brain structure and function. 
+The goal is to provide students with a basic foundation of knowledge about the structures and functions of the nervous system that can provide the basis for future study.
+
+This course is one of two required courses for the [Specialization in Cognitive and Affective Neuroscience (SCAN)](http://psych.la.psu.edu/graduate/program-areas/cross-cutting-program-initiatives/specialization-in-cognitive-and-affective-neuroscience/specialization-in-cognitive-and-affective-neuroscience).
+
+## Prerequisites
+
+Undergraduate coursework in neuroscience or physiological psychology such as the equivalents of PSYCH 260 or BIO 469/470.

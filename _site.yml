@@ -1,0 +1,21 @@
+name: "PSY 511.00x Fall 2019"
+navbar:
+  title: "PSY 511"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    include:
+      after_body: footer.html
