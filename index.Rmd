@@ -1,12 +1,12 @@
 ---
-title: ""
+title: " "
 ---
 
 # Foundations of Cognitive and Affective Neuroscience
 
 <img src="https://allkindsofminds.files.wordpress.com/2013/02/brain-surgery.jpg"/>
 
-## PSY 511.00x, Fall 2019
+## PSY 511.001, Fall 2019
 
 ## Instructor
 
@@ -24,10 +24,10 @@ rogilmore AT-SIGN psu PERIOD edu</br>
 
 ## Meeting Location and Time
 
-Wed & Fri 2:30-3:45 pm, xxx Moore</br>
+Wed & Fri 2:30-3:45 pm, 444 Moore</br>
 August 28 - December 13, 2019</br>
-Course xxxxx</br>
+Course 15384</br>
 
 ## Syllabus
 
-You can find a PDF version of the syllabus [here](psy-511-2019-fall-gilmore-syllabus.pdf).
+You can find a PDF version of the syllabus at <https://psu-psychology.github.io/psy-511-scan-fdns-2019/psy-511-2019-fall-gilmore-syllabus.pdf>.

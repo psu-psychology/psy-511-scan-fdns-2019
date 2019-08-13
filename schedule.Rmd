@@ -30,7 +30,7 @@ title: "Schedule"
 ### Wed, Sep 4
 
 - Topics
-    + Methods in neuroscience, Read BW[^1] 2:51-57, 3:88-92.
+    + Methods in neuroscience, Read BW 2:51-57, 3:88-92.
 - Materials
     + Lecture notes | [HTML slides]() | [PDF]()
     + <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
@@ -41,7 +41,7 @@ title: "Schedule"
 ### Fri, Sep 6
 
 - Topics
-    + Neuroanatomy. Read BW[^1] 2:36-51.
+    + Neuroanatomy. Read BW 2:36-51.
 - Materials
     + Lecture notes | [HTML slides]() | [PDF]()
 
@@ -136,7 +136,8 @@ title: "Schedule"
 
 ### Wed, Oct 9
 
-**NO CLASS**
+- Topics
+    - Planning session for student symposium
 
 ### Fri, Oct 11
 
@@ -341,4 +342,4 @@ title: "Schedule"
 
 - Symposium [write-up/review papers](evaluation.html) due by **noon**.
 
-[^1]: BW refers to the Behavioral Neuroscience text by Breedlove and Watson.
+[^1]: BW refers to the *Behavioral Neuroscience* text by Breedlove and Watson.

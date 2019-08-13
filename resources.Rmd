@@ -8,7 +8,7 @@ Breedlove, S. M. & Watson, N.V. (2018). *Behavioral Neuroscience (8th ed.)*. Sun
 
 ## Web sites
 
-- Course home page: <http://psu-psych.github.io/psy-511-scan-fdns-2017>
+- Course home page: <http://psu-psych.github.io/psy-511-scan-fdns-2019>
 - Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm>
 - Neurosynth (fMRI meta-analysis): <http://neurosynth.org>
 - [*Neuron* Brainview](http://www.cell.com/neuron/brainview)
@@ -18,6 +18,6 @@ Breedlove, S. M. & Watson, N.V. (2018). *Behavioral Neuroscience (8th ed.)*. Sun
 - [OpenNeuro](http://openneuro.org)
 - [OpenfMRI](http://openfmri.org)
 
-## Talks
+<!-- ## Talks -->
 
-- PSU Neuroscience Seminar Series [calendar](https://www.huck.psu.edu/content/events/upcoming/neuroscience-seminars)
+<!-- - PSU Neuroscience Seminar Series [calendar](https://www.huck.psu.edu/content/events/upcoming/neuroscience-seminars) -->
