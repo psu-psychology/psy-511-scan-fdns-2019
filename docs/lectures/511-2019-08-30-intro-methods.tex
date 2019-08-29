@@ -1,0 +1,863 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={PSY 511 2019-08-30 Course Intro},
+            pdfauthor={Rick Gilmore},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{PSY 511 2019-08-30 Course Intro}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{Rick Gilmore}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{2019-08-29 13:29:46}
+
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{prelude}{%
+\subsection{Prelude}\label{prelude}}
+
+\begin{quote}
+``\emph{If understanding everything we need to know about the brain is a
+mile, how far have we walked?}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{psy-511}{%
+\subsection{PSY 511}\label{psy-511}}
+
+\hypertarget{foundations-of-cognitive-and-affective-neuroscience}{%
+\subsubsection{Foundations of Cognitive and Affective
+Neuroscience}\label{foundations-of-cognitive-and-affective-neuroscience}}
+
+Rick O. Gilmore, Ph.D. Professor of Psychology
+
+\hypertarget{todays-topics}{%
+\subsection{Today's topics}\label{todays-topics}}
+
+\begin{itemize}
+\tightlist
+\item
+  Why neuroscience is harder than physics
+\item
+  Course overview
+\item
+  Methods in neuroscience
+\end{itemize}
+
+\hypertarget{why-neuroscience-is-harder-than-physics}{%
+\section{Why neuroscience is harder than
+physics}\label{why-neuroscience-is-harder-than-physics}}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=800px]{img/psych-harder-1} \end{center}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=800px]{img/psych-harder-2} \end{center}
+
+\hypertarget{what-do-we-need-to-know-to-answer-the-question}{%
+\subsection{What do we need to know to answer the
+question?}\label{what-do-we-need-to-know-to-answer-the-question}}
+
+\begin{itemize}
+\tightlist
+\item
+  What is the state\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Of the world (\(W\))
+  \item
+    Of the organism
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Body (\(B\))
+    \item
+      Nervous system (\(N\))
+    \item
+      Mind (\(M\))
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=800px]{img/nested-causality-labels} \end{center}
+
+\hypertarget{some-states-are-more-easily-measured-than-others}{%
+\subsection{Some states are more easily measured than
+others}\label{some-states-are-more-easily-measured-than-others}}
+
+\begin{itemize}
+\tightlist
+\item
+  \(W\), \(B\), \(N\) more or less \textbf{directly}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=750]{https://media.nature.com/lw926/nature-assets/neuro/journal/v17/n11/images/nn.3839-F1} \end{center}
+
+ \href{http://doi.org/10.1038/nn.3839}{Sejnowski, Churchland, \&
+Movshon, 2014}
+
+\hypertarget{measure-mental-states-m}{%
+\subsection{\texorpdfstring{Measure mental states
+(\(M\))}{Measure mental states (M)}}\label{measure-mental-states-m}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{indirectly}
+\item
+  Via \(N\), \(B\), \(W\) (+ prior beliefs/knowledge)
+\item
+  Examples?
+\end{itemize}
+
+\hypertarget{brain-behavior-are-complex-dynamic-systems-with}{%
+\subsection{\texorpdfstring{Brain \& behavior are complex, dynamic
+\emph{systems}
+with}{Brain \& behavior are complex, dynamic systems with}}\label{brain-behavior-are-complex-dynamic-systems-with}}
+
+\begin{itemize}
+\tightlist
+\item
+  Components
+\item
+  Interactions
+\item
+  Forces/influences
+\item
+  Boundaries
+\item
+  Inputs/outputs/processes
+\end{itemize}
+
+\hypertarget{systems}{%
+\subsection{Systems\ldots{}}\label{systems}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``Behave'' or change state across time
+\item
+  Return to starting state
+\item
+  Appear to be regulated, controlled, influenced by feedback loops
+\item
+  \(B(t+1) = f(W(t), B(t), N(t), M(t))\)
+\end{itemize}
+
+\hypertarget{may-be-thought-of-as-networks}{%
+\subsection{\texorpdfstring{May be thought of as
+\href{https://en.wikipedia.org/wiki/Network_science}{networks}}{May be thought of as networks}}\label{may-be-thought-of-as-networks}}
+
+\begin{center}\includegraphics[height=500]{https://d2ufo47lrtsv5s.cloudfront.net/content/sci/342/6158/1238411/F1.large} \end{center}
+
+\hypertarget{at-multiple-levels-of-organization}{%
+\subsection{At multiple levels of
+organization\ldots{}}\label{at-multiple-levels-of-organization}}
+
+\begin{center}\includegraphics[width=700]{https://stats.idre.ucla.edu/wp-content/uploads/2016/02/sem_1} \end{center}
+
+\hypertarget{studying-systems-is-hard-because}{%
+\subsection{Studying systems is hard
+because\ldots{}}\label{studying-systems-is-hard-because}}
+
+\begin{itemize}
+\tightlist
+\item
+  Single parts -\textgreater{} multiple functions
+\item
+  Single functions -\textgreater{} multiple parts
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=8.64in,height=500px]{img/calabrese-2018} \end{center}
+
+\href{http://doi.org/10.1016/j.tins.2018.05.006}{(Calabrese, 2018)}
+
+\hypertarget{studying-systems-is-hard-because-1}{%
+\subsection{Studying systems is hard
+because\ldots{}}\label{studying-systems-is-hard-because-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Change structure/function over time
+\item
+  Biological systems not ``designed'' like human-engineered ones
+\item
+  Hard to measure what is being exchanged, what is being controlled
+\end{itemize}
+
+\hypertarget{course-overview}{%
+\section{Course overview}\label{course-overview}}
+
+\hypertarget{psy-511.001-goals}{%
+\subsection{PSY 511.001 Goals}\label{psy-511.001-goals}}
+
+\begin{itemize}
+\tightlist
+\item
+  Master fundamentals of neuroscientific concepts and facts
+\item
+  Prepare to read primary source literature in behavioral, cognitive,
+  affective, and clinical neuroscience
+\end{itemize}
+
+\hypertarget{structure}{%
+\subsection{Structure}\label{structure}}
+
+\url{https://psu-psychology.github.io/psy-511-scan-fdns-2019/}
+
+\hypertarget{questions}{%
+\subsection{Questions}\label{questions}}
+
+\begin{itemize}
+\tightlist
+\item
+  What is the basic organizational plan of the nervous system?
+\item
+  How do neurons work?
+\item
+  How do neurons connected in networks achieve behavioral goals?
+\item
+  How does the nervous system develop? How has it evolved?
+\item
+  How do disorders of the mind reveal themselves in the nervous system?
+\end{itemize}
+
+\hypertarget{approach}{%
+\subsection{Approach}\label{approach}}
+
+\begin{itemize}
+\tightlist
+\item
+  Brain architecture (neuroanatomy)
+\item
+  Brain function (neurophysiology)
+\item
+  Brain communication (neurochemistry)
+\item
+  Changes over evolutionary and developmental time
+\end{itemize}
+
+\hypertarget{approach-1}{%
+\subsection{Approach}\label{approach-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  The nervous system as an information processing system
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=800]{https://i.stack.imgur.com/3B00P} \end{center}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{inputs}{%
+\subsubsection{\texorpdfstring{\textbf{Inputs}}{Inputs}}\label{inputs}}
+
+\begin{itemize}
+\tightlist
+\item
+  From environment, body, brain
+\end{itemize}
+
+\hypertarget{processing}{%
+\subsubsection{\texorpdfstring{\textbf{Processing}}{Processing}}\label{processing}}
+
+\begin{itemize}
+\tightlist
+\item
+  Current inputs + brain state + body state + possible future
+  states\ldots{}
+\item
+  Stored information
+\item
+  Physiological \& behavioral goals
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{outputs}{%
+\subsubsection{\texorpdfstring{\textbf{Outputs}}{Outputs}}\label{outputs}}
+
+\begin{itemize}
+\tightlist
+\item
+  To brain, body, environment
+\end{itemize}
+
+\hypertarget{cajalswanson-architecture}{%
+\subsection{Cajal/Swanson
+Architecture}\label{cajalswanson-architecture}}
+
+\begin{center}\includegraphics[width=700px]{https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-1} \end{center}
+
+\href{http://dx.doi.org/10.1002/cne.20733}{Swanson, 2005}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=700px]{https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-3} \end{center}
+
+\href{http://dx.doi.org/10.1002/cne.20733}{Swanson, 2005}
+
+\hypertarget{why-neuroscience-needs-behavior}{%
+\subsection{Why neuroscience needs
+behavior}\label{why-neuroscience-needs-behavior}}
+
+\begin{center}\includegraphics[width=750]{https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3} \end{center}
+
+\href{http://dx.doi.org/10.1016/j.neuron.2016.12.041}{(Krakauer,
+Ghazanfar, Gomez-Marin, MacIver, \& Poeppel, 2017)}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=800]{https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4} \end{center}
+
+\href{http://dx.doi.org/10.1016/j.neuron.2016.12.041}{(Krakauer et al.,
+2017)}
+
+\hypertarget{neuroscience-methods}{%
+\section{Neuroscience methods}\label{neuroscience-methods}}
+
+\hypertarget{evaluating-methods}{%
+\subsection{Evaluating methods}\label{evaluating-methods}}
+
+\hypertarget{what-are-we-measuring}{%
+\subsubsection{What are we measuring?}\label{what-are-we-measuring}}
+
+\begin{itemize}
+\tightlist
+\item
+  Structure
+\item
+  Activity
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Why not \emph{function}?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{what-is-the-question}{%
+\subsubsection{What is the question?}\label{what-is-the-question}}
+
+\begin{itemize}
+\tightlist
+\item
+  Structure X -\textgreater{} Structure Y
+\item
+  Structure X -\textgreater{} Function Y
+\end{itemize}
+
+\hypertarget{evaluating-methods-1}{%
+\subsection{Evaluating methods}\label{evaluating-methods-1}}
+
+\hypertarget{strengths-weaknesses}{%
+\subsubsection{Strengths \& Weaknesses}\label{strengths-weaknesses}}
+
+\begin{itemize}
+\tightlist
+\item
+  Cost
+\item
+  Invasiveness
+\item
+  Spatial/temporal resolution
+\end{itemize}
+
+\hypertarget{spatial-resolution}{%
+\subsection{Spatial resolution}\label{spatial-resolution}}
+
+\begin{center}\includegraphics[width=600]{img/churchland-levels-of-analysis} \end{center}
+
+\url{http://ai.ato.ms/MITECS/Images/churchland.figure1.gif}
+
+\hypertarget{and-temporal-resolution}{%
+\subsection{\ldots{}and temporal
+resolution}\label{and-temporal-resolution}}
+
+\begin{center}\includegraphics[width=600]{https://media.nature.com/lw926/nature-assets/neuro/journal/v17/n11/images/nn.3839-F1} \end{center}
+
+\href{http://doi.org/10.1038/nn.3839}{(Sejnowski, Churchland, \&
+Movshon, 2014)}
+
+\hypertarget{types-of-methods}{%
+\subsection{Types of methods}\label{types-of-methods}}
+
+\hypertarget{structural}{%
+\subsubsection{Structural}\label{structural}}
+
+\begin{itemize}
+\tightlist
+\item
+  Anatomy
+\item
+  Connectivity/connectome
+\end{itemize}
+
+\hypertarget{functional-next-time}{%
+\subsubsection{Functional (next time)}\label{functional-next-time}}
+
+\begin{itemize}
+\tightlist
+\item
+  What does it do?
+\item
+  Physiology/Activity
+\end{itemize}
+
+\hypertarget{mapping-structures}{%
+\subsection{￼Mapping structures}\label{mapping-structures}}
+
+\begin{itemize}
+\tightlist
+\item
+  Cell/axon stains
+\item
+  Cellular distribution, concentration, microanatomy
+\end{itemize}
+
+\hypertarget{golgi-stain-whole-cells-but-small}{%
+\subsection{\texorpdfstring{\textbf{Golgi stain} -- whole cells, but
+small
+\%}{Golgi stain -- whole cells, but small \%}}\label{golgi-stain-whole-cells-but-small}}
+
+\begin{center}\includegraphics[width=8.5in,height=500px]{img/golgi-stain} \end{center}
+
+\url{http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[height=550px]{https://www.hitobiotec.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hito_golgi_staining_10} \end{center}
+
+Here's a pretty one of the hippocampus.
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=650px]{http://wam.umn.edu/wp-content/uploads/2016/12/WAM_Cajal_m1673} \end{center}
+
+\url{http://wam.umn.edu/calendar/cajal/}
+
+And here is one from Santiago Ramon y Cajal.
+
+\hypertarget{camillo-golgi}{%
+\subsection{\texorpdfstring{\href{https://en.wikipedia.org/wiki/Camillo_Golgi}{Camillo
+Golgi}}{Camillo Golgi}}\label{camillo-golgi}}
+
+\begin{center}\includegraphics[height=550px]{https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Camillo_Golgi.jpg/330px-Camillo_Golgi} \end{center}
+
+\hypertarget{nissl-stain-only-cell-bodies}{%
+\subsection{\texorpdfstring{\textbf{Nissl stain}: Only cell
+bodies}{Nissl stain: Only cell bodies}}\label{nissl-stain-only-cell-bodies}}
+
+\begin{center}\includegraphics[height=500px]{https://i.pinimg.com/originals/24/ba/58/24ba5870a0b3ac2ce8e3620853e12c8b} \end{center}
+
+Here's a Nissl-stained section of the macaque brain. It stains only cell
+bodies, but the density of staining tells us where there are lots of
+cells and where there are fewer.
+
+\hypertarget{franz-nissl}{%
+\subsection{\texorpdfstring{\href{https://en.wikipedia.org/wiki/Franz_Nissl}{Franz
+Nissl}}{Franz Nissl}}\label{franz-nissl}}
+
+\begin{center}\includegraphics[height=550px]{https://upload.wikimedia.org/wikipedia/commons/d/dd/Portrait_of_Franz_Nissl} \end{center}
+
+\hypertarget{brainbow}{%
+\subsection{\texorpdfstring{\href{http://cbs.fas.harvard.edu/science/connectome-project/brainbow}{Brainbow}}{Brainbow}}\label{brainbow}}
+
+\begin{center}\includegraphics[width=700px]{img/lichtman-nrn2391-f1} \end{center}
+
+\href{http://doi.org/10.1038/nrn2391}{(Lichtman, Livet, \& Sanes, 2008)}
+
+\hypertarget{brainbow-1}{%
+\subsection{Brainbow}\label{brainbow-1}}
+
+\begin{center}\includegraphics[width=550px]{img/lichtman-nrn2391-f2} \end{center}
+
+\href{http://doi.org/10.1038/nrn2391}{(Lichtman et al., 2008)}
+
+\hypertarget{clarity}{%
+\subsection{\texorpdfstring{\href{http://clarityresourcecenter.com/CLARITY.html}{Clarity}}{Clarity}}\label{clarity}}
+
+\hypertarget{evaluating-cellular-techniques}{%
+\subsection{Evaluating cellular
+techniques}\label{evaluating-cellular-techniques}}
+
+\begin{itemize}
+\tightlist
+\item
+  Invasive (in humans post-mortem only)
+\item
+  High \emph{spatial} resolution, but poor/coarse \emph{temporal}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Why?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{mapping-structures-1}{%
+\subsection{Mapping structures}\label{mapping-structures-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Computed axial tomography (CAT), CT}
+\item
+  X-ray based
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=400px]{img/tomography} \end{center}
+
+\url{http://img.tfd.com/mk/T/X2604-T-22.png}
+
+\hypertarget{tomography}{%
+\subsection{Tomography}\label{tomography}}
+
+\begin{center}\includegraphics[width=500px]{img/cat-scan-pineapple} \end{center}
+
+\url{http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=700px]{https://miro.medium.com/max/1024/1*j09PgBpdJIHXhlyjcby0HA} \end{center}
+
+
+\url{https://medium.com/datadriveninvestor/detecting-brain-hemorrhage-in-computed-tomography-ct-imaging-d1276cb6bdb7}
+
+Here's a CT image of two brains, the one on the right has an
+intracerebral hemorrhage.
+
+\hypertarget{magnetic-resonance-imaging-mri}{%
+\subsection{\texorpdfstring{\textbf{Magnetic Resonance Imaging
+(MRI)}}{Magnetic Resonance Imaging (MRI)}}\label{magnetic-resonance-imaging-mri}}
+
+\begin{itemize}
+\tightlist
+\item
+  Magnetic resonance a property of some isotopes and complex molecules
+\item
+  Hydrogen (\(H\)), common in water \& fat, is one
+\item
+  In magnetic field, \(H\) atoms absorb and release radio frequency (RF)
+  energy
+\item
+  \(H\) atoms align with strong magnetic field
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Applying RF pulse perturbs alignment
+\item
+  Rate/timing of realignment varies by tissue
+\item
+  Realignment gives off radio frequency (RF) signals
+\item
+  Strength of RF \textasciitilde{} density of \(H\) (or other target)
+\item
+  K-space (frequency/phase) -\textgreater{} anatomical space
+\end{itemize}
+
+\hypertarget{mri}{%
+\subsection{MRI}\label{mri}}
+
+\begin{center}\includegraphics[width=450px]{img/mri-steps} \end{center}
+
+\url{http://s.hswstatic.com/gif/mri-steps.jpg}
+
+\hypertarget{structural-mri}{%
+\subsection{\texorpdfstring{\textbf{Structural
+MRI}}{Structural MRI}}\label{structural-mri}}
+
+\begin{itemize}
+\tightlist
+\item
+  Tissue density/type differences
+\item
+  \textbf{Gray matter} (nerve cells \& \textbf{dendrites}) vs.
+  \textbf{white matter} (\textbf{axon fibers})
+\item
+  \textbf{Spectroscopy} (specific metabolites)
+\item
+  Region sizes/volumes
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[height=550px]{https://previews.123rf.com/images/ultimagaina/ultimagaina1405/ultimagaina140500005/28078449-Sequence-of-vertical-sections-of-a-human-brain-MRI-scan-Stock-Photo} \end{center}
+
+Here is an illustration of the different slices of an image sequence.
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[height=550px]{https://images.radiopaedia.org/images/556479/0dc08a48892084b4c3b717feb9dfa4_big_gallery} \end{center}
+
+Here's an example of MR spectroscopy showing the concentrations of
+several different metabolites in a large voxel of brain tissue.
+
+\hypertarget{voxel-based-morphometry-vbm}{%
+\subsection{\texorpdfstring{\textbf{Voxel-based morphometry
+(VBM)}}{Voxel-based morphometry (VBM)}}\label{voxel-based-morphometry-vbm}}
+
+Volume differences in schizophrenic patients vs.~controls
+
+\begin{center}\includegraphics[height=400px]{https://openi.nlm.nih.gov/imgs/512/130/2927029/PMC2927029_mp2009146f1} \end{center}
+
+\href{https://dx.doi.org/10.1038/mp.2009.146}{(Pomarol-Clotet et al.,
+2010)}
+
+And here's an illustration of the use of morphometric techniques. The
+colored portions are statistical maps placed on top of a base structural
+map. The statistical maps provide information about the comparison in
+brain volumes between patients and controls in those areas.
+
+\hypertarget{what-is-the-wiring-diagram-connectome}{%
+\subsection{What is the wiring diagram
+(``connectome'')?}\label{what-is-the-wiring-diagram-connectome}}
+
+\begin{center}\includegraphics[width=700px]{https://i.stack.imgur.com/2OT3B} \end{center}
+
+The idea is analogous to electronics. We want the schematic. Without the
+schematic, we can't really tell what the thing does.
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=800px]{img/jonas-kording-2017} \end{center}
+
+\hypertarget{retrograde-output---input-vs.anterograde-input---output-tracers}{%
+\subsection{Retrograde (output -\textgreater{} input) vs.~anterograde
+(input -\textgreater{} output)
+tracers}\label{retrograde-output---input-vs.anterograde-input---output-tracers}}
+
+\begin{center}\includegraphics[width=450px]{img/retrograde-anterograde-tracers} \end{center}
+
+\url{http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{diffusion-tensor-imaging-dti}{%
+\subsection{\texorpdfstring{\textbf{Diffusion Tensor Imaging
+(DTI)}}{Diffusion Tensor Imaging (DTI)}}\label{diffusion-tensor-imaging-dti}}
+
+\begin{itemize}
+\tightlist
+\item
+  Structural MRI technique
+\item
+  Diffusion tensor: measurement of spatial pattern of \(H_2O\) diffusion
+  in small volume
+\item
+  Uniform (``isotropic'') vs.~non-uniform (``anisotropic'')
+\item
+  Strong anisotropy suggests large \# of axons with similar orientations
+  (fiber tracts)
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=700px]{http://1.bp.blogspot.com/-YO3h0cRqTEc/UIRKEC_0N8I/AAAAAAAABQs/dEPzCbcyuCo/s1600/FA_tensor} \end{center}
+
+Here's an illustration of what a tensor looks like. You can see an
+isotropic and an anisotropic tensor.
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{connectome-as-matrix}{%
+\subsection{Connectome as matrix}\label{connectome-as-matrix}}
+
+\begin{center}\includegraphics[height=500px]{https://journals.plos.org/plosone/article/figure/image?size=large&download=&id=10.1371/journal.pone.0135247} \end{center}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\begin{center}\includegraphics[width=600px]{http://www.humanconnectome.org/storage/app/media/news/2015/09/CCA_mode} \end{center}
+
+\hypertarget{main-points}{%
+\subsection{￼Main points}\label{main-points}}
+
+\begin{itemize}
+\tightlist
+\item
+  Psychology is harder than physics
+\item
+  Understanding brain/behavior relations requires a diverse toolkit
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Structural vs.~functional methods
+  \item
+    Spatial and temporal resolution
+  \item
+    Invasive vs.~non-
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{your-turn}{%
+\subsection{Your turn}\label{your-turn}}
+
+\hypertarget{pick-two-papers-you-want-to-read-and-better-understand}{%
+\paragraph{1. Pick two papers you want to read and (better)
+understand}\label{pick-two-papers-you-want-to-read-and-better-understand}}
+
+\begin{itemize}
+\tightlist
+\item
+  Email me APA formatted citation (with DOIs)
+\item
+  Indicate three concepts/terms you are especially interested in
+  understanding
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{choose-a-behavior-or-mental-state-you-want-to-better-understand}{%
+\paragraph{2. Choose a behavior or mental state you want to (better)
+understand}\label{choose-a-behavior-or-mental-state-you-want-to-better-understand}}
+
+\begin{itemize}
+\tightlist
+\item
+  Take an information processing perspective and briefly sketch out (in
+  no more than a short paragraph) the main inputs, outputs, and
+  computations involved.
+\item
+  When thinking about \emph{outputs} make sure to distinguish between
+  \emph{behaviors} (e.g., movements, facial expressions, vocalizations)
+  and \emph{physiological states} (e.g., changes in heart rate, hormone
+  concentrations in the blood, etc.)
+\end{itemize}
+
+\hypertarget{references}{%
+\subsection*{References}\label{references}}
+\addcontentsline{toc}{subsection}{References}
+
+\hypertarget{refs}{}
+\leavevmode\hypertarget{ref-Calabrese2018-ve}{}%
+Calabrese, R. L. (2018). Inconvenient truth to principle of
+neuroscience. \emph{Trends in Neurosciences}, \emph{41}(8), 488--491.
+\url{https://doi.org/10.1016/j.tins.2018.05.006}
+
+\leavevmode\hypertarget{ref-Krakauer2017-xl}{}%
+Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., \&
+Poeppel, D. (2017). Neuroscience needs behavior: Correcting a
+reductionist bias. \emph{Neuron}, \emph{93}(3), 480--490.
+\url{https://doi.org/10.1016/j.neuron.2016.12.041}
+
+\leavevmode\hypertarget{ref-lichtman_technicolour_2008}{}%
+Lichtman, J. W., Livet, J., \& Sanes, J. R. (2008). A technicolour
+approach to the connectome. \emph{Nature Reviews Neuroscience},
+\emph{9}(6), 417--422. \url{https://doi.org/10.1038/nrn2391}
+
+\leavevmode\hypertarget{ref-Pomarol-Clotet2010-tq}{}%
+Pomarol-Clotet, E., Canales-Rodrı'guez, E. J., Salvador, R., Sarró, S.,
+Gomar, J. J., Vila, F., \ldots{} McKenna, P. J. (2010). Medial
+prefrontal cortex pathology in schizophrenia as revealed by convergent
+findings from multimodal imaging. \emph{Mol. Psychiatry}, \emph{15}(8),
+823--830. \url{https://doi.org/10.1038/mp.2009.146}
+
+\leavevmode\hypertarget{ref-sejnowski2014putting}{}%
+Sejnowski, T. J., Churchland, P. S., \& Movshon, J. A. (2014). Putting
+big data to good use in neuroscience. \emph{Nature Neuroscience},
+\emph{17}(11), 1440--1441. \url{https://doi.org/10.1038/nn.3839}
+
+
+\end{document}

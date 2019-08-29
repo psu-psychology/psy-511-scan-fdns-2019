@@ -20,7 +20,7 @@ title: "Schedule"
     - (recommended) Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480–490. Retrieved from http://dx.doi.org/10.1016/j.neuron.2016.12.041
     - <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Lecture notes | [HTML slides](lectures/511-2019-08-30-intro-methods.html)
     + More on [MRI physics](https://www.youtube.com/watch?v=Ok9ILIYzmaY)
 
 ---
