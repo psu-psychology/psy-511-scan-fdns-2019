@@ -52,7 +52,7 @@ title: "Schedule"
 ### Wed, Sep 11
 
 - Topics
-    + Neuroanatomy. Read BW[^1] 2:36-51.
+    + Neuroanatomy. Read BW 2:36-51.
 - Materials
    + Lecture notes | [HTML slides]() | [PDF]()
 
