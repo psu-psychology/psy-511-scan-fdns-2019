@@ -4,10 +4,6 @@ title: " "
 
 # Foundations of Cognitive and Affective Neuroscience
 
-```{r, out.height="200px", echo=FALSE}
-knitr::include_graphics("https://allkindsofminds.files.wordpress.com/2013/02/brain-surgery.jpg")
-```
-
 ## PSY 511.001, Fall 2019
 
 ## Instructor

@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Student Interests</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PSY 511</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="evaluation.html">Evaluation</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Student Interests</h1>
+
+</div>
+
+
+<div id="young-in-chung" class="section level2">
+<h2>Young In Chung</h2>
+<ol style="list-style-type: decimal">
+<li>Pick two papers you want to read and (better) understand</li>
+</ol>
+<p>Kroemer, N. B., &amp; Small, D. M. (2016). Fuel not fun: Reinterpreting attenuated brain responses to reward in obesity. <em>Physiology &amp; Behavior</em>, <em>162</em>, 37-45. doi: <a href="https://doi.org/10.1016/j.physbeh.2016.04.020" class="uri">https://doi.org/10.1016/j.physbeh.2016.04.020</a></p>
+<p>MacInnes, J. J., Dickerson, K. C., Chen, N. K., &amp; Adcock, R. A. (2016). Cognitive neurostimulation: learning to volitionally sustain ventral tegmental area activation. <em>Neuron</em>, <em>89</em>(6), 1331-1342. doi: <a href="https://doi.org/10.1016/j.neuron.2016.02.002" class="uri">https://doi.org/10.1016/j.neuron.2016.02.002</a></p>
+<ul>
+<li>How to interpret striatal responses: reward-related learning vs. reward sensitivity</li>
+<li>dopamine signaling; dopaminergic pathways; dopamine receptors</li>
+<li>hippocampal-based learning vs. striatal, feedback-based learning</li>
+</ul>
+</div>
+<div id="leslie-ho" class="section level2">
+<h2>Leslie Ho</h2>
+<p>Noble, K. G., Tottenham, N., &amp; Casey, B. J. (2005). Neuroscience perspectives on disparities in school readiness and cognitive achievement. <em>The Future of Children</em>, 71-89. <a href="doi:https://doi.org/10.1353/foc.2005.0006" class="uri">doi:https://doi.org/10.1353/foc.2005.0006</a></p>
+<p>Blair, C. (2002). School readiness: Integrating cognition and emotion in a neurobiological conceptualization of children’s functioning at school entry. <em>American Psychologist</em>, <em>57</em>(2), 111. doi: 10.1037//0003-066x.57.2.111</p>
+<ul>
+<li>Neurobiological development over time, especially in early childhood</li>
+<li>How environmental context impacts neurobiological development</li>
+<li>How physiological regulation, attention regulation, and brain development interact to produce different kinds of behaviors</li>
+</ul>
+</div>
+<div id="joseph-kilcullen" class="section level2">
+<h2>Joseph Kilcullen</h2>
+<p>Arslan, S., Ktena, S.I., Makropoulos, A., Robinson, E.C., Rueckert, D., &amp; Parisot, S. (2018). Human brain mapping; A systematic comparison of parcellation methods for the human cerebral cortex. <em>NeuroImage</em>, <em>170</em>, 5-30. <a href="https://doi.org/10.1016/j.neuroimage.2017.04.014" class="uri">https://doi.org/10.1016/j.neuroimage.2017.04.014</a></p>
+<p>Narayana, S., Charles, C., Collins, K., Tsao, J.W., Stanfill, A.G., &amp; Baughman, B. (2019). Neuroimaging and neuropsychological studies in sports-related concussions in adolescents: Current state and future directions. <em>Frontiers in Neurology</em>, <em>10</em>, 1-10. doi: 10.3389/fneur.2019.00538</p>
+<ul>
+<li>Mapping the neural network of the human brain</li>
+<li>Limitations and future directions for neuroimaging</li>
+<li>Why nerve damage (i.e., paralysis) is irreparable</li>
+</ul>
+</div>
+<div id="jacob-martin" class="section level2">
+<h2>Jacob Martin</h2>
+<p>Zaehringer, J., Ende, G., Santangelo, P. S., Kleindienst, N., Ruf, M., Bertsch, K., … Paret, C. (2019, June 26). Improved emotion regulation after neurofeedback. A single-arm trial in patients with borderline personality disorder. <a href="https://doi.org/10.31234/osf.io/wemfq" class="uri">https://doi.org/10.31234/osf.io/wemfq</a></p>
+<ul>
+<li>neurometric analysis</li>
+<li>coherence</li>
+<li>asymmetry</li>
+</ul>
+<p>Surmeli, T., &amp; Ertem, A. (2009). QEEG guided neurofeedback therapy in personality disorders: 13 case studies. <em>Clinical EEG and Neuroscience</em>, <em>40</em>(1), 5-10. <a href="https://doi.org/10.1177/155005940904000107" class="uri">https://doi.org/10.1177/155005940904000107</a></p>
+<ul>
+<li>BOLD signal/amplitude</li>
+<li>AUC</li>
+<li>down-regulate</li>
+</ul>
+</div>
+<div id="chelsea-mayo" class="section level2">
+<h2>Chelsea Mayo</h2>
+<p>Bauer, C. C. C., Caballero, C., Scherer, E., West, M. R., Mrazek, M. D., Phillips, D. T., . . . Gabrieli, J. D. E. (2019). Mindfulness training reduces stress and amygdala reactivity to fearful faces in middle-school children. <em>Behavioral Neuroscience</em>, doi: 10.1037/bne0000337</p>
+<p>Hoof, M. J., Riem, M., Garrett, A., Pannekoek, N., Wee, N. D., Ijzendoorn, M., &amp; Vermeiren, R. (2019). Unresolved‐Disorganized Attachment Associated With Smaller Hippocampus and Increased Functional Connectivity Beyond Psychopathology. <em>Journal of Traumatic Stress</em>. doi: 10.1002/jts.22432</p>
+<ul>
+<li>ventromedial prefrontal cortex (VMPFC) and the amygdala-VMPFC circuit</li>
+<li>gray matter volume (GMV)/hippocampal volume</li>
+<li>resting state functional connectivity (RSFC)</li>
+</ul>
+</div>
+<div id="hannah-merseal" class="section level2">
+<h2>Hannah Merseal</h2>
+<p>Donnay, G. F., Rankin, S. K., Lopez-Gonzalez, M., Jiradejvong, P., &amp; Limb, C. J. (2014). Neural Substrates of Interactive Musical Improvisation: An fMRI Study of ‘Trading Fours’ in Jazz. <em>PLoS ONE</em>, <em>9</em>(2), 1–10. doi: 10.1371/journal.pone.0088665</p>
+<ul>
+<li>Scanning parameters and functional analysis procedures.</li>
+</ul>
+<p>Berkowitz, A. L., &amp; Ansari, D. (2008). Generation of novel motor sequences: The neural correlates of musical improvisation. <em>NeuroImage</em>, <em>41</em>(2), 535–543. doi: 10.1016/j.neuroimage.2008.02.028</p>
+<ul>
+<li>Data cleaning best practices</li>
+</ul>
+</div>
+<div id="haruka-notsu" class="section level2">
+<h2>Haruka Notsu</h2>
+<p>Boeker, H., &amp; Northoff, G. (2018). Psychotherapy Research in the Context of Neuroscience. In Neuropsychodynamic Psychiatry (pp. 531-562). Springer, Cham. <a href="https://doi.org/10.1007/978-3-319-75112-2_27" class="uri">https://doi.org/10.1007/978-3-319-75112-2_27</a></p>
+<p>Salone, A., Di Giacinto, A., Lai, C., De Berardis, D., Iasevoli, F., Fornaro, M., … &amp; Giannantonio, M. D. (2016). The interface between neuroscience and neuro-psychoanalysis: focus on brain connectivity. <em>Frontiers in Human Neuroscience</em>, <em>10</em>, 20. <a href="https://doi.org/10.3389/fnhum.2016.00020" class="uri">https://doi.org/10.3389/fnhum.2016.00020</a></p>
+<ul>
+<li>VTA- NAcc- VP-amygdala</li>
+<li>Superior Temporal Sulcus</li>
+<li>ventral anterior cingulate (valence specific)</li>
+</ul>
+</div>
+<div id="alexandra-roule" class="section level2">
+<h2>Alexandra Roule</h2>
+<p>Van Den Heuvel, M. P., &amp; Pol, H. E. H. (2010). Exploring the brain network: A review on resting-state fMRI functional connectivity. <em>European Neuropsychopharmacology</em>, <em>20</em>(8), 519-534. doi: 10.1016/j.euroneuro.2010.03.008</p>
+<p>Li, Y., Grabell, A. S., Wakschlag, L. S., Huppert, T. J., &amp; Perlman, S. B. (2017). The neural substrates of cognitive flexibility are related to individual differences in preschool irritability: A fNIRS investigation. <em>Developmental Cognitive Neuroscience</em>, <em>25</em>, 138-144. doi: 10.1016/j.dcn.2016.07.002</p>
+<ul>
+<li>functional connectivity</li>
+<li>functional Near Infrared Spectroscopy (fNIRS)</li>
+<li>resting-state (versus task-based) paradigms.</li>
+</ul>
+</div>
+<div id="tawni-stoop" class="section level2">
+<h2>Tawni Stoop</h2>
+<p>Pape, L. E., Cohn, M. D., Caan, M. W. A., van Wingen, G., van den Brink, W., Veltman, D. J., &amp; Popma, A. (2015). Psychopathic traits in adolescents are associated with higher structural connectivity. <em>Psychiatry Research: Neuroimaging</em>, <em>233</em>(3), 474-480. <a href="https://doi.org/10.1016/j.pscychresns.2015.07.023" class="uri">https://doi.org/10.1016/j.pscychresns.2015.07.023</a></p>
+<ul>
+<li>Diffusion Tensor Imaging (DTI), Fractional anisotropy (FA), radial diffusivity (RD), and axial diffusivity (AD).</li>
+</ul>
+<p>Whittle, S., Liu, K., Bastin, C., Harrison, B. J., &amp; Davey, C. G. (2016). Neurodevelopmental correlates of proneness to guilt and shame in adolescence and early adulthood. <em>Developmental Cognitive Neuroscience</em>, <em>19</em>, 51-57. <a href="https://doi.org/10.1016/j.dcn.2016.02.001" class="uri">https://doi.org/10.1016/j.dcn.2016.02.001</a></p>
+<ul>
+<li>Region of Interest (ROI) analyses</li>
+</ul>
+</div>
+<div id="tyler-warner" class="section level2">
+<h2>Tyler Warner</h2>
+<p>Oberauer, K. (2013). The focus of attention in working memory—from metaphors to mechanisms. <em>Frontiers in Human Neuroscience</em>, <em>7</em>, 673. doi: 10.3389/fnhum.2013.00673.</p>
+<p>Cavanagh, J. F. &amp; Shackman, A. J. (2015). <em>Frontal midline theta reflects anxiety and cognitive control: Meta-analytic evidence</em>. Journal of Physiology-Paris, <em>109</em>, 3-15. doi: 10.1016/j.jphysparis.2014.04.003.</p>
+<ul>
+<li>Cognitive control (or a more mechanistic understanding of other cognitive processes that are often homunculized)</li>
+<li>Networks, especially the default mode network</li>
+<li>ERPs—what are they, how do analyze them, and what can/can’t we conclude from them.</li>
+</ul>
+</div>
+
+<p>Copyright &copy; 2019 Rick O. Gilmore</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

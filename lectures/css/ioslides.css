@@ -10,3 +10,11 @@ h4 {
 p, li, td {
   font-size: 35px;
 }
+
+#refs {
+  font-size: 0.25em;
+}
+
+.references {
+   font-size: 0.25em;
+}

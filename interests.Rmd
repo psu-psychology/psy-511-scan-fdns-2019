@@ -1,0 +1,109 @@
+---
+title: "Student Interests"
+---
+
+## Young In Chung
+
+1. Pick two papers you want to read and (better) understand
+
+Kroemer, N. B., & Small, D. M. (2016). Fuel not fun: Reinterpreting attenuated brain responses to reward in obesity. *Physiology & Behavior*, *162*, 37-45. doi: https://doi.org/10.1016/j.physbeh.2016.04.020
+
+MacInnes, J. J., Dickerson, K. C., Chen, N. K., & Adcock, R. A. (2016). Cognitive neurostimulation: learning to volitionally sustain ventral tegmental area activation. *Neuron*, *89*(6), 1331-1342. doi: https://doi.org/10.1016/j.neuron.2016.02.002
+
+- How to interpret striatal responses: reward-related learning vs. reward sensitivity
+- dopamine signaling; dopaminergic pathways; dopamine receptors 
+- hippocampal-based learning vs. striatal, feedback-based learning
+
+## Leslie Ho
+
+Noble, K. G., Tottenham, N., & Casey, B. J. (2005). Neuroscience perspectives on disparities in school readiness and cognitive achievement. *The Future of Children*, 71-89. doi:https://doi.org/10.1353/foc.2005.0006
+
+Blair, C. (2002). School readiness: Integrating cognition and emotion in a neurobiological conceptualization of children's functioning at school entry. *American Psychologist*, *57*(2), 111. doi: 10.1037//0003-066x.57.2.111
+
+- Neurobiological development over time, especially in early childhood 
+- How environmental context impacts neurobiological development 
+- How physiological regulation, attention regulation, and brain development interact to produce different kinds of behaviors 
+
+## Joseph Kilcullen
+
+Arslan, S., Ktena, S.I., Makropoulos, A., Robinson, E.C., Rueckert, D., & Parisot, S. (2018). Human brain mapping; A systematic comparison of parcellation methods for the human cerebral cortex. *NeuroImage*, *170*, 5-30. https://doi.org/10.1016/j.neuroimage.2017.04.014
+
+Narayana, S., Charles, C., Collins, K., Tsao, J.W., Stanfill, A.G., & Baughman, B. (2019). Neuroimaging and neuropsychological studies in sports-related concussions in adolescents: Current state and future directions. *Frontiers in Neurology*, *10*, 1-10. doi: 10.3389/fneur.2019.00538
+
+- Mapping the neural network of the human brain
+- Limitations and future directions for neuroimaging
+- Why nerve damage (i.e., paralysis) is irreparable
+
+## Jacob Martin
+
+Zaehringer, J., Ende, G., Santangelo, P. S., Kleindienst, N., Ruf, M., Bertsch, K., … Paret, C. (2019, June 26). Improved emotion regulation after neurofeedback. A single-arm trial in patients with borderline personality disorder. https://doi.org/10.31234/osf.io/wemfq
+
+- neurometric analysis
+- coherence
+- asymmetry
+
+Surmeli, T., & Ertem, A. (2009). QEEG guided neurofeedback therapy in personality disorders: 13 case studies. *Clinical EEG and Neuroscience*, *40*(1), 5-10. https://doi.org/10.1177/155005940904000107
+
+- BOLD signal/amplitude
+- AUC
+- down-regulate
+
+## Chelsea Mayo
+
+Bauer, C. C. C., Caballero, C., Scherer, E., West, M. R., Mrazek, M. D., Phillips, D. T., . . . Gabrieli, J. D. E. (2019). Mindfulness training reduces stress and amygdala reactivity to fearful faces in middle-school children. *Behavioral Neuroscience*, doi: 10.1037/bne0000337
+
+Hoof, M. J., Riem, M., Garrett, A., Pannekoek, N., Wee, N. D., Ijzendoorn, M., & Vermeiren, R. (2019). Unresolved‐Disorganized Attachment Associated With Smaller Hippocampus and Increased Functional Connectivity Beyond Psychopathology. *Journal of Traumatic Stress*. doi: 10.1002/jts.22432
+
+- ventromedial prefrontal cortex (VMPFC) and the amygdala-VMPFC circuit
+-	gray matter volume (GMV)/hippocampal volume
+-	resting state functional connectivity (RSFC)
+
+## Hannah Merseal
+
+Donnay, G. F., Rankin, S. K., Lopez-Gonzalez, M., Jiradejvong, P., & Limb, C. J. (2014). Neural Substrates of Interactive Musical Improvisation: An fMRI Study of ‘Trading Fours’ in Jazz. *PLoS ONE*, *9*(2), 1–10. doi: 10.1371/journal.pone.0088665 
+
+- Scanning parameters and functional analysis procedures.
+
+Berkowitz, A. L., & Ansari, D. (2008). Generation of novel motor sequences: The neural correlates of musical improvisation. *NeuroImage*, *41*(2), 535–543. doi: 10.1016/j.neuroimage.2008.02.028
+
+- Data cleaning best practices
+
+## Haruka Notsu
+
+Boeker, H., & Northoff, G. (2018). Psychotherapy Research in the Context of Neuroscience. In Neuropsychodynamic Psychiatry (pp. 531-562). Springer, Cham. https://doi.org/10.1007/978-3-319-75112-2_27
+
+Salone, A., Di Giacinto, A., Lai, C., De Berardis, D., Iasevoli, F., Fornaro, M., ... & Giannantonio, M. D. (2016). The interface between neuroscience and neuro-psychoanalysis: focus on brain connectivity. *Frontiers in Human Neuroscience*, *10*, 20. https://doi.org/10.3389/fnhum.2016.00020
+
+- VTA- NAcc- VP-amygdala 
+- Superior Temporal Sulcus
+- ventral anterior cingulate (valence specific)
+
+## Alexandra Roule
+
+Van Den Heuvel, M. P., & Pol, H. E. H. (2010). Exploring the brain network: A review on resting-state fMRI functional connectivity. *European Neuropsychopharmacology*, *20*(8), 519-534. doi: 10.1016/j.euroneuro.2010.03.008
+
+Li, Y., Grabell, A. S., Wakschlag, L. S., Huppert, T. J., & Perlman, S. B. (2017). The neural substrates of cognitive flexibility are related to individual differences in preschool irritability: A fNIRS investigation. *Developmental Cognitive Neuroscience*, *25*, 138-144. doi: 10.1016/j.dcn.2016.07.002
+
+- functional connectivity
+- functional Near Infrared Spectroscopy (fNIRS)
+- resting-state (versus task-based) paradigms. 
+
+## Tawni Stoop
+
+Pape, L. E., Cohn, M. D., Caan, M. W. A., van Wingen, G., van den Brink, W., Veltman, D. J., & Popma, A. (2015). Psychopathic traits in adolescents are associated with higher structural connectivity. *Psychiatry Research: Neuroimaging*, *233*(3), 474-480. https://doi.org/10.1016/j.pscychresns.2015.07.023
+
+- Diffusion Tensor Imaging (DTI), Fractional anisotropy (FA), radial diffusivity (RD), and axial diffusivity (AD).
+
+Whittle, S., Liu, K., Bastin, C., Harrison, B. J., & Davey, C. G. (2016). Neurodevelopmental correlates of proneness to guilt and shame in adolescence and early adulthood. *Developmental Cognitive Neuroscience*, *19*, 51-57. https://doi.org/10.1016/j.dcn.2016.02.001
+
+- Region of Interest (ROI) analyses
+
+## Tyler Warner
+
+Oberauer, K. (2013). The focus of attention in working memory—from metaphors to mechanisms. *Frontiers in Human Neuroscience*, *7*, 673. doi: 10.3389/fnhum.2013.00673.
+
+Cavanagh, J. F. & Shackman, A. J. (2015). *Frontal midline theta reflects anxiety and cognitive control: Meta-analytic evidence*. Journal of Physiology-Paris, *109*, 3-15. doi: 10.1016/j.jphysparis.2014.04.003.
+
+- Cognitive control (or a more mechanistic understanding of other cognitive processes that are often homunculized)
+- Networks, especially the default mode network
+- ERPs—what are they, how do analyze them, and what can/can’t we conclude from them.

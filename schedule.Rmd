@@ -32,7 +32,7 @@ title: "Schedule"
 - Topics
     + Methods in neuroscience, Read BW 2:51-57, 3:88-92.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Lecture notes | [HTML slides](lectures/511-2019-09-04-methods.html)
     + <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
     + (Optional) Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.02.004>
     + (Optional) Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. *Nature*, *412*(6843), 150–157. Retrieved January 20, 2016, from <http://www.nature.com/nature/journal/v412/n6843/abs/412150a0.html>
