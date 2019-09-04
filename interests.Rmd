@@ -2,9 +2,21 @@
 title: "Student Interests"
 ---
 
-## Young In Chung
+## So Yeon Chun
 
-1. Pick two papers you want to read and (better) understand
+Zaki, J., & Ochsner, K. N. (2012). The neuroscience of empathy: Progress, pitfalls and promise. *Nature Neuroscience*, *15*(5), 675. DOI: https://doi.org/10.1038/nn.3085
+
+- mentalizing
+- neural resonance
+- anterior insula)
+
+Gabrieli, J. D. (2009). Dyslexia: a new synergy between education and cognitive neuroscience. *Science*, *325*(5938), 280-283. DOI: 10.1126/science.1171999
+
+- dyslexia
+- diffusion tensor imaging (DTI)
+- magnocelluar pathway
+
+## Young In Chung
 
 Kroemer, N. B., & Small, D. M. (2016). Fuel not fun: Reinterpreting attenuated brain responses to reward in obesity. *Physiology & Behavior*, *162*, 37-45. doi: https://doi.org/10.1016/j.physbeh.2016.04.020
 
@@ -33,6 +45,26 @@ Narayana, S., Charles, C., Collins, K., Tsao, J.W., Stanfill, A.G., & Baughman, 
 - Mapping the neural network of the human brain
 - Limitations and future directions for neuroimaging
 - Why nerve damage (i.e., paralysis) is irreparable
+
+## Daisy Lei
+
+Grey, S., Schubel, L. C., McQueen, J. M., & Van Hell, J. G. (2018). Processing foreign-accented speech in a second language: Evidence from ERPs during sentence comprehension in bilinguals. *Bilingualism: Language and Cognition*, 1-18. https://doi.org/10.1017/S1366728918000937
+
+Holt, R., Kung, C., & Demuth, K. (2018). Listener characteristics modulate the semantic processing of native vs. foreign-accented speech. *PloS One*, *13*(12), e0207452. https://doi.org/10.1371/journal.pone.0207452
+
+-	Novel word learning; 
+-	Sentence comprehension
+-	L1/L2 language processing
+
+## Jose Maldonado
+
+Yzer, M. (2012). The integrative model of behavioral prediction as a tool for designing health messages. *Health communication message design: Theory and practice*, 21-40.
+
+- intention as a construct
+
+Gu, S., Wang, F., Cao, C., Wu, E., Tang, Y.-Y., & Huang, J. H. (2019). An Integrative Way for Studying Neural Basis of Basic Emotions With fMRI. *Frontiers in Neuroscience*, 13. doi:10.3389/fnins.2019.00628
+
+- "basic" emotions and their neural and psychological basis
 
 ## Jacob Martin
 

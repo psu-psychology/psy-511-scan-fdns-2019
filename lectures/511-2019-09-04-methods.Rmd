@@ -421,15 +421,6 @@ knitr::include_graphics("https://neurofeedbackalliance.org/wp-content/uploads/20
 <!-- <img src="https://neurofeedbackalliance.org/wp-content/uploads/2016/10/Dipole.jpg" -->
 </div>
 
----
-
-<div class="centered">
-```{r, out.width="700px"}
-knitr::include_graphics("https://www.ijbem.org/volume4/number2/nfigs2/image054.jpg")
-```
-<!-- <img src="https://www.ijbem.org/volume4/number2/nfigs2/image054.jpg"> -->
-</div>
-
 ## Collecting EEG {.flexbox .vcenter .smaller}
 
 <div class="centered">
