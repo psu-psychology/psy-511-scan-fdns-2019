@@ -381,6 +381,24 @@ As Szucs and Ioannides have shown based on an analysis of more than 10,000 paper
     - [OpenNeuro.org](https://openneuro.org), [Human Connectome Project](https://www.humanconnectomeproject.org/), [Databrary.or](https://databrary.org), etc.
     - Increases sample size, improves detection of small effects
 
+## Functional Near-infrared Spectroscopy (fNIRS)
+
+- Near infrared light penetrates scalp and skull, refracted by brain tissue
+- Returned signal altered by blood $O_2$ levels
+- Time course (temporal resolution) ~ BOLD fMRI; spatial resolution low
+
+---
+
+```{r, out.width="700px", fig.cap="Source: https://cibsr.stanford.edu/NIRS_Lab.html"}
+knitr::include_graphics("https://cibsr.stanford.edu/NIRS_Lab/_jcr_content/main/panel_builder/panel_0/image.img.full.high.png")
+```
+
+---
+
+```{r, out.width="600px", fig.cap="Source: https://nirx.net"}
+knitr::include_graphics("https://images.squarespace-cdn.com/content/v1/54e7b27de4b0b080e1552803/1557982253763-E0WULBZB7PQBS124L7JG/ke17ZwdGBToddI8pDm48kNNnzL9xRi0AnU-1PeZqRnNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIN3GI4mGL6orgGNgjoMp7j5NF-bk__8b8xi11mt0OJKgKMshLAGzx4R3EDFOm1kBS/fNIRS-EEG+closeup+side+-+large.jpg?format=500w")
+```
+
 ## **Electroencephalography (EEG)**
 
 - How does it work?
