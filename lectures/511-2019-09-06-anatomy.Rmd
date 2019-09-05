@@ -1,0 +1,493 @@
+---
+title: "511-2019-09-06-anatomy"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+css: css/ioslides.css
+bibliography: bib/bibliography.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+  html_document:
+    keep_md: true
+  pdf_document:
+    toc: true
+    toc_depth: 1
+    keep_tex: true
+    latex_engine: lualatex
+    fig_width: 7
+    fig_height: 6
+---
+
+```{r set-up, echo=FALSE, error=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+path2figs = 'img'
+knitr::opts_chunk$set(fig.path=path2figs,
+                      echo = FALSE, warning = FALSE, message = FALSE,
+                      fig.align = "center")
+suppressMessages(library(tidyverse)) 
+```
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snO68aJTOpM" frameborder="0" allowfullscreen></iframe>
+
+<https://www.youtube.com/snO68aJTOpM>
+<!-- Pinky and the Brain video -->
+
+## Announcements
+
+## Today's Topics
+
+- Wrap-up on [functional methods](https://psu-psychology.github.io/psy-511-scan-fdns-2019/lectures/511-2019-09-04-methods.html#50)
+- Gross neuroanatomy
+
+# Gross neuroanatomy
+
+---
+
+<div class="centered">
+<img src="https://www.pastmedicalhistory.co.uk/wp-content/uploads/2018/08/A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg" height=550px/>
+</br>
+<smaller>
+<https://www.pastmedicalhistory.co.uk/the-nervous-system-of-harriet-cole/>
+</smaller>
+</div>
+
+## Brain anatomy through dance
+
+<div class="centered">
+<audio controls loop="loop">
+  <source src="snd/brain_boxing.m4a" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+</div>
+
+## Finding our way around
+
+### Anterior/Posterior
+### Medial/Lateral
+### Superior/Inferior
+### Dorsal/Ventral
+### Rostral/Caudal
+
+## Directional image {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png" height="400px">
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png>
+</div>
+
+## Bipeds vs. quadripeds {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg" height="500px">
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg>
+</div>
+
+## No matter how you slice it
+
+### Horizontal/Axial
+### Coronal/Transverse/Frontal
+### Sagittal (from the side)
+
+## Slice diagram {.smaller}
+
+<div class="centered">
+<img src="http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif">
+
+<http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif>
+</div>
+
+## Supporting structures
+
+### Meninges
+### Ventricular system
+### Blood supply
+
+## Meninges
+
+### Dura mater ('tough mother')
+### Arachnoid membrane
+### Subarachnoid space
+### Pia mater ('gentle mother')
+
+## Meninges {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png" width="600px">
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png>
+</div>
+
+## Ventricular system {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png" width="800px">
+
+<https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png>
+</div>
+
+## Ventricles
+
+### Lateral (1st & 2nd)
+### 3rd
+### Cerebral aqueduct 
+### 4th
+
+### Cerebrospinal fluid (CSF)
+
+- Clears metabolites during sleep [@xie2013sleep].
+
+## Blood Supply {.smaller}
+
+<div class="centered">
+<img src="http://surgery.med.miami.edu/images/Circulation_of_brain.gif" height="500px">
+
+<http://surgery.med.miami.edu/images/Circulation_of_brain.gif>
+</div>
+
+## Blood Supply
+
+### Arteries
+- Circle of Willis
+
+### Blood/brain barrier
+- Cells forming blood vessel walls tightly packed
+- Active transport of molecules typically required
+
+## Blood/brain barrier {.smaller}
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg">
+
+<http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg>
+</div>
+
+## Area Postrema {.smaller}
+
+- Brainstem, blood-brain barrier thin
+
+<div class="centered">
+<img src="http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg" height="400px">
+
+<http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg>
+</div>
+
+## Organization of the Nervous System
+
+### Central Nervous System (CNS) 
+
+- Brain
+- Spinal Cord
+- Everything encased in bone
+
+### Peripheral Nervous System (PNS)
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq8EVQUc9a4" frameborder="0" allowfullscreen></iframe>
+
+## [Hindbrain](https://en.wikipedia.org/wiki/File:EmbryonicBrain.svg)
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1200px-EmbryonicBrain.svg.png" height=500px>
+</div>
+
+## [Hindbrain](https://en.wikipedia.org/wiki/File:EmbryonicBrain.svg)
+
+- Structures adjacent to 4th ventricle
+    - Medulla oblongata
+    - Cerebellum
+    - Pons
+
+---
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png">
+</div>
+
+---
+
+<div class="centered">
+<img src="http://webspace.ship.edu/cgboer/medial-labelled.gif" height=550px>
+</div>
+
+## [Medulla oblongata](https://en.wikipedia.org/wiki/Medulla_oblongata) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/1311_Brain_Stem.jpg" height="500px">
+
+<https://upload.wikimedia.org/wikipedia/commons/6/69/1311_Brain_Stem.jpg>
+</div>
+
+## Medulla
+
+- Cardiovascular regulation
+- Muscle tone
+- Fibers of passage
+    - Ascending fibers (from body), a.k.a. afferents
+    - Descending fibers (**e**xiting brain), a.k.a., **e**fferents
+
+## [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
+
+- “Little brain”
+- Dorsal to pons
+- Movement coordination, simple learning
+
+----
+
+<a href="https://en.wikipedia.org/wiki/Cerebellum">
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Cerebellum_animation_small.gif" height=400px>
+</a>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6szEeD0n-oU" frameborder="0" allowfullscreen></iframe>
+
+## [Pons](https://en.wikipedia.org/wiki/Pons)
+
+- Bulge on brain stem
+- Neuromodulatory nuclei
+- Relay to cerebellum
+
+## Midbrain {.smaller}
+
+<div class="centered">
+<img src="http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg">
+
+<http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg>
+</div>
+
+## Midbrain components
+
+### Tectum
+### Tegmentum
+
+## Tectum {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Gray719.png">
+
+<https://upload.wikimedia.org/wikipedia/commons/0/0b/Gray719.png>
+</div>
+
+
+---
+
+<div class="centered">
+<img src="http://www.radioanatomie.com/30_irm_sagittale_mediane/99_images/2_Tectum.jpg" height=550px>
+</div>
+
+## [Tectum](https://en.wikipedia.org/wiki/Tectum)
+
+- "Roof" of the midbrain
+- Superior and inferior colliculus
+- Reflexive orienting of eyes, head, ears
+
+## [Tegmentum](https://en.wikipedia.org/wiki/Tegmentum)
+
+- "Floor" of the midbrain
+- Species-typical movement sequences
+- Neuromodulatory nuclei
+    + Norepinephrine (NE)
+    + Serotonin (5-HT)
+    + Dopamine (DA) -- from *ventral tegmental area (VTA)*
+
+---
+
+<div class="centered">
+<img src="https://vignette1.wikia.nocookie.net/addictionpathology/images/8/8b/The_reward_pathway_2.gif/revision/latest?cb=20091210025108" height=500px>
+</div>
+
+## Forebrain {.smaller}
+
+<div class="centered">
+<img src="http://classconnection.s3.amazonaws.com/252/flashcards/1048252/png/forebrain1328987872235.png" height = "500px">
+
+<http://classconnection.s3.amazonaws.com/252/flashcards/1048252/png/forebrain1328987872235.png>
+</div>
+
+## Forebrain Components
+
+### Diencephalon
+### Telencephalon
+
+## [Diencephalon](https://en.wikipedia.org/wiki/Diencephalon) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg" height="400px">
+
+<https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg>
+</div>
+
+## Diencephalon Components
+
+- Thalamus
+- Hypothalamus
+
+---
+
+<div class="centered">
+<img src="http://webspace.ship.edu/cgboer/medial-labelled.gif" height=550px>
+</div>
+
+## [Thalamus](https://en.wikipedia.org/wiki/Thalamus) {.smaller}
+
+<div class="centered">
+<img src="http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231" height=500px>
+
+<http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231>
+</div>
+
+## Thalamus functions
+
+- Input to cortex
+- Functionally distinct *nuclei* (collection of neurons)
+    - Lateral geniculate nucleus (LGN), vision
+    - Medial geniculate nucleus (MGN), audition
+    - Pulvinar, attention?
+
+## [Hypothalamus](https://en.wikipedia.org/wiki/Hypothalamus)
+
+- Five Fs: fighting, fleeing/freezing, feeding, and reproduction
+- Controls pituitary gland (“master” gland)
+    + Anterior pituitary (indirect release of hormones)
+        * e.g., Corticotropin Releasing Hormone (CRH) -> release of cortisol from Adrenal Cortex
+    + Posterior pituitary (direct release of hormones)
+        * Oxytocin
+	      * Vasopressin (aka, Arginine Vasopressin -- AVP; Anti-diuretic Hormone -- ADH) 
+
+## Hypothalamus {.smaller}
+
+<div class="centered">
+<img src="http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg" width="700px">
+
+<http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://i.stack.imgur.com/IeFkI.jpg" height=550px>
+</div>
+
+## Telencephalon
+
+- Basal ganglia
+- Hippocampus, amygdala
+- Cerebral cortex
+
+## [Basal Ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
+
+- Skill and habit learning
+- Linked to Tourette syndrome, obsessive-compulsive disorder (OCD), addiction, movement disorders
+- Example: Parkinson's Disease
+
+## Basal ganglia {.smaller}
+
+<div class="centered">
+<img src="http://webspace.ship.edu/cgboer/basalgangliagray.gif" height="500px">
+
+<http://webspace.ship.edu/cgboer/basalgangliagray.gif>
+</div>
+
+## ￼Basal ganglia
+
+- Striatum
+	- Caudate nucleus 
+	- Putamen
+- Globus pallidus
+- Subthalamic nucleus 
+- Substantia nigra (tegmentum)
+
+---
+
+<div class="centered">
+<img src="https://fhs122anatomyelab.files.wordpress.com/2014/05/basal-ganglia.jpg?w=524&h=393" height=550px>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7z-373pwuI" frameborder="0" allowfullscreen></iframe>
+
+## Hippocampus
+
+- Immediately lateral to lateral ventricles
+- Memories of specific facts or events
+- Fornix projects to hypothalamus
+- Mammillary bodies
+
+## Hippocampus {.smaller}
+
+<div class="centered">
+<img src="http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg" height="400px">
+
+<http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg>
+</div>
+
+---
+
+<div class="centered">
+<img src="http://www.neuro24.de/hip0006.jpg" height=550px>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wjvDDH-uJ0s" frameborder="0" allowfullscreen></iframe>
+
+## Amygdala (“almond”)
+
+- Physiological state, behavioral readiness, affect
+- NOT the fear center! [@ledoux_amygdala_2015].
+
+## Amygdala {.smaller}
+
+<div class="centered">
+<img src="http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg" height="500px">
+
+<http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg>
+</div>
+
+---
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/31697/fpsyg-03-00319-HTML/image_m/fpsyg-03-00319-g002.jpg" height=550px>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB9rs4tEAaE" frameborder="0" allowfullscreen></iframe>
+
+## Next time
+
+- The cerebral cortex
+- The peripheral nervous system
+
+## References {.smaller}
