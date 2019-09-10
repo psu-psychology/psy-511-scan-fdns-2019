@@ -298,7 +298,6 @@ suppressMessages(library(tidyverse))
 <https://upload.wikimedia.org/wikipedia/commons/0/0b/Gray719.png>
 </div>
 
-
 ---
 
 <div class="centered">

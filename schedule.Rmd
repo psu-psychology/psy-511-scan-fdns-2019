@@ -54,14 +54,14 @@ title: "Schedule"
 - Topics
     + Neuroanatomy. Read BW 2:36-51.
 - Materials
-   + Lecture notes | [HTML slides]() | [PDF]()
+   + Lecture notes | [HTML slides](lectures/511-2019-09-11-II-anatomy.html)
 
 ### Fri, Sep 13
 
 - Topics
     + Wrap-up on neuroanatomy
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Lecture notes | [HTML slides]()
 
 ---
 

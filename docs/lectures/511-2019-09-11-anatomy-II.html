@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>511-2019-09-11-anatomy-II</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="generator" content="pandoc" />
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <base target="_blank">
+
+  <script type="text/javascript">
+    var SLIDE_CONFIG = {
+      // Slide settings
+      settings: {
+                title: '511-2019-09-11-anatomy-II',
+                        useBuilds: true,
+        usePrettify: true,
+        enableSlideAreas: true,
+        enableTouch: true,
+                      },
+
+      // Author information
+      presenters: [
+            {
+        name:  'Rick Gilmore' ,
+        company: '',
+        gplus: '',
+        twitter: '',
+        www: '',
+        github: ''
+      },
+            ]
+    };
+  </script>
+
+  <link href="libs/ioslides-13.5.1/fonts/fonts.css" rel="stylesheet" />
+  <link href="libs/ioslides-13.5.1/theme/css/default.css" rel="stylesheet" />
+  <link href="libs/ioslides-13.5.1/theme/css/phone.css" rel="stylesheet" />
+  <script src="libs/ioslides-13.5.1/js/modernizr.custom.45394.js"></script>
+  <script src="libs/ioslides-13.5.1/js/prettify/prettify.js"></script>
+  <script src="libs/ioslides-13.5.1/js/prettify/lang-r.js"></script>
+  <script src="libs/ioslides-13.5.1/js/prettify/lang-yaml.js"></script>
+  <script src="libs/ioslides-13.5.1/js/hammer.js"></script>
+  <script src="libs/ioslides-13.5.1/js/slide-controller.js"></script>
+  <script src="libs/ioslides-13.5.1/js/slide-deck.js"></script>
+
+  <style type="text/css">
+
+    b, strong {
+      font-weight: bold;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    summary {
+      display: list-item;
+    }
+
+    slides > slide {
+      -webkit-transition: all 0.4s ease-in-out;
+      -moz-transition: all 0.4s ease-in-out;
+      -o-transition: all 0.4s ease-in-out;
+      transition: all 0.4s ease-in-out;
+    }
+
+    .auto-fadein {
+      -webkit-transition: opacity 0.6s ease-in;
+      -webkit-transition-delay: 0.4s;
+      -moz-transition: opacity 0.6s ease-in 0.4s;
+      -o-transition: opacity 0.6s ease-in 0.4s;
+      transition: opacity 0.6s ease-in 0.4s;
+      opacity: 0;
+    }
+/* https://github.com/ropensci/plotly/pull/524#issuecomment-468142578 */
+slide:not(.current) .plotly.html-widget{
+  display: block;
+}
+
+  </style>
+
+  <link rel="stylesheet" href="css/ioslides.css" type="text/css" />
+
+</head>
+
+<body style="opacity: 0">
+
+<slides class="layout-widescreen">
+
+  <slide class="title-slide segue nobackground">
+        <!-- The content of this hgroup is replaced programmatically through the slide_config.json. -->
+    <hgroup class="auto-fadein">
+      <h1 data-config-title><!-- populated from slide_config.json --></h1>
+      <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
+      <p data-config-presenter><!-- populated from slide_config.json --></p>
+            <p style="margin-top: 6px; margin-left: -2px;">2019-09-10 11:00:00</p>
+          </hgroup>
+  </slide>
+
+<slide class=""><hgroup><h2>Prelude</h2></hgroup><article  id="prelude">
+
+<!-- Kids brain anatomy song -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allowfullscreen>
+
+</iframe>
+
+</article></slide><slide class=""><hgroup><h2>Today’s Topics</h2></hgroup><article  id="todays-topics">
+
+<ul>
+<li>Web resources</li>
+<li>Wrap up on <a href='https://psu-psychology.github.io/psy-511-scan-fdns-2019/lectures/511-2019-09-06-anatomy.html#23' title=''>brain anatomy</a></li>
+<li>White matter tracts</li>
+<li>The peripheral nervous system</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Web resources</h2></hgroup><article  id="web-resources">
+
+<ul>
+<li><a href='http://www.med.harvard.edu/aanlib/cases/caseM/mr1_t/024.html' title=''>Harvard Whole Brain Atlas</a>
+
+<ul>
+<li><a href='http://www.med.harvard.edu/aanlib/cases/caseM/case.html' title=''>Whole Brain Atlas Top 100 Brain Structures List</a></li>
+</ul></li>
+<li><a href='http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm' title=''>Normal Anatomy</a>
+
+<ul>
+<li><a href='http://www.med.harvard.edu/aanlib/cases/caseNA/strl.htm' title=''>Linked list of structures</a></li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Organization of the brain</h2></hgroup><article  id="organization-of-the-brain">
+
+<table class = 'rmdtable'>
+<tr class="header">
+<th align="left">Major division</th>
+<th align="left">Ventricular Landmark</th>
+<th align="left">Embryonic Division</th>
+<th align="left">Structure</th>
+</tr>
+<tr class="odd">
+<td align="left">Forebrain</td>
+<td align="left">Lateral</td>
+<td align="left">Telencephalon</td>
+<td align="left">Cerebral cortex</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Basal ganglia</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Hippocampus, amygdala</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Third</td>
+<td align="left">Diencephalon</td>
+<td align="left">Thalamus</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Hypothalamus</td>
+</tr>
+<tr class="even">
+<td align="left">Midbrain</td>
+<td align="left">Cerebral Aqueduct</td>
+<td align="left">Mesencephalon</td>
+<td align="left">Tectum, tegmentum</td>
+</tr>
+</table>
+
+</article></slide><slide class=""><hgroup><h2>Organization of the brain</h2></hgroup><article  id="organization-of-the-brain-1">
+
+<table class = 'rmdtable'>
+<tr class="header">
+<th align="left">Major division</th>
+<th align="left">Ventricular Landmark</th>
+<th align="left">Embryonic Division</th>
+<th align="left">Structure</th>
+</tr>
+<tr class="odd">
+<td align="left">Hindbrain</td>
+<td align="left">4th</td>
+<td align="left">Metencephalon</td>
+<td align="left">Cerebellum, pons</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">–</td>
+<td align="left">Mylencephalon</td>
+<td align="left">Medulla oblongata</td>
+</tr>
+</table>
+
+</article></slide><slide class=""><hgroup><h2>Cerebral Cortex</h2></hgroup><article  id="cerebral-cortex">
+
+<h3>Cerebral hemispheres</h3>
+
+<h3>Groove (sulcus or sulci)</h3>
+
+<h3>Bumps (gyrus or gyri)</h3>
+
+<h3>Grey vs.white matter</h3>
+
+<h3>Lobes</h3>
+
+</article></slide><slide class=""><hgroup><h2>Cortical Gyri – Lateral</h2></hgroup><article  class="smaller" id="cortical-gyri-lateral">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png" height=400px/></p>
+
+<p><a href='https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png' title=''>https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Cortical Gyri – Medial</h2></hgroup><article  class="smaller" id="cortical-gyri-medial">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png" height="400px"/></p>
+
+<p><a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png' title=''>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Gray vs. White Matter</h2></hgroup><article  class="smaller" id="gray-vs.white-matter">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg" height="500px"/></p>
+
+<p><a href='https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg' title=''>https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Lobes of the cerebral cortex</h2></hgroup><article  id="lobes-of-the-cerebral-cortex">
+
+<h3>Frontal</h3>
+
+<h3>Temporal</h3>
+
+<h3>Parietal</h3>
+
+<h3>Occipital</h3>
+
+</article></slide><slide class=""><hgroup><h2>Bones of the skull</h2></hgroup><article  class="smaller" id="bones-of-the-skull">
+
+<div class="centered">
+<p><a href="https://en.wikipedia.org/wiki/Skull"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Human_skull_side_bones.svg" height=500px/> </a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Lobes</h2></hgroup><article  class="smaller" id="lobes-1">
+
+<div class="centered">
+<p><img src="http://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg"> <smaller> <a href='https://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg' title=''>https://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Landmarks of the cortex</h2></hgroup><article  id="landmarks-of-the-cortex">
+
+<h3>Longitudinal fissure</h3>
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png" height=300px></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png' title=''>https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Lateral sulcus/fissure</h2></hgroup><article  class="smaller" id="lateral-sulcusfissure">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png" height="400px"> <smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png' title=''>https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png</a></smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Central sulcus</h2></hgroup><article  class="smaller" id="central-sulcus">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" height="400px"></p>
+
+<smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png' title=''>https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png</a> <smaller> ￼￼￼</div>
+
+</article></slide><slide class=""><hgroup><h2>Frontal lobe</h2></hgroup><article  id="frontal-lobe">
+
+<h3>Where is it?</h3>
+
+<ul>
+<li>Anterior to central sulcus</li>
+<li>Superior to lateral fissure</li>
+<li>Dorsal to temporal lobe</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Lobes of the Cerebral Cortex</h2></hgroup><article  class="smaller" id="lobes-of-the-cerebral-cortex-1">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png" height="500px"></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png' title=''>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Frontal lobe</h2></hgroup><article  id="frontal-lobe-1">
+
+<h3>What does it do?</h3>
+
+<ul>
+<li>Primary motor cortex (M1)
+
+<ul>
+<li>Supplementary motor cortex</li>
+<li>Frontal eye fields (FEF)</li>
+</ul></li>
+<li>Prefrontal cortex
+
+<ul>
+<li>Planning, problem solving, working memory…?</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Frontal lobe</h2></hgroup><article  id="frontal-lobe-2">
+
+<h3>What does it do?</h3>
+
+<ul>
+<li>Basal forebrain
+
+<ul>
+<li><a href='https://en.wikipedia.org/wiki/Nucleus_accumbens' title=''>Nucleus accumbens (NAcc)</a>, part of ventral striatum</li>
+</ul></li>
+<li><a href='https://en.wikipedia.org/wiki/Anterior_cingulate_cortex' title=''>Anterior cingulate cortex (ACC)</a></li>
+<li>Primary olfactory cortex</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Cingulate Gyrus</h2></hgroup><article  class="smaller" id="cingulate-gyrus">
+
+<div class="centered">
+<p><img src="http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg" height=400px></p>
+
+<p><smaller> <a href='http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg' title=''>http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Inferior Frontal Gyrus (IFG)</h2></hgroup><article  class="smaller" id="inferior-frontal-gyrus-ifg">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png" height="400px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png' title=''>https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Middle Frontal Gyrus (MFG)</h2></hgroup><article  class="smaller" id="middle-frontal-gyrus-mfg">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png" height="400px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png' title=''>https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Temporal lobe</h2></hgroup><article  id="temporal-lobe">
+
+<h3>Where is it?</h3>
+
+<ul>
+<li>Ventral to frontal, parietal lobes</li>
+<li>Inferior to lateral fissure</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Temporal lobe</h2></hgroup><article  id="temporal-lobe-1">
+
+<h3>What does it do?</h3>
+
+<ul>
+<li>Primary auditory cortex</li>
+<li>Object, face recognition</li>
+<li>Storage of memories about events, objects</li>
+<li>Amygdala, hippocampus</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Inferior Temporal Gyrus (ITG)</h2></hgroup><article  class="smaller" id="inferior-temporal-gyrus-itg">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png" height="400px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png' title=''>https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Entorhinal Cortex (ER)</h2></hgroup><article  class="smaller" id="entorhinal-cortex-er">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png" height="400px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png' title=''>https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Parietal lobe</h2></hgroup><article  id="parietal-lobe">
+
+<h3>Where is it?</h3>
+
+<ul>
+<li>Caudal to frontal lobe</li>
+<li>Dorsal to temporal lobe</li>
+<li>Posterior to central sulcus</li>
+</ul>
+
+<h3>What does it do?</h3>
+
+<ul>
+<li>Primary somatosensory cortex</li>
+<li>Perception of spatial relations, action planning</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Inferior Parietal Lobule</h2></hgroup><article  class="smaller" id="inferior-parietal-lobule">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png" height="400px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png' title=''>https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Superior Parietal Lobule</h2></hgroup><article  class="smaller" id="superior-parietal-lobule">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png" height="400px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png' title=''>https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Occipital lobe</h2></hgroup><article  id="occipital-lobe">
+
+<h3>Where is it?</h3>
+
+<ul>
+<li>Caudal to parietal &amp; temporal lobes</li>
+</ul>
+
+<h3>What does it do?</h3>
+
+<ul>
+<li>Primary visual cortex (V1)</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Visual Cortex</h2></hgroup><article  class="smaller" id="visual-cortex">
+
+<div class="centered">
+<p><img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png" height=400px/></p>
+
+<p><smaller> <a href='http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png' title=''>http://bethycotter.wdfiles.com/local&#8211;files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2><a href='https://en.wikipedia.org/wiki/Insular_cortex' title=''>Insular cortex (insula)</a></h2></hgroup><article  id="insular-cortex-insula">
+
+<h3>Where is it?</h3>
+
+<ul>
+<li>medial to temporal lobe</li>
+<li>deep inside lateral fissure</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Insula</h2></hgroup><article  class="smaller" id="insula">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png" width="700px"/></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png' title=''>https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Insula</h2></hgroup><article  id="insula-1">
+
+<h3>What does it do?</h3>
+
+<ul>
+<li>Primary gustatory cortex</li>
+<li>self-awareness, interpersonal experiences, motor control</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Brodmann Areas</h2></hgroup><article  id="brodmann-areas">
+
+<ul>
+<li><a href='https://en.wikipedia.org/wiki/Korbinian_Brodmann' title=''>Korbinian Brodmann</a></li>
+<li>Cytoarchitectonic (cellular architecture) differences in cerebral cortex</li>
+</ul>
+
+<div class="centered">
+<p><img src="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg" height="250px"/></p>
+
+<p><smaller> <a href='http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg' title=''>http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Brodmann Areas</h2></hgroup><article  class="smaller" id="brodmann-areas-1">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png" height=400px></p>
+
+<p><smaller> <a href='https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png' title=''>https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Brodmann Areas</h2></hgroup><article  class="smaller" id="brodmann-areas-2">
+
+<div class="centered">
+<p><img src="http://www.brain-maps.com/gehirn/brodmann_areale.jpg" width=800px></p>
+
+<p><smaller> <a href='http://www.brain-maps.com/gehirn/brodmann_areale.jpg' title=''>http://www.brain-maps.com/gehirn/brodmann_areale.jpg</a> </smaller></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Spinal cord</h2></hgroup><article  id="spinal-cord">
+
+<h3>Rostral/Caudal axis</h3>
+
+<ul>
+<li>Spinal column w/ vertebrae</li>
+<li>Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)</li>
+<li>Spinal segments &amp; 31 nerve pairs</li>
+<li>Cauda equina</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg" height="550px"></p>
+
+<p><a href='http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg' title=''>http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Spinal cord</h2></hgroup><article  id="spinal-cord-1">
+
+<h3>Organization of the spinal cord</h3>
+
+<ul>
+<li>Dorsal/Ventral
+
+<ul>
+<li>Dorsal root (sensory)</li>
+<li>Ventral root (mostly motor)</li>
+</ul></li>
+<li>Grey (interior) vs. white matter (exterior)</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="https://image.slidesharecdn.com/thespinalcord-2003-141108070925-conversion-gate02/95/the-spinal-cord-4-638.jpg?cb=1415430697" height=550px></p></div>
+
+<aside class='note'><section><p>Cross section of the spinal cord.</p></section></aside>
+
+</article></slide><slide class=""><hgroup><h2>Organization of the PNS</h2></hgroup><article  id="organization-of-the-pns">
+
+<h3>Somatic division</h3>
+
+<h3>Autonomic</h3>
+
+<h3>Cranial nerves</h3>
+
+<h3>Spinal nerves</h3>
+
+</article></slide><slide class=""><hgroup><h2>Cranial nerves</h2></hgroup><article  id="cranial-nerves-1">
+
+<ul>
+<li>Afferents (input), efferents (output), or mixed</li>
+<li>Innervate head and neck</li>
+<li>Olfactory (I), optic (II), (VIII) auditory, vagus (X), etc.</li>
+<li>Spinal nerves</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Cranial nerves</h2></hgroup><article  class="smaller" id="cranial-nerves-2">
+
+<div class="centered">
+<p><img src="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg" height="500px"></p>
+
+<p><a href='http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg' title=''>http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Major white matter pathways</h2></hgroup><article  id="major-white-matter-pathways">
+
+<h3>Brainstem</h3>
+
+<h3>Projection fibers</h3>
+
+<h3>Association fibers</h3>
+
+<h3>Commissural fibers</h3>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="img/brainstem-white-matter-schematic.jpg" height=450px/></p>
+
+<p><a href='https://books.google.com/books?hl=en&amp;lr=&amp;id=v8MWjTpVUAYC&amp;oi=fnd&amp;pg=PT1&amp;dq=mri+atlas+of+human+white+matter&amp;ots=mV146PeNPd&amp;sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&amp;q=mri%20atlas%20of%20human%20white%20matter&amp;f=false' title=''><span class="cite">(Oishi, Faria, Zijl, &amp; Mori, 2010)</span></a>, Chapter 3, Figure 1.</p></div>
+
+</article></slide><slide class=""><hgroup><h2>Brainstem projections</h2></hgroup><article  id="brainstem-projections">
+
+<ul>
+<li>Corticospinal tract (descending/efferent)</li>
+<li>Dorsal column/medial lemniscus (ascending/afferent)</li>
+<li>Superior/inferior cerebellar peduncles (from/to cerebellum)</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="img/projection-fiber-schematic.jpg" height=450px/></p>
+
+<p><a href='https://books.google.com/books?hl=en&amp;lr=&amp;id=v8MWjTpVUAYC&amp;oi=fnd&amp;pg=PT1&amp;dq=mri+atlas+of+human+white+matter&amp;ots=mV146PeNPd&amp;sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&amp;q=mri%20atlas%20of%20human%20white%20matter&amp;f=false' title=''><span class="cite">(Oishi et al., 2010)</span></a>, Chapter 3, Figure 8.</p></div>
+
+</article></slide><slide class=""><hgroup><h2>Projection fiber tracts</h2></hgroup><article  id="projection-fiber-tracts">
+
+<ul>
+<li>Internal capsule
+
+<ul>
+<li>Thalamic radiation</li>
+<li>Cortico-{pontine, bulbar, reticular} tracts</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="img/cortical-white-matter-schematic.jpg" height=450px/></p>
+
+<p><a href='https://books.google.com/books?hl=en&amp;lr=&amp;id=v8MWjTpVUAYC&amp;oi=fnd&amp;pg=PT1&amp;dq=mri+atlas+of+human+white+matter&amp;ots=mV146PeNPd&amp;sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&amp;q=mri%20atlas%20of%20human%20white%20matter&amp;f=false' title=''><span class="cite">(Oishi et al., 2010)</span></a>, Chapter 3, Figure 11.</p></div>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="img/cortical-white-matter.jpg" height=450px/></p>
+
+<p><a href='https://books.google.com/books?hl=en&amp;lr=&amp;id=v8MWjTpVUAYC&amp;oi=fnd&amp;pg=PT1&amp;dq=mri+atlas+of+human+white+matter&amp;ots=mV146PeNPd&amp;sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&amp;q=mri%20atlas%20of%20human%20white%20matter&amp;f=false' title=''><span class="cite">(Oishi et al., 2010)</span></a>, Chapter 3, Figure 11.</p></div>
+
+</article></slide><slide class=""><hgroup><h2>Cortical white matter tracts</h2></hgroup><article  id="cortical-white-matter-tracts">
+
+<ul>
+<li>Superior/inferior longitudinal fasciculus
+
+<ul>
+<li><a href='https://en.wikipedia.org/wiki/Arcuate_fasciculus' title=''>Arcuate fasciculus</a> part of sup. long. f.</li>
+</ul></li>
+<li>Superior/inferior fronto-occipital fasciculus</li>
+<li>Cingulum, fornix (hyp-hip), stria terminalis (hyp-amyg)</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Commissural fibers</h2></hgroup><article  id="commissural-fibers-1">
+
+<ul>
+<li>Corpus callosum</li>
+<li>Anterior commissure (AC)</li>
+<li>Posterior commissure (PC)</li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png" height=450px/></p></div>
+
+</article></slide><slide class=""><hgroup><h2></h2></hgroup><article >
+
+<div class="centered">
+<p><img src="https://i.redd.it/7qobxge7gp611.jpg" height=450px/></p></div>
+
+<!-- Corpus Callosum -->
+
+</article></slide><slide class=""><hgroup><h2>Anterior, Posterior Commissures</h2></hgroup><article  class="smaller" id="anterior-posterior-commissures">
+
+<div class="centered">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png" height="500px"></p>
+
+<p><a href='https://https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png' title=''>https://https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Autonomic nervous system</h2></hgroup><article  id="autonomic-nervous-system">
+
+<ul>
+<li>CNS &amp; PNS components</li>
+<li>Controls &ldquo;vegetative functions&rdquo;
+
+<ul>
+<li>Limited voluntary control</li>
+</ul></li>
+<li>Two divisions
+
+<ul>
+<li>Sympathetic</li>
+<li>Parasympathetic</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>ANS</h2></hgroup><article  class="smaller" id="ans">
+
+<div class="centered">
+<p><img src="https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF" height=500px></p>
+
+<p><a href='https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF' title=''>https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF</a></p></div>
+
+</article></slide><slide class=""><hgroup><h2>Sympathetic division</h2></hgroup><article  id="sympathetic-division">
+
+<ul>
+<li>Prepares body for action</li>
+<li>&ldquo;Fight or flight&rdquo;</li>
+<li>Spinal cord
+
+<ul>
+<li>ganglion chain along spinal column to End organs</li>
+</ul></li>
+<li>NTs
+
+<ul>
+<li>Preganglionic: ACh</li>
+<li>Post: NE</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Parasympathetic division</h2></hgroup><article  id="parasympathetic-division">
+
+<ul>
+<li>&ldquo;Around&rdquo; sympathetic</li>
+<li>Restorative function</li>
+<li>&ldquo;Rest &amp; digest&rdquo;</li>
+<li>Spinal cord (or Vagus n.) -&gt; ganglia near end organs -&gt; end organ
+
+<ul>
+<li>NT: ACh</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>References</h2></hgroup><article  class="unnumbered smaller" id="references">
+
+<div class="references" id="refs">
+<div id="ref-oishi2010mri">
+<p>Oishi, K., Faria, A. V., Zijl, P. C. van, &amp; Mori, S. (2010). <em>MRI atlas of human white matter</em>. Academic Press.</p></div></div></article></slide>
+
+
+  <slide class="backdrop"></slide>
+
+</slides>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+<!-- map slide visiblity events into shiny -->
+<script>
+  (function() {
+    if (window.jQuery) {
+       window.jQuery(document).on('slideleave', function(e) {
+         window.jQuery(e.target).trigger('hidden');
+      });
+       window.jQuery(document).on('slideenter', function(e) {
+         window.jQuery(e.target).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+</body>
+</html>
