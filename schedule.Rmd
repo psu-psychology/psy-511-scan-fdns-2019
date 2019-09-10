@@ -59,7 +59,7 @@ title: "Schedule"
 ### Fri, Sep 13
 
 - Topics
-    + Wrap-up on neuroanatomy
+    + Wrap-up on neuroanatomy | [HTML outline](511-anatomy.html)
 - Materials
     + Lecture notes | [HTML slides]()
 
