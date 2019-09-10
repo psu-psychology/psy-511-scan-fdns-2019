@@ -34,6 +34,7 @@ title: "Schedule"
 - Materials
     + Lecture notes | [HTML slides](lectures/511-2019-09-04-methods.html)
     + <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
+    + [Methods outline](511-methods.html)
     + (Optional) Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.02.004>
     + (Optional) Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. *Nature*, *412*(6843), 150–157. Retrieved January 20, 2016, from <http://www.nature.com/nature/journal/v412/n6843/abs/412150a0.html>
     + (Optional) Hillman, E. M. C. (2014). Coupling mechanism and significance of the BOLD signal: a status report. *Annual Review of Neuroscience*, *37*, 161–181. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-014111>.
