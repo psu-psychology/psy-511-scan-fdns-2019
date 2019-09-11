@@ -31,10 +31,13 @@ output:
 body{ font-size: 18px; max-width: 1800px; margin: auto; padding: 1em; }
 code.r{ font-size: 20px; }
 pre { font-size: 16px; }
-p { padding-top: 10px; padding-bottom: 4px; }
-h1 { font-size: 28px; }
-h2 { font-size: 25px; }
-h3 { font-size: 21px; }
+p { padding-top: 20px; padding-bottom: 4px; }
+h1 { font-size: 40px; }
+h2 { font-size: 35px; }
+h3 { font-size: 30px; }
+h4 { font-size: 25px; }
+h5 { font-size: 22px; }
+li { font-size: 20px; }
 .center_video { object-position: center center;}
 </style>
 
@@ -417,7 +420,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/f/
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg")
 ```
 
-###### Lobes of the cerebral cortex
+##### Lobes of the cerebral cortex
 
 - Frontal
 - Temporal
@@ -451,7 +454,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/4/41/Lat
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png")
 ```
 
-###### Frontal lobe
+##### Frontal lobe
 
 - Anterior to central sulcus
 - Superior to lateral fissure
@@ -487,7 +490,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b2/Gra
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png")
 ```
 
-###### Temporal lobe 
+##### Temporal lobe 
 
 - Ventral to frontal, parietal lobes
 - Inferior to lateral fissure
@@ -513,7 +516,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/18/Gra
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png")
 ```
 
-###### Parietal lobe
+##### Parietal lobe
 
 - Caudal to frontal lobe
 - Dorsal to temporal lobe
@@ -538,7 +541,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/e/e3/Gra
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png")
 ```
 
-###### Occipital lobe
+##### Occipital lobe
 
 - Caudal to parietal & temporal lobes
 
@@ -552,7 +555,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/96/Bra
 knitr::include_graphics("http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png")
 ```
 
-###### Insular cortex (insula)
+##### Insular cortex (insula)
 
 - medial to temporal lobe
 - deep inside lateral fissure

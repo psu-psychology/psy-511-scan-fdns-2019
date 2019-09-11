@@ -1,7 +1,7 @@
 ---
 title: "511-anatomy-outline"
 author: "Rick Gilmore"
-date: "2019-09-10 13:11:11"
+date: "2019-09-11 15:48:14"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 output:
@@ -31,10 +31,12 @@ output:
 body{ font-size: 18px; max-width: 1800px; margin: auto; padding: 1em; }
 code.r{ font-size: 20px; }
 pre { font-size: 16px; }
-p { padding-top: 10px; padding-bottom: 4px; }
-h1 { font-size: 28px; }
-h2 { font-size: 25px; }
-h3 { font-size: 21px; }
+p { padding-top: 20px; padding-bottom: 4px; }
+h1 { font-size: 40px; }
+h2 { font-size: 35px; }
+h3 { font-size: 30px; }
+h4 { font-size: 25px; }
+h5 { font-size: 22px; }
 .center_video { object-position: center center;}
 </style>
 
@@ -47,8 +49,6 @@ h3 { font-size: 21px; }
 <div class="center_video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snO68aJTOpM" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<https://www.youtube.com/snO68aJTOpM>
 <!-- Pinky and the Brain video -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -357,7 +357,7 @@ h3 { font-size: 21px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg" width="800px" style="display: block; margin: auto;" />
 
-###### Lobes of the cerebral cortex
+##### Lobes of the cerebral cortex
 
 - Frontal
 - Temporal
@@ -381,7 +381,7 @@ h3 { font-size: 21px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" width="800px" style="display: block; margin: auto;" />
 
-###### Frontal lobe
+##### Frontal lobe
 
 - Anterior to central sulcus
 - Superior to lateral fissure
@@ -409,7 +409,7 @@ h3 { font-size: 21px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png" width="800px" style="display: block; margin: auto;" />
 
-###### Temporal lobe 
+##### Temporal lobe 
 
 - Ventral to frontal, parietal lobes
 - Inferior to lateral fissure
@@ -429,7 +429,7 @@ h3 { font-size: 21px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png" width="800px" style="display: block; margin: auto;" />
 
-###### Parietal lobe
+##### Parietal lobe
 
 - Caudal to frontal lobe
 - Dorsal to temporal lobe
@@ -448,7 +448,7 @@ h3 { font-size: 21px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png" width="800px" style="display: block; margin: auto;" />
 
-###### Occipital lobe
+##### Occipital lobe
 
 - Caudal to parietal & temporal lobes
 
@@ -458,7 +458,7 @@ h3 { font-size: 21px; }
 
 <img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png" width="800px" style="display: block; margin: auto;" />
 
-###### Insular cortex (insula)
+##### Insular cortex (insula)
 
 - medial to temporal lobe
 - deep inside lateral fissure
