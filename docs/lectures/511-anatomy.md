@@ -1,7 +1,7 @@
 ---
 title: "511-anatomy-outline"
 author: "Rick Gilmore"
-date: "2019-09-13 13:42:47"
+date: "2019-09-13 14:02:43"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 output:
@@ -567,6 +567,7 @@ li { font-size: 22px; }
     + Dorsal root (sensory)
     + Ventral root (mostly motor)
 - Grey (interior) vs. white matter (exterior)
+    + Cerebral cortex opposite (grey exterior, white interior)
 
 <img src="https://image.slidesharecdn.com/thespinalcord-2003-141108070925-conversion-gate02/95/the-spinal-cord-4-638.jpg?cb=1415430697" width="800px" style="display: block; margin: auto;" />
 <!-- Cross section of the spinal cord. -->
@@ -606,6 +607,10 @@ vagus (X), etc.
     + Parasympathetic
 
 <img src="https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF" width="800px" style="display: block; margin: auto;" />
+
+- Bipolar (continuum) vs. bivariate autonomic space [[@Berntson1991-vq]](https://www.ncbi.nlm.nih.gov/pubmed/1660159)
+
+<img src="https://www.researchgate.net/profile/John_Cacioppo/publication/265843107/figure/fig1/AS:669383823216652@1536604948373/Bivariate-model-of-autonomic-space-right-contrasted-with-the-reciprocal.png" width="800px" style="display: block; margin: auto;" />
 
 ### Sympathetic division
 

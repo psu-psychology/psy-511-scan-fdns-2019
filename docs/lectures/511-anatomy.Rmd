@@ -689,6 +689,7 @@ knitr::include_graphics("https://steppingstoneblogcom.files.wordpress.com/2018/0
     + Dorsal root (sensory)
     + Ventral root (mostly motor)
 - Grey (interior) vs. white matter (exterior)
+    + Cerebral cortex opposite (grey exterior, white interior)
 
 ```{r}
 knitr::include_graphics("https://image.slidesharecdn.com/thespinalcord-2003-141108070925-conversion-gate02/95/the-spinal-cord-4-638.jpg?cb=1415430697")
@@ -739,6 +740,12 @@ knitr::include_graphics("https://www.pastmedicalhistory.co.uk/wp-content/uploads
 
 ```{r}
 knitr::include_graphics("https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF")
+```
+
+- Bipolar (continuum) vs. bivariate autonomic space [[@Berntson1991-vq]](https://www.ncbi.nlm.nih.gov/pubmed/1660159)
+
+```{r}
+knitr::include_graphics("https://www.researchgate.net/profile/John_Cacioppo/publication/265843107/figure/fig1/AS:669383823216652@1536604948373/Bivariate-model-of-autonomic-space-right-contrasted-with-the-reciprocal.png")
 ```
 
 ### Sympathetic division
