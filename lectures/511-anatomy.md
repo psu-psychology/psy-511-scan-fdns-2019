@@ -1,15 +1,15 @@
 ---
 title: "511-anatomy-outline"
 author: "Rick Gilmore"
-date: "2019-09-11 15:48:14"
+date: "2019-09-13 13:42:47"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 output:
   html_document:
     keep_md: true
-    theme: spacelab
+    theme: lumen
     toc: yes
-    toc_depth: 3
+    toc_depth: 5
     toc_float: no
     code_folding: hide
   ioslides_presentation:
@@ -28,15 +28,16 @@ output:
 ---
 
 <style type="text/css">
-body{ font-size: 18px; max-width: 1800px; margin: auto; padding: 1em; }
-code.r{ font-size: 20px; }
-pre { font-size: 16px; }
-p { padding-top: 20px; padding-bottom: 4px; }
-h1 { font-size: 40px; }
-h2 { font-size: 35px; }
-h3 { font-size: 30px; }
-h4 { font-size: 25px; }
-h5 { font-size: 22px; }
+body { font-size: 22px; max-width: 1800px; margin: auto; padding: 1em; }
+code.r{ font-size: 22px; }
+pre { font-size: 22px; }
+p { padding-top: 22px; padding-bottom: 4px; }
+h1 { font-size: 60px; }
+h2 { font-size: 50px; }
+h3 { font-size: 40px; }
+h4 { font-size: 30px; }
+h5 { font-size: 25px; }
+li { font-size: 22px; }
 .center_video { object-position: center center;}
 </style>
 
@@ -106,8 +107,9 @@ h5 { font-size: 22px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png" width="800px" style="display: block; margin: auto;" />
 
-## Ventricular system (Cerebral ventricles)
+## Ventricular system
 
+- Also known as cerebral ventricles
 - Lateral (1st & 2nd)
 - 3rd
 - Cerebral aqueduct 
@@ -365,19 +367,29 @@ h5 { font-size: 22px; }
 - Occipital
 - Names derive from bones of the skull
 
-<img src="https://en.wikipedia.org/wiki/Skull" width="800px" style="display: block; margin: auto;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Human_skull_side_simplified_%28bones%29.svg/1200px-Human_skull_side_simplified_%28bones%29.svg.png" width="800px" style="display: block; margin: auto;" />
+
 
 <img src="http://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg" width="800px" style="display: block; margin: auto;" />
 
 **Longitudinal fissure**
 
+- Also known as superior longitudinal fissure
+- Divides the cerebral hemispheres
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png" width="800px" style="display: block; margin: auto;" />
 
 **Lateral sulcus/fissure**
 
+- Also known as Sylvian Fissure
+- Divides frontal from temporal lobe
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png" width="800px" style="display: block; margin: auto;" />
 
 **Central sulcus**
+
+- Also known as Rolandic Fissure or Fissure of Rolando
+- Divides frontal from parietal lobe
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" width="800px" style="display: block; margin: auto;" />
 
@@ -416,7 +428,7 @@ h5 { font-size: 22px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png" width="800px" style="display: block; margin: auto;" />
 
-- Primary auditory cortex
+- Primary auditory cortex (A1)
 - Object, face recognition
 - Storage of memories about events, objects 
 - Amygdala, hippocampus
@@ -437,7 +449,7 @@ h5 { font-size: 22px; }
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png" width="800px" style="display: block; margin: auto;" />
 
-- Primary somatosensory cortex
+- Primary somatosensory cortex (S1)
 - Perception of spatial relations, action planning
 
 **Inferior Parietal Lobule**
@@ -455,6 +467,7 @@ h5 { font-size: 22px; }
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png" width="800px" style="display: block; margin: auto;" />
 
 - Primary visual cortex (V1)
+- Secondary visual areas (V2...V7)
 
 <img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png" width="800px" style="display: block; margin: auto;" />
 
@@ -475,7 +488,7 @@ h5 { font-size: 22px; }
 <img src="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg" width="800px" style="display: block; margin: auto;" />
 
 - Cytoarchitectonic (cellular architecture) differences in cerebral cortex
-- Numbered areas
+- Numbered areas, e.g. V1 == Area 17
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png" width="800px" style="display: block; margin: auto;" />
 
@@ -544,6 +557,11 @@ h5 { font-size: 22px; }
 - Cauda equina
 
 <img src="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg" width="800px" style="display: block; margin: auto;" />
+
+- Spinal segments (rostral to caudal) ennervate specific body segments
+- When focusing on the skin, these are called *dermatomes*
+
+<img src="https://steppingstoneblogcom.files.wordpress.com/2018/02/dermatome.jpg?w=863&h=1&crop=1" width="800px" style="display: block; margin: auto;" />
 
 - Dorsal/Ventral
     + Dorsal root (sensory)
