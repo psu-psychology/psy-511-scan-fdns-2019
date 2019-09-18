@@ -1,0 +1,338 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={neuroanatomy-lab},
+            pdfauthor={Rick Gilmore},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{neuroanatomy-lab}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{Rick Gilmore}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{2019-09-17}
+
+
+\begin{document}
+\maketitle
+
+\hypertarget{directional-terms}{%
+\subsection{Directional terms}\label{directional-terms}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Direction & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+Rostral/caudal & & &\tabularnewline
+Anterior/posterior & & &\tabularnewline
+Medial/lateral & & &\tabularnewline
+Dorsal/ventral & & &\tabularnewline
+Superior/inferior & & &\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{planes-of-section}{%
+\subsection{Planes of Section}\label{planes-of-section}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Plane & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Sagittal_plane}{Sagittal} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Coronal_plane}{Coronal/frontal} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Transverse_plane}{Axial/horizontal/transverse}
+& & &\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{brain-structure}{%
+\subsection{Brain Structure}\label{brain-structure}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Prosencephalon}{Forebrain} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Midbrain}{Midbrain} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Rhombencephalon}{Hindbrain} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{surface-of-cerebral-cortex}{%
+\subsection{Surface of Cerebral
+Cortex}\label{surface-of-cerebral-cortex}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Central_sulcus}{Central sulcus} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Lateral_sulcus}{Lateral
+sulcus/fissure} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Medial_longitudinal_fissure}{Longitudinal
+fissure} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Cerebral_hemisphere}{Cerebral
+hemispheres} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Parietal_lobe}{Parietal lobe} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Frontal_lobe}{Frontal lobe} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Insular_cortex}{Insular cortex} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{surface-of-cerebral-cortex-1}{%
+\subsection{Surface of Cerebral
+Cortex}\label{surface-of-cerebral-cortex-1}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Temporal_lobe}{Temporal lobe} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Occipital_lobe}{Occipital lobe} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{surface-of-cerebral-cortex-2}{%
+\subsection{Surface of Cerebral
+Cortex}\label{surface-of-cerebral-cortex-2}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Precentral_gyrus}{Precentral gyrus}
+& & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Postcentral_gyrus}{Postcentral
+gyrus} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Superior_temporal_gyrus}{Superior
+temporal gyrus} & & &\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{fiber-tracts}{%
+\subsection{Fiber tracts}\label{fiber-tracts}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Corpus_callosum}{Corpus callosum} &
+& &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Anterior_commissure}{Anterior
+commissure} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Posterior_commissure}{Posterior
+commissure} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Olfactory_nerve}{Olfactory nerve,
+Ist} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Optic_nerve}{Optic nerve/tract,
+IInd} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Optic_chiasm}{Optic chiasm} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Fornix_(neuroanatomy}{Fornix} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{subcortical-structures}{%
+\subsection{Subcortical structures}\label{subcortical-structures}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Caudate_nucleus}{Caudate nucleus} &
+& &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Putamen}{Putamen} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Globus_pallidus}{Globus Pallidus} &
+& &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Thalamus}{Thalamus} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{subcortical-structures-1}{%
+\subsection{Subcortical structures}\label{subcortical-structures-1}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Hypothalamus}{Hypothalamus} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Pituitary_gland}{Pituitary gland} &
+& &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Hippocampus}{Hippocampus} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Amygdala}{Amygdala} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\hypertarget{midbrain}{%
+\subsection{Midbrain}\label{midbrain}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Midbrain_tectum}{Tectum} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Superior_colliculus}{Superior
+colliculus} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Inferior_colliculus}{Inferior
+colliculus} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Tegmentum}{Tegmentum} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Substantia_nigra}{Substantia nigra}
+& & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Ventral_tegmental_area}{Ventral
+tegmental area} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Locus_coeruleus}{Locus coeruleus} &
+& &\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{hindbrain}{%
+\subsection{Hindbrain}\label{hindbrain}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Cerebellum}{Cerebellum} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Pons}{Pons} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Medulla_oblongata}{Medulla
+Oblongata} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Spinal_cord}{Spinal cord} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{ventricles}{%
+\subsection{Ventricles}\label{ventricles}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+Structure & Brain Model & Specimen & Atlas\tabularnewline
+\midrule
+\endhead
+\href{https://en.wikipedia.org/wiki/Lateral_ventricles}{Lateral
+ventricles} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Third_ventricle}{3rd ventricle} & &
+&\tabularnewline
+\href{https://en.wikipedia.org/wiki/Cerebral_aqueduct}{Cerebral
+aqueduct} & & &\tabularnewline
+\href{https://en.wikipedia.org/wiki/Fourth_ventricle}{4th ventricle} & &
+&\tabularnewline
+\bottomrule
+\end{longtable}
+
+
+\end{document}
