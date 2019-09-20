@@ -1,7 +1,7 @@
 ---
 title: "511-cells"
 author: "Rick Gilmore"
-date: "2019-09-20 10:35:46"
+date: "2019-09-20 14:02:09"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -51,8 +51,10 @@ output:
 
 [[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
     
-<img src="img/azevedo-et-al-fig-1.jpg" width="800px" style="display: block; margin: auto;" />
-[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
+<div class="figure" style="text-align: center">
+<img src="img/azevedo-et-al-fig-1.jpg" alt="[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)" width="800px" />
+<p class="caption">[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)</p>
+</div>
 
 <img src="imgunnamed-chunk-2-1.png" width="800px" style="display: block; margin: auto;" />
 
@@ -75,7 +77,10 @@ output:
 	+ Support blood/brain barrier
 	+ Regulate local blood flow
 	
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png" width="800px" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png" alt="https://en.wikipedia.org/wiki/Astrocyte" width="800px" />
+<p class="caption">https://en.wikipedia.org/wiki/Astrocyte</p>
+</div>
 
 <div class="figure" style="text-align: center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astrocyte5.jpg/1024px-Astrocyte5.jpg" alt="https://en.wikipedia.org/wiki/Astrocyte" width="800px" />
@@ -91,14 +96,15 @@ output:
 <p class="caption">https://en.wikipedia.org/wiki/Astrocyte</p>
 </div>
 
-- Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
+- Shape brain development, contribute to [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
 - Disruption linked to cognitive impairment, disease [[@chung_glia_2015]](http://doi.org/10.1038/nn.4142)
 	
 ### Myelinating cells
 
-- *Oligodendrocytes*
-	+ In brain and spinal cord (CNS)
-	+ 1:many neurons
+#### Oligodendrocytes
+	
++ In brain and spinal cord (CNS)
++ 1:many neurons
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg" width="800px" style="display: block; margin: auto;" />
 
@@ -107,11 +113,10 @@ output:
 <p class="caption">https://en.wikipedia.org/wiki/Oligodendrocyte</p>
 </div>
 
-- *Schwann cells*
-	+ In PNS
-	+ 1:1 neuron
-	+ Facilitate neuro-regeneration
-- Mnemonics: COPS/SPOC
+#### Schwann cells
++ In PNS
++ 1:1 neuron
++ Facilitate neuro-regeneration
 
 <img src="http://www.sciencellonline.com/media/catalog/product/cache/1/image/a6f8fb4f61eb724cff40f184d1fbcab0/m/1/m1700_3.jpg" width="800px" style="display: block; margin: auto;" />
 
@@ -119,6 +124,8 @@ output:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuron_Hand-tuned.svg/1920px-Neuron_Hand-tuned.svg.png" alt="https://en.wikipedia.org/wiki/Schwann_cell" width="800px" />
 <p class="caption">https://en.wikipedia.org/wiki/Schwann_cell</p>
 </div>
+
+- Mnemonics: COPS/SPOC
 
 ### Microglia
 
@@ -150,39 +157,51 @@ output:
 #### Dendrites
 
 - Majority of input to neuron
-- Passive vs. active
-- Spines
+- Passive (do not generate current flows) vs. active (generate current flows like axons)
 
 <img src="http://i.livescience.com/images/i/000/058/588/original/brain-cell.jpg?1383065356" width="800px" style="display: block; margin: auto;" />
 
-**Dendritic Spines**
+##### Dendritic Spines
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg" width="800px" style="display: block; margin: auto;" />
 
-#### Soma (cell body) {.bigger}
+- Concentrate effects of local current flows, biochemical reactions
+
+#### Soma (cell body)
 
 - Varied shapes
 - Nucleus
 	+ Chromosomes
 - Organelles
-	+ Mitochonrdria
+	+ Mitochondria
 	+ Smooth and Rough Endoplasmic reticulum (ER)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png" width="800px" style="display: block; margin: auto;" />
 
 #### Axons
 
-- *Axon hillock*
-- *Initial segment*
-- *Nodes of Ranvier*
-- *Axon Terminals*
+##### Axon hillock
+
+- Transitional zone between soma and axon
+
+##### Initial segment
+
+- Action potential generated
+
+##### Nodes of Ranvier
+
+- Gaps in myelin sheath
+- Neuronal membrane exposed to extracellular space
+- Action potential regenerates
+
+##### Axon terminals
 
 <img src="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/figure_07_02_labeled.jpg" width="800px" style="display: block; margin: auto;" />
 
-**Synaptic bouton (terminal button)**
+##### Synaptic bouton (terminal button)
 
 - *Synapse* (~5-10K per neuron) 
-- Pre and postsynaptic membranes
+- *Pre-* (sending side) and *postsynaptic* (receiving side) *membranes*
 - *Synaptic cleft*
 - *Synaptic vesicles*
     + Store/release neurotransmitters
@@ -742,7 +761,7 @@ Under typical conditions
 - Reuptake via transporters
     + e.g., serotonin via serotonin transporter (SERT)
 - Enzymatic degradation
-    + e.g., AChE degrades ACh
+    + e.g., acetylcholine esterase (AChE) degrades acetylcholine (ACh)
 
 ---
 

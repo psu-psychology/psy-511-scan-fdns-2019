@@ -24,7 +24,7 @@ output:
 
 ```{r set-up, echo=FALSE, error=FALSE, include=FALSE, warning=FALSE, message=FALSE}
 path2figs = 'img'
-knitr::opts_chunk$set(fig.path=path2figs,
+knitr::opts_chunk$set(fig.path = path2figs,
                       echo = FALSE, warning = FALSE, message = FALSE,
                       fig.align = "center",
                       out.width = "800px")
@@ -58,10 +58,9 @@ library(tidyverse)
 
 [[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
     
-```{r, fig.cap=""}
+```{r, fig.cap="[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)"}
 knitr::include_graphics("img/azevedo-et-al-fig-1.jpg")
 ```
-[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
 
 ```{r echo=FALSE, fig.align='center'}
 # data from Azevedo
@@ -107,7 +106,7 @@ knitr::include_graphics("https://mitpress.mit.edu/sites/default/files/styles/lar
 	+ Support blood/brain barrier
 	+ Regulate local blood flow
 	
-```{r}
+```{r, fig.cap="https://en.wikipedia.org/wiki/Astrocyte"}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png")
 ```
 
@@ -123,14 +122,15 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/6/
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/3/3e/Metabolic_interactions_between_astrocytes_and_neurons_with_major_reactions.png")
 ```
 
-- Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
+- Shape brain development, contribute to [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
 - Disruption linked to cognitive impairment, disease [[@chung_glia_2015]](http://doi.org/10.1038/nn.4142)
 	
 ### Myelinating cells
 
-- *Oligodendrocytes*
-	+ In brain and spinal cord (CNS)
-	+ 1:many neurons
+#### Oligodendrocytes
+	
++ In brain and spinal cord (CNS)
++ 1:many neurons
 
 ```{r}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg")
@@ -140,11 +140,10 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neuron_with_oligodendrocyte_and_myelin_sheath.svg/615px-Neuron_with_oligodendrocyte_and_myelin_sheath.svg.png")
 ```
 
-- *Schwann cells*
-	+ In PNS
-	+ 1:1 neuron
-	+ Facilitate neuro-regeneration
-- Mnemonics: COPS/SPOC
+#### Schwann cells
++ In PNS
++ 1:1 neuron
++ Facilitate neuro-regeneration
 
 ```{r}
 knitr::include_graphics("http://www.sciencellonline.com/media/catalog/product/cache/1/image/a6f8fb4f61eb724cff40f184d1fbcab0/m/1/m1700_3.jpg")
@@ -153,6 +152,8 @@ knitr::include_graphics("http://www.sciencellonline.com/media/catalog/product/ca
 ```{r, fig.cap="https://en.wikipedia.org/wiki/Schwann_cell"}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuron_Hand-tuned.svg/1920px-Neuron_Hand-tuned.svg.png")
 ```
+
+- Mnemonics: COPS/SPOC
 
 ### Microglia
 
@@ -188,26 +189,27 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/a/
 #### Dendrites
 
 - Majority of input to neuron
-- Passive vs. active
-- Spines
+- Passive (do not generate current flows) vs. active (generate current flows like axons)
 
 ```{r}
 knitr::include_graphics("http://i.livescience.com/images/i/000/058/588/original/brain-cell.jpg?1383065356")
 ```
 
-**Dendritic Spines**
+##### Dendritic Spines
 
 ```{r}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg")
 ```
 
-#### Soma (cell body) {.bigger}
+- Concentrate effects of local current flows, biochemical reactions
+
+#### Soma (cell body)
 
 - Varied shapes
 - Nucleus
 	+ Chromosomes
 - Organelles
-	+ Mitochonrdria
+	+ Mitochondria
 	+ Smooth and Rough Endoplasmic reticulum (ER)
 
 ```{r}
@@ -216,19 +218,30 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/a/
 
 #### Axons
 
-- *Axon hillock*
-- *Initial segment*
-- *Nodes of Ranvier*
-- *Axon Terminals*
+##### Axon hillock
+
+- Transitional zone between soma and axon
+
+##### Initial segment
+
+- Action potential generated
+
+##### Nodes of Ranvier
+
+- Gaps in myelin sheath
+- Neuronal membrane exposed to extracellular space
+- Action potential regenerates
+
+##### Axon terminals
 
 ```{r}
 knitr::include_graphics("http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/figure_07_02_labeled.jpg")
 ```
 
-**Synaptic bouton (terminal button)**
+##### Synaptic bouton (terminal button)
 
 - *Synapse* (~5-10K per neuron) 
-- Pre and postsynaptic membranes
+- *Pre-* (sending side) and *postsynaptic* (receiving side) *membranes*
 - *Synaptic cleft*
 - *Synaptic vesicles*
     + Store/release neurotransmitters
@@ -839,7 +852,7 @@ knitr::include_graphics("http://webvision.med.utah.edu/imageswv/GLU5.jpeg")
 - Reuptake via transporters
     + e.g., serotonin via serotonin transporter (SERT)
 - Enzymatic degradation
-    + e.g., AChE degrades ACh
+    + e.g., acetylcholine esterase (AChE) degrades acetylcholine (ACh)
 
 ---
 
