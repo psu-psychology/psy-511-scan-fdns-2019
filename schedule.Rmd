@@ -83,7 +83,7 @@ title: "Schedule"
     + Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. *Nature Reviews Neuroscience*. Retrieved from <http://dx.doi.org/10.1038/nrn.2017.85>.
     + Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. *Trends in Neurosciences*, *38*(9), 535–549. Retrieved from http://dx.doi.org/10.1016/j.tins.2015.07.006
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Cellular outline [HTML](lectures/511-cells.html)
 
 ---
 
@@ -95,7 +95,7 @@ title: "Schedule"
     + **Quiz 1**. | [Download]() |. Due at start of class on Friday, September 27, 2019.
     + Neurophysiology. Read BW 3:61-78.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Cellular outline [HTML](lectures/511-cells.html)
 
 ### Fri, Sep 27
 
@@ -104,7 +104,7 @@ title: "Schedule"
     + Neural communication. Read BW 3:78-92.
     + Neurochemistry. Read BW: 4:95-100.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Cellular outline [HTML](lectures/511-cells.html)
 
 ---
 

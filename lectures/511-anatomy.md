@@ -1,7 +1,7 @@
 ---
 title: "511-anatomy-outline"
 author: "Rick Gilmore"
-date: "2019-09-13 14:27:04"
+date: "2019-09-19 10:49:28"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 output:
@@ -28,16 +28,16 @@ output:
 ---
 
 <style type="text/css">
-body { font-size: 2.00em;; max-width: 1800px; margin: auto; padding: 1em; }
-code.r { font-size: 2.00em; }
-pre { font-size: 2.00em; }
-p { padding-top: 2.00em; padding-bottom: 4px; }
-h1 { font-size: 3.50em; }
-h2 { font-size: 3.25em; }
-h3 { font-size: 3.0em; }
-h4 { font-size: 2.75em; }
-h5 { font-size: 2.25em; }
-li { font-size: 2.00em; }
+body { font-size: 1.00em; max-width: 1800px; margin: auto; padding: 1em; }
+code.r { font-size: 1.00em; }
+pre { font-size: 1.00em; }
+p { padding-top: 1.00em; padding-bottom: 4px; }
+h1 { font-size: 2.50em; }
+h2 { font-size: 2.25em; }
+h3 { font-size: 2.0em; }
+h4 { font-size: 1.75em; }
+h5 { font-size: 1.25em; }
+li { font-size: 1.00em; }
 .center_video { object-position: center center;}
 </style>
 
