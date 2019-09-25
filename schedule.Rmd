@@ -92,14 +92,14 @@ title: "Schedule"
 ### Wed, Sep 25
 
 - Topics
-    + **Quiz 1**. | [Download]() |. Due at start of class on Friday, September 27, 2019.
+    + **Quiz 1**. | [Download](quiz/quiz-01/psy-511.001-19-quiz-01.docx) |. Due at start of class on Friday, September 27, 2019.
     + Neurophysiology. Read BW 3:61-78.
 - Materials
     + Cellular outline [HTML](lectures/511-cells.html)
 
 ### Fri, Sep 27
 
-- **Quiz 1 due**. [Submit here]().
+- **Quiz 1 due**. Bring your copy to class.
 - Topics
     + Neural communication. Read BW 3:78-92.
     + Neurochemistry. Read BW: 4:95-100.
@@ -117,7 +117,7 @@ title: "Schedule"
 - Topics
     + Neurochemistry II. Read BW 4:101-130.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Lecture notes | [HTML slides]() |
     
 4:00 pm Mark Blumberg (University of Iowa) Neuroscience Seminar
 
