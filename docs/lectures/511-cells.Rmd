@@ -511,7 +511,7 @@ knitr::include_graphics("http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAA
     + Voltage that keeps current (inside/outside) concentrations the same
     + Voltage membrane potential will approach if **only** that ion flows
 
-**[Equilibrium potentials](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) 
+**[Equilibrium potentials](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html)**
 
 Under typical conditions
 

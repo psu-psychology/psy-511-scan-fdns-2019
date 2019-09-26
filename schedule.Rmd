@@ -105,6 +105,7 @@ title: "Schedule"
     + Neurochemistry. Read BW: 4:95-100.
 - Materials
     + Cellular outline [HTML](lectures/511-cells.html)
+    + Chemical communication outline [HTML](lectures/511-chemical-communication.html)
 
 ---
 
@@ -117,7 +118,7 @@ title: "Schedule"
 - Topics
     + Neurochemistry II. Read BW 4:101-130.
 - Materials
-    + Lecture notes | [HTML slides]() |
+    + Chemical communication outline [HTML](lectures/511-chemical-communication.html)
     
 4:00 pm Mark Blumberg (University of Iowa) Neuroscience Seminar
 
@@ -129,7 +130,7 @@ title: "Schedule"
 - Reading
     - Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.09.002
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Chemical communication outline [HTML](lectures/511-chemical-communication.html)
 
 ---
 
