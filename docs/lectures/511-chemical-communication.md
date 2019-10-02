@@ -1,7 +1,7 @@
 ---
 title: "511-chemical-communication"
 author: "Rick Gilmore"
-date: "2019-09-26 17:33:19"
+date: "2019-10-02 14:21:01"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -72,7 +72,6 @@ output:
 
 ### Exocytosis
 
-
 <div class="figure" style="text-align: center">
 <img src="http://www.nature.com/nrn/journal/v12/n3/images/nrn2948-f1.jpg" alt="Source: http://dx.doi.org/doi:10.1038/nrn2948" width="800px" />
 <p class="caption">Source: http://dx.doi.org/doi:10.1038/nrn2948</p>
@@ -141,7 +140,7 @@ output:
 
 <img src="https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg" width="800px" style="display: block; margin: auto;" />
 
-## Neurotransmiters
+## Neurotransmitters
 
 | Family      | Neurotansmitter                     |
 |-------------|-------------------------------------|
@@ -224,7 +223,7 @@ output:
 
 ## Monoamine NTs
 
-| Family      | Neurotansmitter                         |
+| Family      | Neurotransmitter                         |
 |-------------|-----------------------------------------|
 | Monoamines  | Dopamine (DA)                           |
 |             | Norepinephrine (NE)/Noradrenaline (NAd) |
@@ -316,7 +315,7 @@ Inactivated via
 </div>
 
 
-- Seven recpeptor families (5-HT 1-7) with 14 types
+- Seven receptor families (5-HT 1-7) with 14 types
 - All but one metabotropic
 
 Clinically significant because
@@ -505,7 +504,7 @@ Clinically significant because
 <p class="caption">[[@ulrich-lai_neural_2009]](http://doi.org/10.1038/nrn2647)</p>
 </div>
 
-### ￼Adrenal hormones
+### Adrenal hormones
 
 - *Steroids*
     + Derived from cholesterol
@@ -574,7 +573,6 @@ Oxytocin's role...
     - Endogenous & exogenous influences
 
 ### Gut/brain connection
-
 <div class="figure" style="text-align: center">
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223616301138-gr1.jpg" alt="[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)" width="800px" />
 <p class="caption">[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)</p>

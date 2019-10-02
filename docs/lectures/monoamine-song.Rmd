@@ -1,0 +1,39 @@
+---
+title: "monoamine song"
+author: "Rick Gilmore"
+bibliography: bib/bibliography.bib
+csl: bib/apa.csl
+css: css/ioslides.css
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## Monoamine Song
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y5W60VwDkas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà>
+
+---
+
+Monoaminess, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+---
+
+Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, </br>
+dop-a-mine, nor-epinephrine, melatonin, whoo!
+
+---
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do-do do-do do

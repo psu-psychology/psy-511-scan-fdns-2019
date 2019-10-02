@@ -145,7 +145,7 @@ knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n6/images/nrn2647
 knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n6/images/nrn2647-i1.jpg")
 ```
 
-### ￼Adrenal hormones
+### Adrenal hormones
 
 - *Steroids*
     + Derived from cholesterol
@@ -215,7 +215,6 @@ knitr::include_graphics("http://thebrain.mcgill.ca/flash/a/a_11/a_11_cr/a_11_cr_
     - Endogenous & exogenous influences
 
 ### Gut/brain connection
-
 ```{r, fig.cap="[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)"}
 knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0166223616301138-gr1.jpg")
 ```

@@ -78,7 +78,6 @@ knitr::include_graphics("http://webvision.med.utah.edu/imageswv/GLU5.jpeg")
 
 ### Exocytosis
 
-
 ```{r, fig.cap="Source: http://dx.doi.org/doi:10.1038/nrn2948"}
 knitr::include_graphics("http://www.nature.com/nrn/journal/v12/n3/images/nrn2948-f1.jpg")
 ```
@@ -150,7 +149,7 @@ knitr::include_graphics("https://classconnection.s3.amazonaws.com/94/flashcards/
 knitr::include_graphics("https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg")
 ```
 
-## Neurotransmiters
+## Neurotransmitters
 
 | Family      | Neurotansmitter                     |
 |-------------|-------------------------------------|
@@ -234,7 +233,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/7/
 
 ## Monoamine NTs
 
-| Family      | Neurotansmitter                         |
+| Family      | Neurotransmitter                         |
 |-------------|-----------------------------------------|
 | Monoamines  | Dopamine (DA)                           |
 |             | Norepinephrine (NE)/Noradrenaline (NAd) |
@@ -322,7 +321,7 @@ knitr::include_graphics("https://3c1703fe8d.site.internapcdn.net/newman/csz/news
 ```
 
 
-- Seven recpeptor families (5-HT 1-7) with 14 types
+- Seven receptor families (5-HT 1-7) with 14 types
 - All but one metabotropic
 
 Clinically significant because
