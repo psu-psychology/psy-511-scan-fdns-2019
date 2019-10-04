@@ -303,6 +303,14 @@ knitr::include_graphics("https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Fi
 | Metabotropic | $\alpha$ (1,2)         | antagonists treat anxiety, panic   |
 |              | $\beta$ (1,2,3)        | 'beta blockers' in cardiac disease |
 
+### Adrenaline/Epinephrine
+
+- Synthesized from norepinephrine
+- As NT: Released in small amounts by medulla oblongata
+- As hormone: Released by adrenal medulla
+- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancrease, etc.
+- Release enhanced by cortisol from adrenal cortex
+
 ### Serotonin (5-HT)
 
 - Released by *raphe nuclei* in brainstem
@@ -319,7 +327,6 @@ knitr::include_graphics("https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Fi
 ```{r, fig.cap="[[@Ren2018-zl]](http://dx.doi.org/10.1016/j.cell.2018.07.043)"}
 knitr::include_graphics("https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/anewmapofthe.jpg")
 ```
-
 
 - Seven receptor families (5-HT 1-7) with 14 types
 - All but one metabotropic

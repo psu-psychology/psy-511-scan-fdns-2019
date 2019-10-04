@@ -1,7 +1,7 @@
 ---
 title: "hormones"
 author: "Rick Gilmore"
-date: "9/26/2019"
+date: "`r Sys.time()`"
 output: html_document
 ---
 
@@ -124,8 +124,8 @@ knitr::include_graphics("img/indirect-release.jpg")
 - Neural response
     + *Sympathetic Adrenal Medulla (SAM) response*
     + Sympathetic NS activation of adrenal medulla, other organs
-    + Releases NE and Epi
-    
+    + Releases NE and Epi into bloodstream
+  
 ```{r, fig.cap="[[@ulrich-lai_neural_2009]](http://doi.org/10.1038/nrn2647)"}
 knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n6/images/nrn2647-i1.jpg")
 ```
@@ -145,7 +145,7 @@ knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n6/images/nrn2647
 knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n6/images/nrn2647-i1.jpg")
 ```
 
-### Adrenal hormones
+#### Adrenal hormones
 
 - *Steroids*
     + Derived from cholesterol
@@ -155,21 +155,24 @@ knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n6/images/nrn2647
 - *Aldosterone*
     + Regulates Na (and water)
     
-## Reproductive behavior -- the milk letdown reflex
+### Reproductive behavior -- the milk letdown reflex
 
 - Supraoptic & Paraventricular nucleus (PVN) of hypothalamus releases oxytocin 
     - Into bloodstream via posterior pituitary (endocrine)
     - Onto neurons in nucleus accumbens (neurocrine), amygdala, brainstem
+- Oxytocin stimulates milk ducts to secrete
 
 ```{r, fig.cap="http://physiologyplus.com/wp-content/uploads/2017/05/milk-ejection-reflex.png"}
 knitr::include_graphics("http://physiologyplus.com/wp-content/uploads/2017/05/milk-ejection-reflex.png")
 ```
 
-Oxytocin's role...
+**Oxytocin's role...**
 
 - Sexual arousal
 - Released in bursts during orgasm
-- Stimulates uterine, vaginal contraction
+- Stimulates uterine, vaginal contraction during labor
+    - But mouse OXY knock-out model still engages in reproductive behavior and gives birth without incident
+- Oxytocin cells in ovarian corpus luteum, testicles, retina, adrenal medulla, pancreas
 - Links to social interaction, bonding  [[@Weisman2013158]](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
 - Alters face processing in autism  [[@Domes2013164]](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)
 - May inhibit fear/anxiety-related behaviors by gating amygdala [[@viviani2011oxytocin]](http://doi.org/10.1126/science.1201043)
@@ -180,13 +183,13 @@ Oxytocin's role...
 </a>
 </div>
 
-## Circadian rhythms
+### Circadian rhythms
 
-### Melatonin
+#### Melatonin
 
 - Diurnal rhythm
 - Night time peak, early morning low
-- Secretion suppressed by "blue" light (< 460-480 nm)
+- Secretion suppressed by short wavelength or "blue" light (< 460-480 nm)
 - Rhythm irregular until ~3 mos post-natal [[@Ardura2003-tw]](http://dx.doi.org/68571)
 - Peak weakens, broadens with age
 
@@ -213,8 +216,10 @@ knitr::include_graphics("http://thebrain.mcgill.ca/flash/a/a_11/a_11_cr/a_11_cr_
 - State variables and behavior
     - Are your participants sleepy, hungry, horny, distressed...
     - Endogenous & exogenous influences
+    - Systems interact; need better, broader, and denser measurement
 
 ### Gut/brain connection
+
 ```{r, fig.cap="[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)"}
 knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0166223616301138-gr1.jpg")
 ```

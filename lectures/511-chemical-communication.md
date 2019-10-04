@@ -1,7 +1,7 @@
 ---
 title: "511-chemical-communication"
 author: "Rick Gilmore"
-date: "2019-10-02 14:21:01"
+date: "2019-10-04 14:27:03"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -295,6 +295,14 @@ Inactivated via
 | Metabotropic | $\alpha$ (1,2)         | antagonists treat anxiety, panic   |
 |              | $\beta$ (1,2,3)        | 'beta blockers' in cardiac disease |
 
+### Adrenaline/Epinephrine
+
+- Synthesized from norepinephrine
+- As NT: Released in small amounts by medulla oblongata
+- As hormone: Released by adrenal medulla
+- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancrease, etc.
+- Release enhanced by cortisol from adrenal cortex
+
 ### Serotonin (5-HT)
 
 - Released by *raphe nuclei* in brainstem
@@ -313,7 +321,6 @@ Inactivated via
 <img src="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/anewmapofthe.jpg" alt="[[@Ren2018-zl]](http://dx.doi.org/10.1016/j.cell.2018.07.043)" width="800px" />
 <p class="caption">[[@Ren2018-zl]](http://dx.doi.org/10.1016/j.cell.2018.07.043)</p>
 </div>
-
 
 - Seven receptor families (5-HT 1-7) with 14 types
 - All but one metabotropic
@@ -481,8 +488,8 @@ Clinically significant because
 - Neural response
     + *Sympathetic Adrenal Medulla (SAM) response*
     + Sympathetic NS activation of adrenal medulla, other organs
-    + Releases NE and Epi
-    
+    + Releases NE and Epi into bloodstream
+  
 <div class="figure" style="text-align: center">
 <img src="http://www.nature.com/nrn/journal/v10/n6/images/nrn2647-i1.jpg" alt="[[@ulrich-lai_neural_2009]](http://doi.org/10.1038/nrn2647)" width="800px" />
 <p class="caption">[[@ulrich-lai_neural_2009]](http://doi.org/10.1038/nrn2647)</p>
@@ -504,7 +511,7 @@ Clinically significant because
 <p class="caption">[[@ulrich-lai_neural_2009]](http://doi.org/10.1038/nrn2647)</p>
 </div>
 
-### Adrenal hormones
+#### Adrenal hormones
 
 - *Steroids*
     + Derived from cholesterol
@@ -514,22 +521,25 @@ Clinically significant because
 - *Aldosterone*
     + Regulates Na (and water)
     
-## Reproductive behavior -- the milk letdown reflex
+### Reproductive behavior -- the milk letdown reflex
 
 - Supraoptic & Paraventricular nucleus (PVN) of hypothalamus releases oxytocin 
     - Into bloodstream via posterior pituitary (endocrine)
     - Onto neurons in nucleus accumbens (neurocrine), amygdala, brainstem
+- Oxytocin stimulates milk ducts to secrete
 
 <div class="figure" style="text-align: center">
 <img src="http://physiologyplus.com/wp-content/uploads/2017/05/milk-ejection-reflex.png" alt="http://physiologyplus.com/wp-content/uploads/2017/05/milk-ejection-reflex.png" width="800px" />
 <p class="caption">http://physiologyplus.com/wp-content/uploads/2017/05/milk-ejection-reflex.png</p>
 </div>
 
-Oxytocin's role...
+**Oxytocin's role...**
 
 - Sexual arousal
 - Released in bursts during orgasm
-- Stimulates uterine, vaginal contraction
+- Stimulates uterine, vaginal contraction during labor
+    - But mouse OXY knock-out model still engages in reproductive behavior and gives birth without incident
+- Oxytocin cells in ovarian corpus luteum, testicles, retina, adrenal medulla, pancreas
 - Links to social interaction, bonding  [[@Weisman2013158]](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
 - Alters face processing in autism  [[@Domes2013164]](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)
 - May inhibit fear/anxiety-related behaviors by gating amygdala [[@viviani2011oxytocin]](http://doi.org/10.1126/science.1201043)
@@ -540,13 +550,13 @@ Oxytocin's role...
 </a>
 </div>
 
-## Circadian rhythms
+### Circadian rhythms
 
-### Melatonin
+#### Melatonin
 
 - Diurnal rhythm
 - Night time peak, early morning low
-- Secretion suppressed by "blue" light (< 460-480 nm)
+- Secretion suppressed by short wavelength or "blue" light (< 460-480 nm)
 - Rhythm irregular until ~3 mos post-natal [[@Ardura2003-tw]](http://dx.doi.org/68571)
 - Peak weakens, broadens with age
 
@@ -571,8 +581,10 @@ Oxytocin's role...
 - State variables and behavior
     - Are your participants sleepy, hungry, horny, distressed...
     - Endogenous & exogenous influences
+    - Systems interact; need better, broader, and denser measurement
 
 ### Gut/brain connection
+
 <div class="figure" style="text-align: center">
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223616301138-gr1.jpg" alt="[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)" width="800px" />
 <p class="caption">[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)</p>
