@@ -36,10 +36,9 @@ Gentle Arms of Eden.
 # Evolution
 ## Public acceptance of evolution
 
-<div class="centered">
-<img src="https://www.sciencemag.org/content/313/5788/765/F1.medium.gif" height=450px>
-
-[[@miller2006public]](http://dx.doi.org/10.1126/science.1126746)
+<div class="figure" style="text-align: center">
+<img src="https://www.sciencemag.org/content/313/5788/765/F1.medium.gif" alt="[[@miller2006public]](http://dx.doi.org/10.1126/science.1126746)" width="800px" />
+<p class="caption">[[@miller2006public]](http://dx.doi.org/10.1126/science.1126746)</p>
 </div>
 
 ### Types of evidence
@@ -52,14 +51,13 @@ Gentle Arms of Eden.
 - Genetic
     + Rates of mutation
 - Anatomical
-
-**Nothing in Biology Makes Sense Except in the Light of Evolution**
+    + Homologous structures across species
 
 > *"Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole."*
-    
+
 [[@Dobzhansky1973]](http://dx.doi.org/10.2307/4444260)
 
-### Why Gilmore thinks the theory so controversial (in the U.S.)?
+### Why Gilmore thinks the theory so controversial (in the U.S.)
 
 - Contradicts verbatim/non-metaphorical reading of some religious texts
 - Makes humans seem less special
@@ -67,7 +65,7 @@ Gentle Arms of Eden.
 - Scientific method vs. other ways of knowing
 - Found in nature ≠ good for human society
 - Few negative consequences of 'disbelief'
-- U.S. culture individualistic, skeptical, anti-elitist/anti-intellectual
+- U.S. culture individualistic, skeptical, anti-elitist, anti-intellectual
 - Lower levels of religious belief among [U.S. scientists](http://news.rice.edu/2015/12/03/first-worldwide-survey-of-religion-and-science-no-not-all-scientists-are-atheists/)
 - [Politics](http://www.people-press.org/2009/07/09/section-4-scientists-politics-and-religion/)
 - A minority of citizens support teaching [evolution-only](http://www.pbs.org/wgbh/nova/blogs/education/2015/12/evolutionschools/) 
@@ -84,51 +82,59 @@ Gentle Arms of Eden.
 
 #### Ontogeny does not recapitulate phylogeny ([Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)), but...
 
-<div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Haeckel_drawings.jpg/350px-Haeckel_drawings.jpg" height=450px>
-
-<https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Haeckel_drawings.jpg/350px-Haeckel_drawings.jpg>
+<div class="figure" style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Haeckel_drawings.jpg/350px-Haeckel_drawings.jpg" alt="Source: Wikipedia" width="800px" />
+<p class="caption">Source: Wikipedia</p>
 </div>
 
 ### Complex multicellular life emerged "recently"
 
-<div class="centered">
-<img src="http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" height=450px>
-
-<http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif>
+<div class="figure" style="text-align: center">
+<img src="http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" alt="Source: http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" width="800px" />
+<p class="caption">Source: http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif</p>
 </div>
 
-<div class="centered">
-<img src="http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif" height=450px>
+<div class="figure" style="text-align: center">
+<img src="http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif" alt="http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif" width="800px" />
+<p class="caption">http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif</p>
+</div>
 
-<http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif>
+<div class="figure" style="text-align: center">
+<img src="http://anthony.liekens.net/pub/timeline.png" alt="http://anthony.liekens.net/pub/timeline.png" width="800px" />
+<p class="caption">http://anthony.liekens.net/pub/timeline.png</p>
 </div>
 
 ### Nervous system architectures
-
-<div class="centered">
-<img src="https://media.nature.com/lw926/nature-assets/nrn/journal/v17/n1/images/nrn.2015.15-f1.jpg" height=500px>
-</div>
-
-#### An animal with a nerve "net"
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-UI531GMRTM" frameborder="0" allowfullscreen></iframe>
 
 #### How nervous systems differ
 
 - Body symmetry
     + radial
     + bilateral
+    
+<div class="centered">
+<img src="https://media.nature.com/lw926/nature-assets/nrn/journal/v17/n1/images/nrn.2015.15-f1.jpg" height=500px>
+</div>
+
+<div class="figure" style="text-align: center">
+<img src="https://media.nature.com/lw926/nature-assets/nrn/journal/v17/n1/images/nrn.2015.15-f1.jpg" alt="Source: [[@arendt_nerve_2016]](https://doi.org/10.1038/nrn.2015.15)" width="800px" />
+<p class="caption">Source: [[@arendt_nerve_2016]](https://doi.org/10.1038/nrn.2015.15)</p>
+</div>
+
+**An animal with a nerve "net"**
+
+<iframe width="600" height="800" src="https://www.youtube.com/embed/-UI531GMRTM" frameborder="0" allowfullscreen></iframe>
+
 - Segmentation
 - Cephalization (concentration of sensory & neural structures in anterior portion of body)
 - Encasement in bone (vertebrates)
 - Centralized vs. distributed function
 
-#### Cephalopods have "intelligent arms"
+**Cephalopods have "intelligent arms"**
 
 <iframe width="700" height="400" src="http://www.sciencedirect.com/science/article/pii/S0022098113000683" frameborder="0" allowfullscreen></iframe>
 
-### What nervous systems must do: Biological computation
+### The essentials of biological computation
 
 - Ingestion
 - Defense
@@ -140,78 +146,66 @@ Gentle Arms of Eden.
 
 #### Information processing universals
 
-- Sense/detect
-    + Sensors
-- Analyze, evaluate, decide
-- Act
-    + Effectors
-    + e.g., approach/avoid, manipulate, ingest, signal
-
-#### Sensors
-
-- Specialize by information source/type
-- Specialize by target location
+- Sense/detect via sensors
+  - Specialize by information source/type
+  - Specialize by target location
     + Interoceptive
     + Exteroceptive
-    
-#### Analysis, evaluation, decision
+- Analyze, evaluate, decide
+  - Current state
+      + World
+      + Organism
+  - Current goals
+  - Past state(s)
+- Act
+    + Move body
+      - Approach/avoid
+      - Manipulate
+      - Ingest
+      - Signal
+    - Change physiological state
 
-- Current state
-    + World
-    + Organism
-- Current goals
-- Past state(s)
-
-#### Effectors
-
-- Move body
-- Send signals
-- Change physiological state
-
-### From nerve net to nerve ring, nerve cord and brain 
+### From nerve net to nerve ring, nerve cord, and brain 
 [[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)
 
-<div class="centered">
-<img src="img/nrn.2015.15-f1.jpg" height=500px>
+<div class="figure" style="text-align: center">
+<img src="img/nrn.2015.15-f1.jpg" alt="[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)" width="800px" />
+<p class="caption">[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)</p>
 </div>
 
-<div class="centered">
-<img src="img/nrn.2015.15-f2.jpg" height=500px>
+<div class="figure" style="text-align: center">
+<img src="img/nrn.2015.15-f2.jpg" alt="[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)" width="800px" />
+<p class="caption">[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)</p>
 </div>
 
 - Neurons and nervous systems 520-570 M years old
-- Similarities at molecular level in how diverse nervous systems develop
+- Diverse nervous systems show developmental similarities at molecular level 
 
 ### Vertebrate CNS organization
 
-<div class="centered">
-<img src="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" height=450px>
+<div class="figure" style="text-align: center">
+<img src="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" alt="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg" width="800px" />
+<p class="caption">http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg</p>
 </div>
 
----
-
-<div class="centered">
-<img src="img/northcutt-2002-f1.gif"/>
-
-[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)
+<div class="figure" style="text-align: center">
+<img src="img/northcutt-2002-f1.gif" alt="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)" width="800px" />
+<p class="caption">[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)</p>
 </div>
 
-<div class="centered">
-<a href="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg">
-<img src="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg" height=500px>
-</a>
+<div class="figure" style="text-align: center">
+<img src="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg" alt="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg" width="800px" />
+<p class="caption">http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg</p>
 </div>
 
-<div class="centered">
-<img src="img/northcutt-2002-f2.gif"/>
-
-[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)
+<div class="figure" style="text-align: center">
+<img src="img/northcutt-2002-f2.gif" alt="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)" width="800px" />
+<p class="caption">[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)</p>
 </div>
 
-<div class="centered">
-<img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg" height=450px>
-
-[@hofman_evolution_2014]
+<div class="figure" style="text-align: center">
+<img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg" alt="[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)" width="800px" />
+<p class="caption">[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)</p>
 </div>
 
 | Structural measure | Non-human comparison | Human |
@@ -220,28 +214,33 @@ Gentle Arms of Eden.
 | Cortical gray + white | mice 40% | 80% |
 | Cerebellar mass | primates, mammals 10-15% | 10-15% |
 
-<div class="centered">
-<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f1.jpg" width=450px>
-
-[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+<div class="figure" style="text-align: center">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f1.jpg" alt="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)" width="800px" />
+<p class="caption">[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)</p>
 </div>
 
-<div class="centered">
-<img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g002.jpg" width=900px>
-
-[[@hofman_evolution_2014]](http://journal.frontiersin.org/article/10.3389/fnana.2014.00015/full)
+<div class="figure" style="text-align: center">
+<img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g002.jpg" alt="[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)" width="800px" />
+<p class="caption">[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)</p>
 </div>
 
 **Take homes**
 
 - Brain sizes scale with body size
-- Brain sizes scale with animal class (more or less)
+- Brain sizes (more or less) scale with animal class (more or less)
 
 **Old story**
 
 - Within mammals, human brains bigger than expected
-    - Higher encephalization quotient
+    - Higher *encephalization quotient* -- deviation from species-typical norm
+    
+<div class="figure" style="text-align: center">
+<img src="img/northcutt-2002-f2.gif" alt="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)" width="800px" />
+<p class="caption">[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)</p>
+</div>
+
 - Humans have larger cerebral cortical gray + white matter than comparable mammals
+
 
 **vs. New story**
 
@@ -249,32 +248,25 @@ Gentle Arms of Eden.
 - "Size matters" (brain mass) presumes similarity among brains at micro-level
 - Big (large mass) brains arise in multiple animal lineages
 
----
-
-<div class="centered">
-<a href="http://www.pnas.org/content/109/Supplement_1/10661/F1.expansion.html">
-<img src="http://www.pnas.org/content/109/Supplement_1/10661/F1.large.jpg" height=500px>
-</a>
+<div class="figure" style="text-align: center">
+<img src="http://www.pnas.org/content/109/Supplement_1/10661/F1.large.jpg" alt="[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)" width="800px" />
+<p class="caption">[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)</p>
 </div>
 
 - *# of cortical neurons* more important difference than brain mass
 - The primate advantage -> more cortical neurons, but not larger neurons
 - Human brain just scaled up (non-ape) primate brain
 
----
-
-<div class="centered">
-<a href="http://www.pnas.org/content/109/Supplement_1/10661/F3.expansion.html">
-<img src="http://www.pnas.org/content/109/Supplement_1/10661/F3.large.jpg" height=550px>
-</a>
+<div class="figure" style="text-align: center">
+<img src="http://www.pnas.org/content/109/Supplement_1/10661/F3.large.jpg" alt="[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)" width="800px" />
+<p class="caption">[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)</p>
 </div>
 
 **# of cortical (or in birds, pallidum) neurons predicts "cognition"?**
 
-<div class="centered">
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S2352154616302637-gr3_lrg.jpg" width=900px>
-
-[[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)
+<div class="figure" style="text-align: center">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S2352154616302637-gr3_lrg.jpg" alt="[[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)" width="800px" />
+<p class="caption">[[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)</p>
 </div>
 
 **The Human Advantage [@Herculano-Houzel2016-oy]**
@@ -283,18 +275,15 @@ Gentle Arms of Eden.
 - Less time spent foraging
     + Higher quality/more energetically dense food
     + Higher food availability
-    + Cultural factors (agriculture + cooking)
-    + See also [@Wrangham2009-vq]
+    + Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
     
 **A further human advantage**
 
-<div class="centered">
-<img src="http://www.melvinkonner.com/wp-content/uploads/2009/02/eofccover-195x293.jpg" height=450px>
-</div>
+<img src="http://www.melvinkonner.com/wp-content/uploads/2009/02/eofccover-195x293.jpg" width="800px" style="display: block; margin: auto;" />
 
 # Human brain development
 
-## Prenatal brain development
+## Prenatal period
 
 ### Insemination
 
@@ -318,74 +307,64 @@ Gentle Arms of Eden.
 - Embryonic layers: ectoderm, mesoderm, endoderm
 - ~18-26 days
 - Failures of neural tube closure
-    + Spina bifida
-    + Anencephaly
+    + Spina bifida (caudal neuraxis)
+    + Anencephaly (rostral neuraxis)
 - Neural tube becomes
-    + Ventricles
+    + Ventricles & cerebral aqueduct
     + Central canal of spinal cord
 
 ### Neurogenesis and gliogenesis
 
 - Neuroepithelium cell layer lines neural tube
-- Neural stem cells 
-      - Undergo symmetric & asymmetric cell division
-      - Generate glia, neurons, and basal progenitor cells
+- Neural stem cells
+    - Undergo *symmetric* & *asymmetric* cell division
+    - Generate glia, neurons, and basal progenitor cells
 
-<div class="centered">
-<img src="https://www.nature.com/nrm/journal/v6/n10/images/nrm1739-f1.jpg" height=500px>
 
-[[@Gotz2005-yj]](http://doi.org/http://dx.doi.org/10.1038/nrm1739)
+<div class="figure" style="text-align: center">
+<img src="https://www.nature.com/nrm/journal/v6/n10/images/nrm1739-f1.jpg" alt="[[@Gotz2005-yj]](http://doi.org/http://dx.doi.org/10.1038/nrm1739)" width="800px" />
+<p class="caption">[[@Gotz2005-yj]](http://doi.org/http://dx.doi.org/10.1038/nrm1739)</p>
 </div>
 
 **Zika and microcephaly**
 
-<iframe src="http://www.cdc.gov/ncbddd/birthdefects/microcephaly.html">
+<iframe width="800px" height="600px"> src="https://www.cdc.gov/zika/healtheffects/birth_defects.html">
 </iframe>
 
-### Radial glia
+### Radial glia and cell migration
 
-<div class="centered">
-<img src="img/radial-glia.jpg" height=450px>
+<img src="img/radial-glia.jpg" width="800px" style="display: block; margin: auto;" />
+
+<img src="img/neural-tube.jpg" width="800px" style="display: block; margin: auto;" />
+
+**Radial unit hypothesis**
+
+<div class="figure" style="text-align: center">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg" alt="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)" width="800px" />
+<p class="caption">[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)</p>
 </div>
 
-### Cell migration
-
-<div class="centered">
-<img src="img/neural-tube.jpg" height=450px>
-</div>
-
-### Radial unit hypothesis
-
-<div class="centered">
-<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg" height=450px>
-
-[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
-</div>
-
-### Migration
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
 
-### Glial migration
 
-<div class="centered">
-<img src="https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133004.jpeg" height=450px>
-
-[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)
-</div>
-
-### Axon growth cone
+**Axon growth cone**
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
-
-**Axons follow**
 
 - Chemoattractants
     + e.g., Nerve Growth Factor (NGF)
 - Chemorepellents
 - Receptors in growth cone detect chemical gradients
+
+**Glia migrate, too**
+
+<div class="figure" style="text-align: center">
+<img src="https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133004.jpeg" alt="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)" width="800px" />
+<p class="caption">[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)</p>
+</div>
 
 ## Differentiation
 
@@ -394,21 +373,19 @@ Gentle Arms of Eden.
 - NTs released
 - Where to connect
 
-**Differential gene expression in PFC vs. other**
+<!-- **Differential gene expression in PFC vs. other** -->
 
-<div class="centered">
-<img src="img/johnson-gene-expression-fig-6.jpeg" height=450px>
+<!-- <div class="centered"> -->
+<!-- <img src="img/johnson-gene-expression-fig-6.jpeg" height=450px> -->
 
-[[johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
-</div>
+<!-- [[@johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027) -->
+<!-- </div> -->
 
 ## Infancy & Early Childhood
 
 ### Synaptogenesis
 
-<div class="centered">
-<img src="img/synaptic-density-infant.jpg" height=450px>
-</div>
+<img src="img/synaptic-density-infant.jpg" width="800px" style="display: block; margin: auto;" />
 
 ### Proliferation, pruning
 
@@ -423,27 +400,23 @@ Gentle Arms of Eden.
 - Spinal cord >> cortex
 - Quantity of nerve growth factors (NGF) influences
 
-<div class="centered">
-<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" height=450px>
-
-[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+<div class="figure" style="text-align: center">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" alt="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)" width="800px" />
+<p class="caption">[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)</p>
 </div>
 
 ### Synaptic rearrangement
 
-<div class="centered">
-<img src="img/huttenlocher.jpg" height=450px>
-</div>
+<img src="img/huttenlocher.jpg" width="800px" style="display: block; margin: auto;" />
 
 - Progressive phase: growth rate >> loss rate
 - Regressive phase: growth rate << loss rate
 
 ### Myelination
 
-<div class="centered">
-<img src="https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133006.jpeg" height=450px>
-
-[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)
+<div class="figure" style="text-align: center">
+<img src="https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133006.jpeg" alt="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)" width="800px" />
+<p class="caption">[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)</p>
 </div>
 
 - Neonatal brain largely unmyelinated
@@ -454,31 +427,27 @@ Gentle Arms of Eden.
     
 ### Gyral development
 
-<div class="centered">
-<img src="img/chi-77-1.jpg" height=500px>
-
-[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)
+<div class="figure" style="text-align: center">
+<img src="img/chi-77-1.jpg" alt="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)" width="800px" />
+<p class="caption">[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)</p>
 </div>
 
-<div class="centered">
-<img src="img/chi-77-2.jpg" height=500px>
-
-[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)
+<div class="figure" style="text-align: center">
+<img src="img/chi-77-2.jpg" alt="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)" width="800px" />
+<p class="caption">[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)</p>
 </div>
 
-<div class="centered">
-<img src="img/chi-77-3.jpg" height=500px>
-
-[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)
+<div class="figure" style="text-align: center">
+<img src="img/chi-77-3.jpg" alt="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)" width="800px" />
+<p class="caption">[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)</p>
 </div>
 
-<div class="centered">
-<img src="img/chi-77-4.jpg" height=250px>
-
-[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)
+<div class="figure" style="text-align: center">
+<img src="img/chi-77-4.jpg" alt="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)" width="800px" />
+<p class="caption">[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)</p>
 </div>
 
-### Structural development
+### Structural/morphometric development
 
 <div class="centered">
 <img src="http://www.jneurosci.org/content/jneuro/28/47/12176/F2.large.jpg" height=450px>
@@ -486,189 +455,120 @@ Gentle Arms of Eden.
 [[@Knickmeyer2008-vl]](http://doi.org/10.1523/JNEUROSCI.3479-08.2008)
 </div>
 
-### Postnatal patterns of synaptogenesis
+#### Synaptogenesis
 
-<div class="centered">
-<img src="img/huttenlocher.jpg" height=450px>
+<img src="img/huttenlocher.jpg" width="800px" style="display: block; margin: auto;" />
+
+
+#### Myelination across human development
+
+<div class="figure" style="text-align: center">
+<img src="http://www.pnas.org/content/107/44/19067/F1.medium.gif" alt="[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)" width="800px" />
+<p class="caption">[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)</p>
 </div>
 
-### Myelination across human development
+### Networks in the brain
 
-<div class="centered">
-<img src="http://www.pnas.org/content/107/44/19067/F1.medium.gif" height=450px>
-
-[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)
+<div class="figure" style="text-align: center">
+<img src="https://pressroom.usc.edu/files/2014/02/brain-networks.jpg" alt="[[@irimia_2014]](http://doi.org/10.3389/fnhum.2014.00051)" width="800px" />
+<p class="caption">[[@irimia_2014]](http://doi.org/10.3389/fnhum.2014.00051)</p>
 </div>
 
-## Networks in the brain
+- Age-related functional connectivity increases within visual-related areas [[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)
 
-<div class="centered">
-<img src="https://pressroom.usc.edu/files/2014/02/brain-networks.jpg" height=450px>
 
-[[@10.3389/fnhum.2014.00051]](http://doi.org/10.3389/fnhum.2014.00051)
-
-### Functional connectivity
-
-- Age-related increases within visual-related areas [[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)
-
----
-
-<div class="centered">
-<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2a_lrg.jpg">
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2a_lrg.jpg" height=500px>
-</a>
+<div class="figure" style="text-align: center">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2a_lrg.jpg" alt="[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)" width="800px" />
+<p class="caption">[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)</p>
 </div>
 
----
+**"Control" networks**
 
-<div class="centered">
-<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2b_lrg.jpg">
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2b_lrg.jpg" height=500px>
-</a>
+<div class="figure" style="text-align: center">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2a_lrg.jpg" alt="[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)" width="800px" />
+<p class="caption">[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)</p>
 </div>
 
-<div class="notes">
-Age-related profiles in connectivity among "control networks."
+**non-"control" networks**
+
+<div class="figure" style="text-align: center">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2c_lrg.jpg" alt="[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)" width="800px" />
+<p class="caption">[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)</p>
 </div>
 
----
+**The "development" of developmental connectomics**
 
-<div class="centered">
-<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2c_lrg.jpg">
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2c_lrg.jpg" height=500px>
-</a>
+<div class="figure" style="text-align: center">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301157-gr2_lrg.jpg" alt="[[@Cao2017-bl]](http://doi.org/10.1016/j.tins.2017.06.003)" width="800px" />
+<p class="caption">[[@Cao2017-bl]](http://doi.org/10.1016/j.tins.2017.06.003)</p>
 </div>
 
-<div class="notes">
-Age-related profiles in connectivity among "non-control networks."
+**Myelination changes "network" properties**
+
+<div class="figure" style="text-align: center">
+<img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" alt="[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)" width="800px" />
+<p class="caption">[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)</p>
 </div>
 
-### The "development" of developmental connectomics
-
-<div class="centered">
-<a href="https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301157-gr2_lrg.jpg">
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301157-gr2_lrg.jpg" width=900px>
-</a>
-
-[[@Cao2017-bl]](http://doi.org/10.1016/j.tins.2017.06.003)
-</div>
-
-### Myelination changes "network" properties
-
-<div class="centered">
-<img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" height=450px>
-
-[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)
-</div>
-
-### Synaptic rearrangment, myelination change cortical thickness
+**Synaptic rearrangment, myelination change cortical thickness**
 
 - [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
 - Areal differences in cortical thickness change
 
-[[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
+<!-- <video width="320" height="240" controls> -->
+<!--   <source src="mov/02680Movie1.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
 
-<video width="320" height="240" controls>
-  <source src="mov/02680Movie1.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<!-- <video width="320" height="240" controls> -->
+<!--   <source src="mov/02680Movie2.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
 
-<video width="320" height="240" controls>
-  <source src="mov/02680Movie2.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<!-- <video width="320" height="240" controls> -->
+<!--   <source src="mov/02680Movie3.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
 
-<video width="320" height="240" controls>
-  <source src="mov/02680Movie3.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<!-- <video width="320" height="240" controls> -->
+<!--   <source src="mov/02680Movie4.mp4" type="video/mp4"> -->
+<!-- Your browser does not support the video tag. -->
+<!-- </video> -->
 
-<video width="320" height="240" controls>
-  <source src="mov/02680Movie4.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
----
-
-<div class="centered">
-<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F1.large.jpg" height=500px>
-[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)
+<div class="figure" style="text-align: center">
+<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F1.large.jpg" alt="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)" width="800px" />
+<p class="caption">[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)</p>
 </div>
 
-<div class="notes">
-Sampling in Shaw et al 2008 study
+<div class="figure" style="text-align: center">
+<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F2.large.jpg" alt="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)" width="800px" />
+<p class="caption">[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)</p>
 </div>
 
----
-
-<div class="centered">
-<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F2.large.jpg" height=500px>
-
-[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)
+<div class="figure" style="text-align: center">
+<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F3.large.jpg" alt="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)" width="800px" />
+<p class="caption">[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)</p>
 </div>
 
-<div class="notes">
-Illustrations of cubic, quadratic, and linear changes in cortical thickness.
+<div class="figure" style="text-align: center">
+<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F4.large.jpg" alt="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)" width="800px" />
+<p class="caption">[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)</p>
 </div>
 
----
+### Changes in brain energetics (glucose utilization)
 
-<div class="centered">
-<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F3.large.jpg" height=500px>
-
-[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)
+<div class="figure" style="text-align: center">
+<img src="http://www.pnas.org/content/111/36/13010/F1.medium.gif" alt="[[@Kuzawa2014-qd]](http://doi.org/10.1073/pnas.1323099111)" width="800px" />
+<p class="caption">[[@Kuzawa2014-qd]](http://doi.org/10.1073/pnas.1323099111)</p>
 </div>
 
-<div class="notes">
-Illustrations of cubic, quadratic, and linear changes in cortical thickness from Shaw et al. 2008.
-</div>
-
----
-
-<div class="centered">
-<img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F4.large.jpg" height=500px>
-
-[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)
-</div>
-
-<div class="notes">
-Illustrations of cubic, quadratic, and linear changes in medial frontal lobe cortical thickness from Shaw et al. 2008.
-</div>
-
-<!-- Scrolling final reference page -->
-<!-- http://stackoverflow.com/q/38260799 -->
-<style>
-slides > slide { overflow: scroll; }
-slides > slide:not(.nobackground):before {
-  background: none;
-  }
-slides > slide:not(.nobackground):after {
-  content: '';
-  background: none;
-  }
-}
-</style>
-
-### Changes in brain energetics
-
-<div class="centered">
-<a href="http://www.pnas.org/content/111/36/13010/F1.medium.gif">
-<img src="http://www.pnas.org/content/111/36/13010/F1.medium.gif" height=500px>
-</a>
-
-[[@Kuzawa2014-qd]](http://doi.org/10.1073/pnas.1323099111)
-</div>
-
-<div class="notes">
-Glucose utilization across age.
-</div>
 
 ### Gene expression across development
 
-<div class="centered">
-<img src="https://www.nature.com/nature/journal/v478/n7370/images/nature10523-f5.2.jpg" width=1000px>
-
-[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)
+<div class="figure" style="text-align: center">
+<img src="https://www.nature.com/nature/journal/v478/n7370/images/nature10523-f5.2.jpg" alt="[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)" width="800px" />
+<p class="caption">[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)</p>
 </div>
 
 ## Summary of developmental milestones
