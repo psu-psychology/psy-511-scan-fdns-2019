@@ -1,0 +1,40 @@
+---
+title: "test"
+author: "Rick Gilmore"
+date: "10/16/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101) {.tabset}
+
+#### Right hemisphere
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Left hemisphere
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Superior
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Inferior
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>

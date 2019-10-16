@@ -27,10 +27,6 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j6y1o6woVaY" frameborder="0" allowfullscreen></iframe>
 
-<div class="notes">
-Gentle Arms of Eden.
-</div>
-
 <iframe width="420" height="315" src="https://www.youtube.com/embed/QMshTTIp7SA" frameborder="0" allowfullscreen></iframe>
 
 # Evolution
@@ -322,14 +318,9 @@ Gentle Arms of Eden.
 
 
 <div class="figure" style="text-align: center">
-<img src="https://www.nature.com/nrm/journal/v6/n10/images/nrm1739-f1.jpg" alt="[[@Gotz2005-yj]](http://doi.org/http://dx.doi.org/10.1038/nrm1739)" width="800px" />
-<p class="caption">[[@Gotz2005-yj]](http://doi.org/http://dx.doi.org/10.1038/nrm1739)</p>
+<img src="https://www.nature.com/nrm/journal/v6/n10/images/nrm1739-f1.jpg" alt="[[@Gotz2005-yj]](https://doi.org/10.1038/nrm1739)" width="800px" />
+<p class="caption">[[@Gotz2005-yj]](https://doi.org/10.1038/nrm1739)</p>
 </div>
-
-**Zika and microcephaly**
-
-<iframe width="800px" height="600px"> src="https://www.cdc.gov/zika/healtheffects/birth_defects.html">
-</iframe>
 
 ### Radial glia and cell migration
 
@@ -459,7 +450,6 @@ Gentle Arms of Eden.
 
 <img src="img/huttenlocher.jpg" width="800px" style="display: block; margin: auto;" />
 
-
 #### Myelination across human development
 
 <div class="figure" style="text-align: center">
@@ -512,29 +502,7 @@ Gentle Arms of Eden.
 
 **Synaptic rearrangment, myelination change cortical thickness**
 
-- [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
-- Areal differences in cortical thickness change
-
-<!-- <video width="320" height="240" controls> -->
-<!--   <source src="mov/02680Movie1.mp4" type="video/mp4"> -->
-<!-- Your browser does not support the video tag. -->
-<!-- </video> -->
-
-<!-- <video width="320" height="240" controls> -->
-<!--   <source src="mov/02680Movie2.mp4" type="video/mp4"> -->
-<!-- Your browser does not support the video tag. -->
-<!-- </video> -->
-
-<!-- <video width="320" height="240" controls> -->
-<!--   <source src="mov/02680Movie3.mp4" type="video/mp4"> -->
-<!-- Your browser does not support the video tag. -->
-<!-- </video> -->
-
-<!-- <video width="320" height="240" controls> -->
-<!--   <source src="mov/02680Movie4.mp4" type="video/mp4"> -->
-<!-- Your browser does not support the video tag. -->
-<!-- </video> -->
-
+- Cortical thickness changes [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
 
 <div class="figure" style="text-align: center">
 <img src="http://www.jneurosci.org/content/jneuro/28/14/3586/F1.large.jpg" alt="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)" width="800px" />
@@ -556,13 +524,43 @@ Gentle Arms of Eden.
 <p class="caption">[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)</p>
 </div>
 
+### Video depictions {.tabset}
+
+#### Right hemisphere
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Left hemisphere
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Superior
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Inferior
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+```
+
 ### Changes in brain energetics (glucose utilization)
 
 <div class="figure" style="text-align: center">
 <img src="http://www.pnas.org/content/111/36/13010/F1.medium.gif" alt="[[@Kuzawa2014-qd]](http://doi.org/10.1073/pnas.1323099111)" width="800px" />
 <p class="caption">[[@Kuzawa2014-qd]](http://doi.org/10.1073/pnas.1323099111)</p>
 </div>
-
 
 ### Gene expression across development
 
@@ -596,41 +594,32 @@ Gentle Arms of Eden.
 
 ### 3-4 weeks
 
-<div class="centered">
-<img src="img/swanson-1.jpg" height=450px>
+
+<div class="figure" style="text-align: center">
+<img src="img/swanson-1.jpg" alt="Source: Swanson" width="800px" />
+<p class="caption">Source: Swanson</p>
 </div>
 
 ### 4 weeks
 
-<div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg" height=450px>
-
-<https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg>
+<div class="figure" style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg" alt="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg" width="800px" />
+<p class="caption">https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg</p>
 </div>
 
 ### ~4 weeks
 
-<div class="centered">
-<img src="img/swanson-2.jpg" height=450px>
-</div>
+<img src="img/swanson-2.jpg" width="800px" style="display: block; margin: auto;" />
 
 ### 6 weeks
 
-<div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png" height=450px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png" width="800px" style="display: block; margin: auto;" />
 
-<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png>
-</div>
-
-<div class="centered">
-<img src="img/swanson-3.jpg" height=450px>
-</div>
+<img src="img/swanson-3.jpg" width="800px" style="display: block; margin: auto;" />
 
 ### Beyond 6+ weeks
 
-<div class="centered">
-<img src="img/swanson-4.jpg" height=450px>
-</div>
+<img src="img/swanson-4.jpg" width="800px" style="display: block; margin: auto;" />
 
 ### Organization of the brain
 
@@ -647,12 +636,12 @@ Gentle Arms of Eden.
 
 ### From structural development to functional development
 
+<div class="figure" style="text-align: center">
+<img src="https://www.nature.com/nrn/journal/v2/n7/images/nrn0701_475a_f3.gif" alt="[[@Johnson2001-yy]](http://doi.org/10.1038/35081509)" width="800px" />
+<p class="caption">[[@Johnson2001-yy]](http://doi.org/10.1038/35081509)</p>
+</div>
+
 <div class="centered">
 <img src="https://www.nature.com/nrn/journal/v2/n7/images/nrn0701_475a_f3.gif" height=500px>
 
-[[@Johnson2001-yy]](http://doi.org/10.1038/35081509)
-</div>
-
 # References
-
-
