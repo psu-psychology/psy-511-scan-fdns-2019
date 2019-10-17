@@ -641,7 +641,4 @@ Your browser does not support the video tag.
 <p class="caption">[[@Johnson2001-yy]](http://doi.org/10.1038/35081509)</p>
 </div>
 
-<div class="centered">
-<img src="https://www.nature.com/nrn/journal/v2/n7/images/nrn0701_475a_f3.gif" height=500px>
-
 # References

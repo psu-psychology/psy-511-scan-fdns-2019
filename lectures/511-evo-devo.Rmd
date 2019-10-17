@@ -624,7 +624,4 @@ knitr::include_graphics("img/swanson-4.jpg")
 knitr::include_graphics("https://www.nature.com/nrn/journal/v2/n7/images/nrn0701_475a_f3.gif")
 ```
 
-<div class="centered">
-<img src="https://www.nature.com/nrn/journal/v2/n7/images/nrn0701_475a_f3.gif" height=500px>
-
 # References
