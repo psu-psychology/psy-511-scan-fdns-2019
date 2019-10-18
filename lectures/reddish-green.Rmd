@@ -1,0 +1,30 @@
+---
+title: "reddish-green"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# What's a reddish-green look like? {.flexbox .vcenter}
+
+## Reddish-green {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/reddish-green.jpg">
+</div>
+
+## Reddish-green {.flexbox .vcenter}z
+
+<div class="centered">
+<img src="img/fixation-cross.jpg">
+</div>
