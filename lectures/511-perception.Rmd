@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(igraph)
-el <- rbind(c("W","S"), c("S","N/M"), c("N/M", "A"), c("A", "W"), c("N","B"), c("B","W"))
+el <- rbind(c("W","S"), c("S","M"), c("M", "A"), c("A", "W"))
 g <- graph_from_edgelist(el)
 g$layout <- layout_in_circle
 plot(g, vertex.size=50, vertex.color="gray")
