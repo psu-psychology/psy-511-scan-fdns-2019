@@ -304,8 +304,8 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/51/Fro
 
 #### Visual acuity varies
 
-```{r}
-knitr::include_graphics("img/two-point-thresholds.jpg")
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AcuityHumanEye.svg/270px-AcuityHumanEye.svg.png"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AcuityHumanEye.svg/270px-AcuityHumanEye.svg.png")
 ```
 
 #### Hearing thresholds varies

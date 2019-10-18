@@ -1,7 +1,7 @@
 ---
 title: "511-perception-action"
 author: "Rick Gilmore"
-date: "2019-10-18 11:43:53"
+date: "2019-10-18 11:52:21"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -268,7 +268,10 @@ output:
 
 #### Visual acuity varies
 
-<img src="img/two-point-thresholds.jpg" width="600px" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AcuityHumanEye.svg/270px-AcuityHumanEye.svg.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AcuityHumanEye.svg/270px-AcuityHumanEye.svg.png" width="600px" />
+<p class="caption">https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AcuityHumanEye.svg/270px-AcuityHumanEye.svg.png</p>
+</div>
 
 #### Hearing thresholds varies
 
