@@ -1,7 +1,7 @@
 ---
 title: "511-perception-action"
 author: "Rick Gilmore"
-date: "2019-10-18 11:07:47"
+date: "2019-10-18 11:43:53"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -198,9 +198,14 @@ output:
 - Adaptation
     + Decline in sensitivity with sustained stimulation 
     + Most sensory systems attuned to change
-- Information propagates at different speeds
 
 <img src="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/figure_10_03_labeled.jpg" width="600px" style="display: block; margin: auto;" />
+
+- Information propagates at different speeds
+
+<iframe width="800px" height="800px" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity">
+</iframe>
+    
 
 ### Detect repeating signals
   

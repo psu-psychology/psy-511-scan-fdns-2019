@@ -212,11 +212,16 @@ knitr::include_graphics("img/biopsych-table-8.1.jpg")
 - Adaptation
     + Decline in sensitivity with sustained stimulation 
     + Most sensory systems attuned to change
-- Information propagates at different speeds
 
 ```{r}
 knitr::include_graphics("http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/figure_10_03_labeled.jpg")
 ```
+
+- Information propagates at different speeds
+
+<iframe width="800px" height="800px" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity">
+</iframe>
+    
 
 ### Detect repeating signals
   
