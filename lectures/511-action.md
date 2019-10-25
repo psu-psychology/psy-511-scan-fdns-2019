@@ -1,7 +1,7 @@
 ---
 title: "511-action"
 author: Rick Gilmore
-date: "2019-10-25 10:59:08"
+date: "2019-10-25 15:49:15"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -151,10 +151,6 @@ output:
 <img src="img/muscle-fibers-biopsych.jpg" width="600px" style="display: block; margin: auto;" />
 
 <img src="img/motor-endplate-nt-release.jpg" width="600px" style="display: block; margin: auto;" />
-
-<div class="centered">
-<img src="img/motor-endplate-nt-release.jpg" height=450px>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ousflrOzQHc" frameborder="0" allowfullscreen></iframe>
 
