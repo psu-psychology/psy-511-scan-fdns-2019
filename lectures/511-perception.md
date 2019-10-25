@@ -1,7 +1,7 @@
 ---
 title: "511-perception-action"
 author: "Rick Gilmore"
-date: "2019-10-18 12:01:07"
+date: "2019-10-18 15:48:12"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -19,7 +19,7 @@ output:
 
 # Fun
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FscIgtDJFXg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrHxhQPOO2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Principles of sensation & perception
 
@@ -224,8 +224,8 @@ output:
     
 + Eyes
 + Ears
++ Skin surface
 + Nostrils
-  + Skin surface
 - Tongue
 
 <img src="http://indianapublicmedia.org/amomentofscience/files/2010/06/tongue_111.jpg" width="600px" style="display: block; margin: auto;" />

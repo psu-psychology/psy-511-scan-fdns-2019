@@ -24,7 +24,10 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 
 # Fun
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FscIgtDJFXg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrHxhQPOO2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- See me, feel me, touch me, hear me from Tommy -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VpGHXPoJXk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Principles of sensation & perception
 
@@ -244,8 +247,8 @@ knitr::include_graphics("http://hearinghealthmatters.org/waynesworld/files/2012/
     
 + Eyes
 + Ears
++ Skin surface
 + Nostrils
-  + Skin surface
 - Tongue
 
 ```{r}
