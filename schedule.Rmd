@@ -170,7 +170,7 @@ title: "Schedule"
 - Reading
     + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory Processes: A Balancing Act across the Lifespan. *Trends in Neurosciences*, *39*(8), 567–579. Retrieved July 28, 2016, from http://www.sciencedirect.com/science/article/pii/S0166223616300480
 - Materials
-    + [HTML outline](lectures/511-perception.html)
+    + Perception outline [HTML](lectures/511-perception.html)
 
 ---
 
@@ -181,9 +181,9 @@ title: "Schedule"
 - Topics
     + Perception and Action. Read BW 10: 301:335, 11: 341:368.
 - Reading
-    + Nielsen, J. B. (2016). Human Spinal Motor Control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-013913>
+    + Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-013913>
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Perception outline [HTML](lectures/511-perception.html)
 
 ### Fri, Oct 25
 
@@ -192,7 +192,7 @@ title: "Schedule"
 - Reading
     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF slides]()
+    + Perception outline [HTML](lectures/511-perception.html), Action outline [HTML](lectures/511-action.html)
 
 ---
 

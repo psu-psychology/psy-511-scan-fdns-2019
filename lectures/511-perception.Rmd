@@ -1,5 +1,5 @@
 ---
-title: "511-perception-action"
+title: "511-perception"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib
@@ -648,3 +648,5 @@ knitr::include_graphics("img/beyond-v1.jpg")
 - Where is it? (space perception)
 - How do I get from here to there (action control)
 - What time (or time of year) is it?
+
+# References

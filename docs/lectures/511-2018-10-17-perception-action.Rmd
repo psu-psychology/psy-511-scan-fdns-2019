@@ -1,0 +1,519 @@
+---
+title: "511-2018-10-17-perception-action"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+css: css/ioslides.css
+bibliography: bib/bibliography.bib
+csl: bib/apa.csl
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## Today's Topics
+
+- Wrap up on vision
+- The neuroscience of action
+- Quiz 2 available Friday
+
+## The *fovea* {.smaller}
+
+<div class="centered">
+<img src="img/fovea.jpg" height=450px>
+
+<http://www.brainhq.com/sites/default/files/fovea.jpg>
+</div>
+
+## The fovea
+
+- Central 1-2 deg of visual field
+- Aligned with visual axis
+- *Retinal ganglion cells* pushed aside
+- Highest *acuity* vision == best for details
+
+## Acuity varies across fovea
+
+<div class="centered">
+<img src="img/acuity-across-visual-field.jpg" height=500px>
+</div>
+
+## Acuity varies across fovea {.smaller}
+
+<div class="centered">
+<img src="img/acuity-across-visual-field-graph.jpg" height=500px>
+
+<http://michaeldmann.net/pix_7/blndspot.gif>
+</div>
+
+## What part of the skin is like the fovea?
+
+## What part of the skin is like the fovea?
+
+<div class="centered">
+<img src="img/two-point-thresholds.jpg" height=450px>
+
+<http://jov.arvojournals.org/data/Journals/JOV/933499/jov-3-10-1-fig001.jpeg>
+</div>
+
+## *Photoreceptors* detect light
+
+<div class="centered">
+<img src="img/photoreceptors.jpg" height=450px>
+</div>
+
+## Photoreceptors detect light
+
+- *Rods*
+    + ~120 M/eye
+    + Mostly in periphery
+    + Active in low light conditions
+    + One wavelength range
+    
+## Photoreceptors detect light
+
+- *Cones*
+    + ~5 M/eye
+    + Mostly in center
+    + 3 wavelength ranges
+    
+## Photoreceptors "specialize" in particular wavelengths {.smaller}
+
+<div class="centered">
+<img src="img/1416_Color_Sensitivity.jpg" height=450px>
+
+Anatomy & Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013.
+</div>
+    
+## How photoreceptors work
+
+- Outer segment
+    + Membrane disks
+    + *Photopigments*
+        - Sense light, trigger chemical cascade
+- Inner segment
+    + Synaptic terminal
+- Light *hyperpolarizes* photoreceptor!
+    + The *dark current*
+    
+## Retina
+
+- Physiologically *backwards*
+    + How?
+- Anatomically *inside-out*
+    + How?
+  
+## Retina
+
+- Physiologically *backwards*
+    + <span class="red">Dark current</span>
+- Anatomically *inside-out*
+    + <span class="red">Photoreceptors at back of eye</span>
+
+## Retinal layers {.smaller}
+
+<div class="centered">
+<img src="img/retinal-layers.jpg" height=450px>
+
+<http://www.retinareference.com/anatomy/>
+</div>
+
+## Retinal layers
+
+- From photoreceptors...
+- To *Bipolar cells*
+    + <-> and *Horizontal cells*
+- To *Retinal ganglion cells*
+    + <-> and *Amacrine cells*
+
+## *Center-surround receptive fields*
+
+<div class="centered">
+<img src="img/on-center-off-center-receptive-fields.jpg" height=450px>
+</div>
+
+## Center-surround receptive fields
+
+- Center region
+    + Excites (or inhibits)
+- Surround region
+    + Does the opposite
+- Bipolar cells & Retinal Ganglion cells ->
+- Most activated by "donuts" of light/dark
+    + Local contrast (light/dark differences)
+
+## What's a reddish-green look like? {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/reddish-green.jpg">
+</div>
+
+## What's a reddish-green look like? {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/fixation-cross.jpg">
+</div>
+
+## *Opponent processing* {.smaller}
+
+<div class="centered">
+<img src="img/RGBOpponent.gif" height=450px>
+
+<http://www.visualexpert.com/sbfaqimages/RGBOpponent.gif>
+</div>
+
+## Opponent processing
+
+- Black vs. white (achromatic)
+- Long (red) vs. Medium (green) wavelength cones
+- (Long + Medium) vs. Short cones
+- Can't really see reddish-green or bluish-yellow
+    - "Oppose" one another at cellular/circuit level
+
+## From eye to brain
+
+<div class="centered">
+<img src="img/eye-to-brain.jpg" height=450px>
+</div>
+
+## From eye to brain
+
+- Retinal ganglion cells
+- 2nd/II cranial (optic) nerve
+    + Optic chiasm ($\chi$ - asm): Partial crossing of fibers
+    + Nasal hemiretina (lateral/peripheral visual field) cross
+    + Left visual field (from L & R retinae) -> right hemisphere & vice versa
+- *Lateral Geniculate Nucleus (LGN)* of thalamus (receives 90% of retinal projections)
+
+## From eye to brain
+
+- Hypothalamus
+    + *Suprachiasmatic nucleus* (superior to the optic chiasm): Synchronizes day/night cycle with circadian rhythms
+- Superior colliculus & brainstem
+
+
+## LGN
+
+<div class="centered">
+<img src="img/lgn.jpg" height=450px>
+</div>
+
+## LGN
+
+- 6 layers + intralaminar zone
+    + Parvocellular (small cells): chromatic 
+    + Magnocellular (big cells): achromatic
+    + Koniocellular (chromatic - <span color="blue">short</span> wavelength?)
+- Retinotopic map of opposite visual field
+
+## From LGN to V1
+
+<div class="centered">
+<img src="img/eye-to-brain.jpg" height=450px>
+</div>
+
+## From LGN to V1
+
+- Via *optic radiations*
+- *[Primary visual cortex (V1)](http://www.scholarpedia.org/article/Area_V1)* in occipital lobe
+- Create "stria of Gennari" (visible stripe in layer 4)
+- Calcarine fissure (medial occiptal lobe) divides lower/upper visual field
+
+## Human V1 {.smaller}
+
+<div class="centered">
+<img src="http://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png" height=450px>
+
+<http://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png>
+</div>
+
+## Measuring retinotopy in V1 {.smaller}
+
+<div class="centered">
+<img src="img/mri-v1-retinotopy.jpg" height=450px>
+
+[[@dougherty_visual_2003]](http://dx.doi.org/10.1167/3.10.1)
+</div>
+
+## Retinotopy in V1
+
+- Fovea overrepresented
+    + Analogous to somatosensation
+    + High acuity in fovea vs. lower outside it
+- Upper visual field/lower (ventral) V1 and *vice versa*
+
+## V1 has laminar, columnar organization
+
+<div class="centered">
+<img src="img/cortical-hypercolumn.jpg" height=450px>
+</div>
+
+## V1 has laminar, columnar organization
+
+- 6 laminae (layers)
+    + Input: Layer 4 (remember stria of Gennari?)
+    + Output: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)
+
+## V1 has laminar, columnar organization
+
+- Columns
+    + Orientation/angle
+    + Spatial frequency
+    
+## The "accidental" discovery of oriented receptive fields in V1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4" frameborder="0" allowfullscreen></iframe>
+    
+## Orientation/angle tuning {.smaller}
+
+<div class="centered">
+<img src="img/dir.selective.png" height=450px>
+
+<https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png>
+</div>
+
+## From center-surround receptive fields to line detection {.smaller}
+
+<div class="centered" height=450px>
+<img src="http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png" height=450px>
+</div>
+
+## Spatial frequency tuning {.smaller}
+
+<div class="centered">
+Low == gist    ||     high == details
+<img src="img/spatial-freq-fpsyg-03-00620-g003.jpg" width=850px>
+
+[[@panichello_predictive_2013]](http://dx.doi.org/10.3389/fpsyg.2012.00620)
+</div>
+
+## V1 has laminar, columnar organization
+
+- Columns
+    + Color/wavelength
+    + Eye of origin, *ocular dominance*
+    
+## Ocular dominance columns
+
+<div class="centered">
+<img src="img/cortical-hypercolumn.jpg" height=450px>
+</div>
+
+## Ocular dominance signals retinal disparity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjAQdc29vF8" frameborder="0" allowfullscreen></iframe>
+
+<http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png>
+</div>
+
+## Beyond V1
+
+<div class="centered" height=450px>
+<img src="img/beyond-v1.jpg" height=450px>
+</div>
+
+## Beyond V1
+
+- Larger, more complex receptive fields
+- *Dorsal stream* (where/how)
+    + Toward parietal lobe
+- *Ventral stream* (what)
+
+## What is vision for?
+
+- What is it? (form perception)
+- Where is it? (space perception)
+- How do I get from here to there (action control)
+- What time (or time of year) is it?
+
+<!-- ## The Real Reason for Brains -->
+
+<!-- <iframe src="https://embed-ssl.ted.com/talks/daniel_wolpert_the_real_reason_for_brains.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> -->
+
+## The neuroscience of action
+
+- What types of actions are there?
+- How are they produced?
+    + By the muscles
+    + By the nervous system
+    
+## Remember
+
+- Nervous system "output" includes
+    + Movements
+    + Autonomic responses
+    + Endocrine responses
+    
+## Types of actions
+
+<div class="centered">
+<img src="http://www.kidport.com/reflib/science/humanbody/muscularsystem/images/Reflexes.jpg" height=450px>
+
+<http://www.kidport.com/reflib/science/humanbody/muscularsystem/images/Reflexes.jpg>
+</div>
+
+## Types of actions
+
+- Reflexes
+    + Simple, highly stereotyped, unlearned, rapid
+- vs. Planned or voluntary actions
+    + Complex, flexible, acquired, slower
+- Discrete (reaching) vs. rhythmic (walking)
+- Ballistic (no feedback) vs. controlled (feedback)
+
+## Multiple, parallel controllers
+
+<div class="centered">
+<img src="img/motor-controllers-biopsych.jpg" height=450px>
+</div>
+
+## Key "nodes" in network
+
+- Primary motor cortex (M1)
+- Non-primary motor cortex
+- Basal ganglia
+- Brain stem
+- Cerebellum
+- Spinal cord
+
+## Muscle classes
+
+- Axial
+    + Trunk, neck, hips
+- Proximal
+    + Shoulder/elbow, pelvis/knee
+- Distal
+    + Hands/fingers, feet/toes
+    
+## Muscles
+
+<div class="centered">
+<img src="http://mypages.valdosta.edu/dodrobin/2651/Muscles/Muscles.jpg" height=450px>
+
+<http://mypages.valdosta.edu/dodrobin/2651/Muscles/Muscles.jpg>
+</div>
+
+## Muscle types
+
+- Smooth
+    + Arteries, hair follicles, uterus, intestines
+    + Regulated by ANS (involuntary)
+- Striated (striped)
+    + Skeletal
+    + Voluntary control, mostly connected to tendons and bones
+- Cardiac
+
+## Muscle types
+
+<div class="centered">
+<img src="http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg" height=450px>
+
+<http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg>
+</div>
+
+## How skeletal muscles contract
+
+- Motoneuron (ventral horn of spinal cord)
+- Neuromuscular junction
+    + Releases ACh
+    
+## From spinal cord to muscle
+
+<div class="centered">
+<img src="img/from-spinal-cord-to-muscle.jpg" height=450px>
+</div>
+    
+## How skeletal muscles contract
+
+- Motor endplate
+    + Nicotinic ACh receptor
+- Excitatory endplate potential
+    + Muscle fibers depolarize
+    + Depolarization spreads along fibers like an action potential
+    + Sarcomeres are segments of fibers
+    + Intramuscular stores release Ca++
+    
+## Motor endplate
+
+<div class="centered">
+<a href="http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg">
+<img src="http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg" height=450px>
+</a>
+</div>
+
+## How skeletal muscles contract
+
+- Myofibrils (w/in sarcomere)
+    + Actin & mysosin proteins
+    + “Molecular gears”
+- Bind, move, unbind in presence of Ca++,  ATP
+
+## Anatomy of muscle fibers
+
+<div class="centered">
+<img src="img/muscle-fibers-biopsych.jpg" height=450px>
+</div>
+
+## Anatomy of motor endplate
+
+<div class="centered">
+<img src="img/motor-endplate-nt-release.jpg" height=450px>
+</div>
+
+## Muscle contraction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ousflrOzQHc" frameborder="0" allowfullscreen></iframe>
+
+## Agonist/antagonist muscle pairs
+
+<div class="centered">
+<img src="http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg" height=450px>
+
+<http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg>
+</div>
+
+## Meat preference?
+
+<div class="centered">
+<img src="img/turkey.jpg" height=450px>
+</div>
+
+## Muscle fiber types
+
+- Fast twitch/fatiguing
+    + Type II
+    + White meat
+- Slow twitch/fatiguing
+    + Type I
+    + Red meat
+    
+## Muscles are sensory organs, too!
+
+<div class="centered">
+<img src="http://cdn.xl.thumbs.canstockphoto.com/canstock6466988.jpg" height=450px>
+</div>
+
+## Two muscle fiber types
+
+<div class="centered">
+<img src="img/muscle-fiber-types.jpg" height=450px>
+</div>
+
+## Two muscle fiber types
+
+- *Intrafusal* fibers
+    + Sense length/tension
+    + Contain muscle spindles linked to Ia afferents
+    + ennervated by gamma ($\gamma$) motor neurons
+- *Extrafusal* fibers
+    + Generate force
+    + ennervated by alpha ($\alpha$) motor neurons
+    
+## Next time...
+
+- More on action
+
+## References {.smaller}
