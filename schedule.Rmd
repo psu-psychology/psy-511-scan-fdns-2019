@@ -62,7 +62,7 @@ title: "Schedule"
 - Topics
     + Wrap-up on neuroanatomy 
 - Materials
-    + | [HTML outline](lectures/511-anatomy.html)
+    + Neuranatomy outline | [HTML](lectures/511-anatomy.html) |
     
 ---
 
@@ -83,7 +83,7 @@ title: "Schedule"
     + Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. *Nature Reviews Neuroscience*. Retrieved from <http://dx.doi.org/10.1038/nrn.2017.85>.
     + Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. *Trends in Neurosciences*, *38*(9), 535–549. Retrieved from http://dx.doi.org/10.1016/j.tins.2015.07.006
 - Materials
-    + Cellular outline [HTML](lectures/511-cells.html)
+    + Cellular outline | [HTML](lectures/511-cells.html) |
 
 ---
 
@@ -95,7 +95,7 @@ title: "Schedule"
     + **Quiz 1**. | [Download](quiz/quiz-01/psy-511.001-19-quiz-01.docx) |. Due at start of class on Friday, September 27, 2019.
     + Neurophysiology. Read BW 3:61-78.
 - Materials
-    + Cellular outline [HTML](lectures/511-cells.html)
+    + Cellular outline | [HTML](lectures/511-cells.html) |
 
 ### Fri, Sep 27
 
@@ -104,8 +104,8 @@ title: "Schedule"
     + Neural communication. Read BW 3:78-92.
     + Neurochemistry. Read BW: 4:95-100.
 - Materials
-    + Cellular outline [HTML](lectures/511-cells.html)
-    + Chemical communication outline [HTML](lectures/511-chemical-communication.html)
+    + Cellular outline | [HTML](lectures/511-cells.html) |
+    + Chemical communication outline | [HTML](lectures/511-chemical-communication.html) |
 
 ---
 
@@ -130,7 +130,7 @@ title: "Schedule"
 - Reading
     - Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.09.002
 - Materials
-    + Chemical communication outline [HTML](lectures/511-chemical-communication.html)
+    + Chemical communication outline | [HTML](lectures/511-chemical-communication.html) |
 
 ---
 
@@ -150,7 +150,7 @@ title: "Schedule"
     + Rakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. Nature Reviews Neuroscience, 10(10), 724–735. Retrieved October 5, 2015, from <http://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html>.
     + Cao, M., Huang, H., & He, Y. (2017). Developmental connectomics from infancy through early childhood. *Trends in Neurosciences*, *40*(8), 494–506. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.06.003>
 - Materials
-    + Evo/devo outline [HTML](lectures/511-evo-devo.html)
+    + Evo/devo outline | [HTML](lectures/511-evo-devo.html) |
 
 ---
 
@@ -161,7 +161,7 @@ title: "Schedule"
 - Topics
     + Brain development.
 - Materials
-    + Evo/devo outline [HTML](lectures/511-evo-devo.html)
+    + Evo/devo outline | [HTML](lectures/511-evo-devo.html) |
 
 ### Fri, Oct 18
 
@@ -183,7 +183,7 @@ title: "Schedule"
 - Reading
     + Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-013913>
 - Materials
-    + Perception outline [HTML](lectures/511-perception.html)
+    + Perception outline | [HTML](lectures/511-perception.html) |
 
 ### Fri, Oct 25
 
@@ -192,7 +192,7 @@ title: "Schedule"
 - Reading
     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
 - Materials
-    + Perception outline [HTML](lectures/511-perception.html), Action outline [HTML](lectures/511-action.html)
+    + Perception outline | [HTML](lectures/511-perception.html), Action outline [HTML](lectures/511-action.html) |
 
 ---
 
@@ -201,12 +201,12 @@ title: "Schedule"
 ### Wed, Oct 30
 
 - Topics
-    + **Quiz 2** distributed. | [Download]() |. Due at start of class on Friday, November 1, 2019.
+    + **Quiz 2** distributed. | [Download](quiz/quiz-02/psy-511.001-19-quiz-02.docx) |. Due at start of class on Friday, November 1, 2019.
     + Cognition & language. Read BW 19.
 - Reading
     + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF slides]()
+    + Cognition & language outline | [HTML](lectures/511-cognition-language.html) |
 
 ### Fri, Nov 1
 
@@ -228,8 +228,8 @@ title: "Schedule"
 - Materials
     + Lecture notes | [HTML slides]() | [PDF slides]()
 - Readings
-        + Pellman, B. A., & Kim, J. J. (2016). What Can Ethobehavioral Studies Tell Us about the Brain’s Fear System? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from <http://dx.doi.org/10.1016/j.tins.2016.04.001>
-        + Hu, H. (2016). Reward and Aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
+        + Pellman, B. A., & Kim, J. J. (2016). What can ethobehavioral studies tell us about the brain’s fear system? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from <http://dx.doi.org/10.1016/j.tins.2016.04.001>
+        + Hu, H. (2016). Reward and aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
 
 ### Fri, Nov 8
 
@@ -238,8 +238,8 @@ title: "Schedule"
 - Materials
     + Lecture notes | [HTML slides]() | [PDF slides]()
 - Readings
-    + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or Chronic? A Stressful Question. *Trends in Neurosciences*. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002>
-    + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural Circuitry of Reward Prediction Error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
+    + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or chronic? A stressful question. *Trends in Neurosciences*. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002>
+    + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
 
 ---
 
@@ -250,7 +250,7 @@ title: "Schedule"
 - Topics
     + Disorder and Disease. Read BW 16.
 - Reading
-    + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant Network Activity in Schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.04.003>
+    + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant network activity in schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.04.003>
 - Materials
     + Lecture notes | [HTML slides]() | [PDF]()
 
@@ -275,7 +275,7 @@ title: "Schedule"
     + Networks all the way down
     + **Quiz 3**. | [Download]() |. Due at start of class on **Friday, November 22, 2019**.
 - Supplemental Materials
-    + Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033954>
+    + Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to connectome and beyond. *Annual Review of Neuroscience*, *39*, 197–216. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033954>
     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-014030>.
 - Materials
     + Lecture notes | [HTML slides]() | [PDF]()
