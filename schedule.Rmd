@@ -192,7 +192,7 @@ title: "Schedule"
 - Reading
     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
 - Materials
-    + Perception outline | [HTML](lectures/511-perception.html), Action outline [HTML](lectures/511-action.html) |
+    + Perception outline | [HTML](lectures/511-perception.html) |, Action outline | [HTML](lectures/511-action.html) |
 
 ---
 

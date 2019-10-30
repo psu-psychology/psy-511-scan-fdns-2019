@@ -51,6 +51,7 @@ Realized through...
 - Locomotion
 - Object manipulation/consumption
 - Signaling/communication
+- Physiological regulation
 
 ## Complex behavior ~ Nervous systems
 

@@ -1,7 +1,7 @@
 ---
 title: "511-cognition-language"
 author: "Rick Gilmore"
-date: "2019-10-30 10:08:35"
+date: "2019-10-30 10:09:33"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -44,6 +44,7 @@ Realized through...
 - Locomotion
 - Object manipulation/consumption
 - Signaling/communication
+- Physiological regulation
 
 ## Complex behavior ~ Nervous systems
 
