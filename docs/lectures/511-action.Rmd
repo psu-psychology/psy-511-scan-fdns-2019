@@ -172,10 +172,6 @@ knitr::include_graphics("img/muscle-fibers-biopsych.jpg")
 knitr::include_graphics("img/motor-endplate-nt-release.jpg")
 ```
 
-<div class="centered">
-<img src="img/motor-endplate-nt-release.jpg" height=450px>
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ousflrOzQHc" frameborder="0" allowfullscreen></iframe>
 
 ### Skeletal muscle fiber types

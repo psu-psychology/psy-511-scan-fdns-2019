@@ -17,9 +17,10 @@ navbar:
     - text: "Site info"
       href: site-info.html
 output_dir: "docs"
+css: site.css
 output:
   html_document:
-    theme: paper
+    theme: flatly
     highlight: textmate
     include:
       after_body: footer.html
