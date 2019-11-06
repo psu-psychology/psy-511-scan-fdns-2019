@@ -64,7 +64,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 ## How do computers and brains compare?
 
 - Computers have separate memory and processing stores
-- Brains store info everywhere
+- Brains store info everywhere, but there are specialized regions
 
 - Computer memory has specific addresses
 - Brains store in distributed networks
@@ -198,6 +198,22 @@ knitr::include_graphics("img/caporale-2008-fig-2.jpg")
     
 # Memory systems
 
+## Lashley's search for the ['engram'](https://en.wikipedia.org/wiki/Engram_(neuropsychology))
+
+- Is memory 'localized' like sensory and motor functions? [[@Lashley1944-fg]](https://doi.org/10.1002/cne.900800207)
+
+```{r}
+knitr::include_graphics("img/lashley-1944.jpg")
+```
+
+>"*“the area subdivisions are in large part anatomically meaningless and misleading as to the presumptive functional divisions of the cortex”*"
+
+[[@Lashley1946-pa]](http://dx.doi.org/10.1002/cne.900850207)
+
+## Modern views
+
+- Cerebral cortex less central to "engram-like" memory than other areas
+
 ```{r, fig.cap="[[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)"}
 knitr::include_graphics("img/squire-memory-systems.gif")
 ```
@@ -206,6 +222,11 @@ knitr::include_graphics("img/squire-memory-systems.gif")
 
 ```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG"}
 knitr::include_graphics("img/hippocampus-seahorse.jpg")
+```
+
+<!-- Cajal Hippocampus -->
+```{r}
+knitr::include_graphics("https://knowscience.org/wp-content/uploads/2015/12/hp.jpg")
 ```
 
 - Dense in NMDA receptors
@@ -239,6 +260,10 @@ knitr::include_graphics("img/maguire-etal-2000-F3.large.jpg")
 ```{r, fig.cap="[[@sherry_hippocampal_1989]](http://dx.doi.org/10.1159/000116516)"}
 knitr::include_graphics("img/sherry-food-storing-birds-1989.jpg")
 ```
+
+## Cerebellum
+
+- response timing, sequences, especially in classical conditioning paradigms [[@Jirenhed2017-fl]](http://dx.doi.org/10.1073/pnas.1621132114)
 
 ## Disorders of memory
 

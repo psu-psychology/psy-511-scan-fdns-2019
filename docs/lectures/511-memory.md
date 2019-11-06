@@ -1,7 +1,7 @@
 ---
 title: "511-memory"
 author: "Rick Gilmore"
-date: "2019-11-06 05:43:20"
+date: "2019-11-06 13:41:35"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -59,7 +59,7 @@ output:
 ## How do computers and brains compare?
 
 - Computers have separate memory and processing stores
-- Brains store info everywhere
+- Brains store info everywhere, but there are specialized regions
 
 - Computer memory has specific addresses
 - Brains store in distributed networks
@@ -186,6 +186,20 @@ How to learn/remember "causal chains"?
     
 # Memory systems
 
+## Lashley's search for the ['engram'](https://en.wikipedia.org/wiki/Engram_(neuropsychology))
+
+- Is memory 'localized' like sensory and motor functions? [[@Lashley1944-fg]](https://doi.org/10.1002/cne.900800207)
+
+<img src="img/lashley-1944.jpg" width="600px" style="display: block; margin: auto;" />
+
+>"*“the area subdivisions are in large part anatomically meaningless and misleading as to the presumptive functional divisions of the cortex”*"
+
+[[@Lashley1946-pa]](http://dx.doi.org/10.1002/cne.900850207)
+
+## Modern views
+
+- Cerebral cortex less central to "engram-like" memory than other areas
+
 <div class="figure" style="text-align: center">
 <img src="img/squire-memory-systems.gif" alt="[[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)" width="600px" />
 <p class="caption">[[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)</p>
@@ -197,6 +211,9 @@ How to learn/remember "causal chains"?
 <img src="img/hippocampus-seahorse.jpg" alt="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG" width="600px" />
 <p class="caption">https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG</p>
 </div>
+
+<!-- Cajal Hippocampus -->
+<img src="https://knowscience.org/wp-content/uploads/2015/12/hp.jpg" width="600px" style="display: block; margin: auto;" />
 
 - Dense in NMDA receptors
 - Central "hub" in network?
@@ -234,6 +251,10 @@ How to learn/remember "causal chains"?
 <img src="img/sherry-food-storing-birds-1989.jpg" alt="[[@sherry_hippocampal_1989]](http://dx.doi.org/10.1159/000116516)" width="600px" />
 <p class="caption">[[@sherry_hippocampal_1989]](http://dx.doi.org/10.1159/000116516)</p>
 </div>
+
+## Cerebellum
+
+- response timing, sequences, especially in classical conditioning paradigms [[@Jirenhed2017-fl]](http://dx.doi.org/10.1073/pnas.1621132114)
 
 ## Disorders of memory
 
