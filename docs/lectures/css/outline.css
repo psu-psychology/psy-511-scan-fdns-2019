@@ -4,6 +4,10 @@ body {
   margin: auto; 
   padding: 1em; }
 
+blockquote {
+  font-size: 24px;
+}
+
 .r { 
   font-size: 24px; 
 }
