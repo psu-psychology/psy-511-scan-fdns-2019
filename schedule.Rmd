@@ -300,7 +300,7 @@ title: "Schedule"
    
 ---
 
-## Thanksgiving Break, November 19 - 23, 2018
+## Thanksgiving Break, November 25 - 29, 2019
 
 ---
 
@@ -325,7 +325,7 @@ title: "Schedule"
 - Topics
     - Student symposium
 
-### Wed, Dec 13
+### Fri, Dec 13
 
 - Topics
     - Student symposium
