@@ -202,6 +202,7 @@ title: "Schedule"
 
 - Topics
     + **Quiz 2** distributed. | [Download](quiz/quiz-02/psy-511.001-19-quiz-02.docx) |. Due at start of class on Friday, November 1, 2019.
+    + Wrap-up on action
     + Cognition & language. Read BW 19.
 - Reading
     + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
@@ -210,6 +211,13 @@ title: "Schedule"
 
 ### Fri, Nov 1
 
+- Topics
+    + Continue cognition & language. Read BW 19.
+- Reading
+    + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
+- Materials
+    + Cognition & language outline | [HTML](lectures/511-cognition-language.html) |
+
 ---
 
 ## Week 11
@@ -217,6 +225,7 @@ title: "Schedule"
 ### Wed, Nov 6
 
 - Topics
+    + Wrap-up on language.
     + Learning & memory. Read BW 17.
 - Reading
     + Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, *34*, 259–288. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-061010-113720>.
@@ -226,9 +235,10 @@ title: "Schedule"
 ### Fri, Nov 8
 
 - Topic
+    + Wrap-up on learning and memory
     + Emotion. Read BW 15.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF slides]()
+    + Emotion outline | [HTML](lectures/511-emotion.html) |
 - Readings
         + Pellman, B. A., & Kim, J. J. (2016). What can ethobehavioral studies tell us about the brain’s fear system? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from <http://dx.doi.org/10.1016/j.tins.2016.04.001>
         + Hu, H. (2016). Reward and aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
@@ -241,6 +251,7 @@ title: "Schedule"
 
 - Topics
     + Fear, stress, & reward. Read BW 15.
+    + Submit title and three sentence abstract for student presentation.
 - Materials
     + Lecture notes | [HTML slides]() | [PDF slides]()
 - Readings
@@ -264,6 +275,12 @@ title: "Schedule"
 ### Wed, Nov 20
 
 - Topics
+    + **Quiz 3**. | [Download]() |. Due at start of class on **Friday, November 22, 2019**.
+    - Prep for student symposium
+
+### Fri, Nov 22
+
+- Topics
     + Disorder and Disease. Read BW 16.
 - Reading
     + Pawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The neurobiology of postpartum anxiety and depression. *Trends in Neurosciences*, *40*(2), 106–120. Retrieved from <http://dx.doi.org/10.1016/j.tins.2016.11.009>
@@ -272,34 +289,18 @@ title: "Schedule"
 - Materials
     + Lecture notes | [HTML slides]() | [PDF]()
 
-### Fri, Nov 22
-
-- Topics
-    + Networks all the way down
-    + **Quiz 3**. | [Download]() |. Due at start of class on **Friday, November 22, 2019**.
-- Supplemental Materials
-    + Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to connectome and beyond. *Annual Review of Neuroscience*, *39*, 197–216. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033954>
-    + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-014030>.
-- Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+<!-- - Topics -->
+<!--     + Networks all the way down -->
+<!--     + **Quiz 3**. | [Download]() |. Due at start of class on **Friday, November 22, 2019**. -->
+<!-- - Supplemental Materials -->
+<!--     + Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to connectome and beyond. *Annual Review of Neuroscience*, *39*, 197–216. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033954> -->
+<!--     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-014030>. -->
+<!-- - Materials -->
+<!--     + Lecture notes | [HTML slides]() | [PDF]() -->
    
 ---
 
 ## Thanksgiving Break, November 19 - 23, 2018
-
----
-
-## Week 14
-
-### Wed, Nov 27
-
-- Topics
-    - Prep for student symposium
-
-### Fri, Nov 29
-
-- Topics
-    - Prep for student symposium
 
 ---
 
@@ -313,7 +314,7 @@ title: "Schedule"
 ### Fri, Dec 5
 
 - Topics
-    - Student symposium
+    - Prep for student symposium
 
 ---
 
@@ -327,12 +328,15 @@ title: "Schedule"
 ### Wed, Dec 13
 
 - Topics
-    - Reproducibility in neuroscience
-- Readings
-    - Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. Retrieved from http://dx.doi.org/10.1111/nyas.13325
-    - Gorgolewski, K. J., & Poldrack, R. A. (2016). A practical guide for improving transparency and reproducibility in neuroimaging research. *PLoS Biology*, *14*(7), e1002506. Retrieved October 2, 2016, from http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506
-- Materials
-    + Lecture notes | [HTML slides]()
+    - Student symposium
+
+<!-- - Topics -->
+<!--     - Reproducibility in neuroscience -->
+<!-- - Readings -->
+<!--     - Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. Retrieved from http://dx.doi.org/10.1111/nyas.13325 -->
+<!--     - Gorgolewski, K. J., & Poldrack, R. A. (2016). A practical guide for improving transparency and reproducibility in neuroimaging research. *PLoS Biology*, *14*(7), e1002506. Retrieved October 2, 2016, from http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506 -->
+<!-- - Materials -->
+<!--     + Lecture notes | [HTML slides]() -->
 
 ---
 
