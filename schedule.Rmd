@@ -250,14 +250,15 @@ title: "Schedule"
 ### Wed, Nov 13
 
 - Topics
+    + Wrap-up on emotion
     + Fear, stress, & reward. Read BW 15.
     + Submit title and three sentence abstract for student presentation.
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF slides]()
+    + Emotion outline | [HTML](lectures/511-emotion.html) |
+    + Fear, stress, & reward outline | [HTML](lectures/511-fear-stress-reward.html) |
 - Readings
     + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or chronic? A stressful question. *Trends in Neurosciences*. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002>
     + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
-
 
 ### Fri, Nov 15
 
