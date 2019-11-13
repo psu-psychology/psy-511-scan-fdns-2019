@@ -1,7 +1,7 @@
 ---
 title: "511-fear-stress-reward"
 author: "Rick Gilmore"
-date: "2019-11-13 08:19:29"
+date: "2019-11-13 13:58:22"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -45,6 +45,10 @@ output:
 <p class="caption">[[@medina2002parallels]](http://dx.doi.org/10.1038/nrn728)</p>
 </div>
 
+- Direct (fast) pathways via thalamus
+- Indirect (slower) pathways via cortex
+- Input and output (behavior, physiology) specificity
+
 ## Specificity of learning stimulus/response mappings
 
 <div class="figure" style="text-align: center">
@@ -53,8 +57,8 @@ output:
 </div>
 
 - Specific stimulus/response, $S \rightarrow R$, patterns
-- <span class="green">Light/sound + footshock OR X-ray + saccharin</span> vs
-- <span class="red">Light/sound + X-ray or footshock + saccharin</span>
+- Visual OR Auditory $\rightarrow$ pain
+- Taste $\rightarrow$ nausea
 
 ## Circuitry
 
@@ -84,7 +88,6 @@ output:
     + Short duration
 - Brain detects threat
 - Mobilizes physiological, behavioral responses
-    + Fast action required
     + HPA (Cortisol), SAM (NE/Epi) axes
 - vs. **Chronic** or stress
     + Long duration, persistent
@@ -123,6 +126,17 @@ output:
 <p class="caption">[[@Musazzi2017-lr]](https://doi.org/10.1016/j.tins.2017.07.002)</p>
 </div>
 
+### Changes in neural architecture
+
+- Hippocampus (rich in CORT receptors)
+- Prefrontal cortex
+
+### Neurochemical factors
+
+- Cortisol enhances glutamate release
+- Corticosteroid antagonists block this
+- Ketamine (NMDA receptor antagonist) may act via similar mechanisms
+
 <div class="figure" style="text-align: center">
 <img src="https://prodimage.images-bn.com/pimages/9780805073690_p0_v2_s550x406.jpg" alt="Sapolsky, *Why Zebras Don't Get Ulcers*" width="700px" />
 <p class="caption">Sapolsky, *Why Zebras Don't Get Ulcers*</p>
@@ -137,7 +151,7 @@ output:
 <p class="caption">[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)</p>
 </div>
 
-## Reward 
+## Reward
 
 - A *reward* reinforces (makes more prevalent/probable) some behavior
 - Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
