@@ -50,6 +50,10 @@ knitr::include_graphics("img/davis-anxiety-rat-vs-human.jpg")
 knitr::include_graphics("img/fear-conditioning-amygdala-nrn728-f2.gif")
 ```
 
+- Direct (fast) pathways via thalamus
+- Indirect (slower) pathways via cortex
+- Input and output (behavior, physiology) specificity
+
 ## Specificity of learning stimulus/response mappings
 
 ```{r, fig.cap="[[@Pellman2016-xu]](https://doi.org/10.1016/j.tins.2016.04.001)"}
@@ -57,8 +61,8 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S016622361
 ```
 
 - Specific stimulus/response, $S \rightarrow R$, patterns
-- <span class="green">Light/sound + footshock OR X-ray + saccharin</span> vs
-- <span class="red">Light/sound + X-ray or footshock + saccharin</span>
+- Visual OR Auditory $\rightarrow$ pain
+- Taste $\rightarrow$ nausea
 
 ## Circuitry
 
@@ -86,7 +90,6 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S016622361
     + Short duration
 - Brain detects threat
 - Mobilizes physiological, behavioral responses
-    + Fast action required
     + HPA (Cortisol), SAM (NE/Epi) axes
 - vs. **Chronic** or stress
     + Long duration, persistent
@@ -121,6 +124,17 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S016622361
 knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301364-gr3.jpg")
 ```
 
+### Changes in neural architecture
+
+- Hippocampus (rich in CORT receptors)
+- Prefrontal cortex
+
+### Neurochemical factors
+
+- Cortisol enhances glutamate release
+- Corticosteroid antagonists block this
+- Ketamine (NMDA receptor antagonist) may act via similar mechanisms
+
 ```{r, fig.cap="Sapolsky, *Why Zebras Don't Get Ulcers*"}
 knitr::include_graphics("https://prodimage.images-bn.com/pimages/9780805073690_p0_v2_s550x406.jpg")
 ```
@@ -133,7 +147,7 @@ knitr::include_graphics("https://prodimage.images-bn.com/pimages/9780805073690_p
 knitr::include_graphics("img/kringelbach-2009-fig-2.jpg")
 ```
 
-## Reward 
+## Reward
 
 - A *reward* reinforces (makes more prevalent/probable) some behavior
 - Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
