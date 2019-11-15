@@ -263,11 +263,13 @@ title: "Schedule"
 ### Fri, Nov 15
 
 - Topics
+    + Wrap-up on fear, stress & reward
     + Disorder and Disease. Read BW 16.
 - Reading
     + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant network activity in schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.04.003>
 - Materials
-    + Lecture notes | [HTML slides]() | [PDF]()
+    + Fear, stress, & reward outline | [HTML](lectures/511-fear-stress-reward.html) |
+    + Schizophrenia outline | [HTML](lectures/511-schizophrenia.html) |
 
 ---
 
