@@ -230,14 +230,14 @@ knitr::include_graphics("img/ncpneuro0775-f4.jpg")
 [[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
 </div>
 
-- Opioids, ndogenous morphine-like NTs (endorphins)
+- Opioids, endogenous morphine-like NTs (endorphins)
 
 ```{r, fig.cap="[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)"}
 knitr::include_graphics("img/endorphins-niaa.gif")
 ```
 
-- Cannabinoids (endogenous cannabinoid system)
-    - Cannabinoids, psychoactive compounds found in cannibis
+- Cannabinoids = psychoactive compounds found in cannibis
+- Endocannabinoids (endogenous cannabinoid system)
     - Cannabinoid CB1 receptors in CNS; CB2 in body, immune system
 
 ```{r, fig.cap="[[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256)"}
