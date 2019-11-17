@@ -85,6 +85,12 @@ output:
 
 ### Complex multicellular life emerged "recently"
 
+<!-- History of life on Earth -->
+<div class="figure" style="text-align: center">
+<img src="http://anthony.liekens.net/pub/timeline.png" alt="http://anthony.liekens.net/pub/timeline.png" width="800px" />
+<p class="caption">http://anthony.liekens.net/pub/timeline.png</p>
+</div>
+
 <div class="figure" style="text-align: center">
 <img src="http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" alt="Source: http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" width="800px" />
 <p class="caption">Source: http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif</p>

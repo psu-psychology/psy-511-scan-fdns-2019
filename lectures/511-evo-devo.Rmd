@@ -90,6 +90,11 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/
 
 ### Complex multicellular life emerged "recently"
 
+<!-- History of life on Earth -->
+```{r, fig.cap="http://anthony.liekens.net/pub/timeline.png"}
+knitr::include_graphics("http://anthony.liekens.net/pub/timeline.png")
+```
+
 ```{r, fig.cap="Source: http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif"}
 knitr::include_graphics("http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif")
 ```
