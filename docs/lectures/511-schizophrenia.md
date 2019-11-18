@@ -1,7 +1,7 @@
 ---
 title: "511-schizophrenia"
 author: "Rick Gilmore"
-date: "2019-11-15 08:28:40"
+date: "2019-11-15 16:30:54"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -48,7 +48,6 @@ output:
 - Poverty of speech
 - Flat affect
 - Social withdrawal
-- Impaired executive function
 - Anhedonia (loss of pleasure)
 - Catatonia (reduced movement)
 
@@ -122,7 +121,7 @@ output:
 </div>
 
 - Ventricular enlargement increases across time
-- Espeically in the more impaired
+- Especially in the more impaired
 
 <div class="figure" style="text-align: center">
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr2.gif" alt="[[@Davis1998-ki]](https://doi.org/10.1016/s0006-3223(97)00553-2)" width="700px" />
@@ -157,7 +156,7 @@ output:
 <p class="caption">[[@Van_Erp2015-ne]](https://doi.org/10.1038/mp.2015.63)</p>
 </div>
 
-##### Animal model
+##### Animal model example
 
 - Dentate gyrus (DG) in hippocampus 
     - spatial coding, learning & memory, emotion processing 
@@ -167,8 +166,6 @@ output:
 - Tmem108-deficient neurons form fewer and smaller spines 
 - Tmem108-deficient mice display schizophrenia-relevant behavioral deficits
 - [[@jiao_transmembrane_2017]](10.1073/pnas.1618213114)
-
-
 
 #### White matter disruption
 
@@ -184,7 +181,7 @@ output:
 <p class="caption">[[@Kochunov2016-cu]](https://doi.org/10.1002/hbm.23336)</p>
 </div>
 
-#### Dysconnectivity in cortical networks
+#### Disconnectivity in cortical networks
 
 <div class="figure" style="text-align: center">
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0959438812001663-gr1.jpg" alt="[[@Uhlhaas2013-do]](https://doi.org/10.1016/j.conb.2012.11.004)" width="700px" />
@@ -222,8 +219,7 @@ Fig 1. Power and variance of CGm signal in SCZ and BD. (A) Power of CGm signal i
 
 Fig 2. Relationship between SCZ symptoms and CGm BOLD signal power. We extracted average CGm power for each patient with available symptom ratings (n = 153). (A) Significant positive relationship between CGm power and symptom ratings in SCZ (r = 0.18, P < 0.03), verified using Spearman’s ρ given somewhat nonnormally distributed data (ρ = 0.2, P < 0.015). (B and C) Results held across SCZ samples, increasing confidence in the effect (i.e., joint probability of independent effects P < 0.002, marked in blue boxes). All identified relationships held when examining Gm variance (SI Appendix, Fig. S4). Notably, all effects were no longer significant after GSR, suggesting GS carries clinically meaningful information. The shaded area marks the 95% confidence interval around the best-fit line.
 
-
-- Dysconnectivity b/w 'hubs' -> higher functional connectivity
+- Disconnectivity b/w 'hubs' -> higher functional connectivity
 
 <div class="centered">
 <a href="https://doi.org/10.1016/j.conb.2014.08.006">

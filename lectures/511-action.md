@@ -1,7 +1,7 @@
 ---
 title: "511-action"
 author: Rick Gilmore
-date: "2019-10-25 15:49:15"
+date: "2019-11-17 09:09:37"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -247,8 +247,13 @@ output:
 - Genetic + environmental influences
 - Disturbance in striatum
 - No effective treatment
+- But progress in an animal model targeting abnormal protein products [[@Li2019-to]](https://doi.org/10.1038/s41586-019-1722-1)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBLrY_nXU_U" frameborder="0" allowfullscreen></iframe>
+
+### No cure, but possible treatment breakthrough
+
+- 
 
 # The big picture
 

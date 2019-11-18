@@ -1,7 +1,7 @@
 ---
 title: "511-fear-stress-reward"
 author: "Rick Gilmore"
-date: "2019-11-13 13:58:22"
+date: "2019-11-16 09:21:44"
 bibliography: bib/bibliography.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -243,15 +243,15 @@ Reward & Aversion Networks
 [[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
 </div>
 
-- Opioids, ndogenous morphine-like NTs (endorphins)
+- Opioids, endogenous morphine-like NTs (endorphins)
 
 <div class="figure" style="text-align: center">
 <img src="img/endorphins-niaa.gif" alt="[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)" width="700px" />
 <p class="caption">[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)</p>
 </div>
 
-- Cannabinoids (endogenous cannabinoid system)
-    - Cannabinoids, psychoactive compounds found in cannibis
+- Cannabinoids = psychoactive compounds found in cannibis
+- Endocannabinoids (endogenous cannabinoid system)
     - Cannabinoid CB1 receptors in CNS; CB2 in body, immune system
 
 <div class="figure" style="text-align: center">
