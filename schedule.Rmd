@@ -309,15 +309,16 @@ title: "Schedule"
 
 ## Week 15
 
-### Wed, Dec 3
+### Wed, Dec 4
 
 - Topics
     - Prep for student symposium
 
-### Fri, Dec 5
+### Fri, Dec 6
 
 - Topics
     - Prep for student symposium
+- Final copies of title and abstract due. Send via email.
 
 ---
 
@@ -327,11 +328,27 @@ title: "Schedule"
 
 - Topics
     - Student symposium
+        - Development & disorder
+            - Ali
+            - Tyler, Chelsea, Rachel, Tawni
+        - Psychotherapy and the brain
+            - Haruka
+            - Ryan
+    - Slides by noon
 
 ### Fri, Dec 13
 
 - Topics
     - Student symposium
+        - Lnaguage
+            - Holly
+            - Daisy
+            - So Yeon
+        - Emotion
+            - Young In & Jacob
+            - Leslie
+        - Hannah
+    - Slides by noon
 
 <!-- - Topics -->
 <!--     - Reproducibility in neuroscience -->
