@@ -278,7 +278,7 @@ title: "Schedule"
 ### Wed, Nov 20
 
 - Topics
-    + **Quiz 3**. | [Download]() |. Due at start of class on **Friday, November 22, 2019**.
+    + **Quiz 3**. | [Download](quiz/quiz-03/psy-511.001-19-quiz-03.docx) |. Due at start of class on **Friday, November 22, 2019**.
     - Prep for student symposium
 
 ### Fri, Nov 22
@@ -308,6 +308,10 @@ title: "Schedule"
 ---
 
 ## Week 15
+
+### Mon, Dec 2
+
+- Quiz 3 extended deadline noon.
 
 ### Wed, Dec 4
 
