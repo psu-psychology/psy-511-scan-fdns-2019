@@ -271,6 +271,10 @@ Story about child who underwent ECoG surgery.
 
 - How does firing frequency, timing vary with behavior?
 
+## Combinations of micro and meso-scale methods
+
+[[@Barson2019-rh]](https://doi.org/10.1038/s41592-019-0625-2)
+
 ## [**Positron Emission Tomography (PET)**](https://en.wikipedia.org/wiki/Positron_emission_tomography)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GHLBcCv4rqk" frameborder="0" allowfullscreen></iframe>
@@ -349,6 +353,10 @@ knitr::include_graphics("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3629563/bi
 
 [[@Sladky2013-bu]](https://dx.doi.org/10.1016/j.ejrad.2011.09.025)
 </div>
+
+## Multi-modal whole brain methods
+
+[[@Fultz2019-ux]](https://doi.org/10.1126/science.aax5440)
 
 ## I want some power... {.smaller}
 
@@ -497,8 +505,15 @@ knitr::include_graphics("https://s.hswstatic.com/gif/brain-computer-interface-3.
 ```{r, out.height="500px"}
 knitr::include_graphics("https://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg")
 ```
-
 </div>
+
+New device minimizes problems with motion
+```{r, fig.cap="[[@Hill2019-ik]](https://doi.org/10.1038/s41467-019-12486-x)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12486-x/MediaObjects/41467_2019_12486_Fig1_HTML.png")
+```
+
+>Figure 1. A paediatric MEG system: a Experimental setup for three participants age 2- (left), 5- (centre) and 24-years (right). OPMs, housed in a modified bike helmet, measured the MEG signal. b Time-frequency spectra from a single (synthesised gradiometer) channel. Changes in neural oscillations are shown; blue indicates a reduction in oscillatory amplitude relative to baseline; yellow indicates an increase. Note reduction in beta (13–30 Hz) and mu (8–13 Hz) amplitude. c The spatial signature of beta modulation during the period of tactile stimulation (0 s < t < 2 s) (blue overlay)
+
 
 ## How do EEG/MEG and fMRI relate? {.flexbox .vcenter}
 
