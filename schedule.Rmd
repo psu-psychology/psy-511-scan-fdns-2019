@@ -331,7 +331,7 @@ title: "Schedule"
 ### Wed, Dec 11
 
 - Topics
-    - Student symposium
+    - [Student symposium](student-symposium.html)
         - Development & disorder
             - "Where the research stands on ADHD and the gut-brain axis", Alexandra Roule
             - "Stimulant use in ADHD: Pathways of activation, immediate effects, and long-term neurological changes", Tyler Warner
@@ -339,12 +339,12 @@ title: "Schedule"
             - "The biological basis of learning disabilities in children", Rachel Level
             - "Understanding autism: Social perception and underlying processes", Tawni Stoop
         - Psychotherapy and the brain
-            - Haruka Notsu
+            - "Neurobiology of psychotherapy", Haruka Notsu
 
 ### Fri, Dec 13
 
 - Topics
-    - Student symposium
+    - [Student symposium](student-symposium.html)
         - Psychotherapy and the brain
             - "Assessing and applying clinically-relevant and actionable findings from neuroscience to psychotherapy", Ryan Kilcullen
         - Language
@@ -353,9 +353,9 @@ title: "Schedule"
             - "Language impairment and electroencephalography (EEG)", So Yeon Chun
         - Emotion
             - "Testing the effectiveness of a fMRI-based neurofeedback training of emotion regulation in borderline personality disorder", Young In Chung & Jacob Martin
-            - Leslie Ho
+            - "Neural networks underlying emotions and task performance", Leslie Ho
         - Music and the brain
-            - Hannah Merseal
+            - "The cognitive neuroscience of musical improvisation", Hannah Merseal
     - Slides by noon
 
 <!-- - Topics -->
