@@ -333,25 +333,29 @@ title: "Schedule"
 - Topics
     - Student symposium
         - Development & disorder
-            - Ali
-            - Tyler, Chelsea, Rachel, Tawni
+            - "Where the research stands on ADHD and the gut-brain axis", Alexandra Roule
+            - "Stimulant use in ADHD: Pathways of activation, immediate effects, and long-term neurological changes", Tyler Warner
+            - "Exploring the neuropsychology of intellectual disability: Multisystemic and dimensional views of intellectual and adaptive functioning", Chelsea Mayo
+            - "The biological basis of learning disabilities in children", Rachel Level
+            - "Understanding autism: Social perception and underlying processes", Tawni Stoop
         - Psychotherapy and the brain
-            - Haruka
-            - Ryan
-    - Slides by noon
+            - Haruka Notsu
 
 ### Fri, Dec 13
 
 - Topics
     - Student symposium
-        - Lnaguage
-            - Holly
-            - Daisy
-            - So Yeon
+        - Psychotherapy and the brain
+            - "Assessing and applying clinically-relevant and actionable findings from neuroscience to psychotherapy", Ryan Kilcullen
+        - Language
+            - "What can time frequency analysis tell us about language processing?", Holly Zaharchuk
+            - "Word learning and consolidation", Daisy Lei
+            - "Language impairment and electroencephalography (EEG)", So Yeon Chun
         - Emotion
-            - Young In & Jacob
-            - Leslie
-        - Hannah
+            - "Testing the effectiveness of a fMRI-based neurofeedback training of emotion regulation in borderline personality disorder", Young In Chung & Jacob Martin
+            - Leslie Ho
+        - Music and the brain
+            - Hannah Merseal
     - Slides by noon
 
 <!-- - Topics -->

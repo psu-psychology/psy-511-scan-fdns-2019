@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Rick Gilmore" />
+
+
+<title>student-symposium</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PSY 511</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="evaluation.html">Evaluation</a>
+</li>
+<li>
+  <a href="assignments.html">Assignments</a>
+</li>
+<li>
+  <a href="interests.html">Student interests</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">student-symposium</h1>
+<h4 class="author">Rick Gilmore</h4>
+<h4 class="date">12/9/2019</h4>
+
+</div>
+
+
+<div id="wednesday-december-11-2019" class="section level1">
+<h1>Wednesday, December 11, 2019</h1>
+<div id="alexandra-roule" class="section level2">
+<h2>Alexandra Roule</h2>
+<p><em>Where the research stands on ADHD and the gut-brain axis</em></p>
+<p>A growing field of literature aims to understand the relationship between the brain and the microbiome of the gut, as well as its significance to mental health (Grenham, Clarke, Cryan, &amp; Dinan, 2011; Sarkar et al., 2016). Attention-deficit hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder defined by executive functioning deficits (Kasper, Alderson, &amp; Hudec, 2012; Nigg, 2001), including aberrant reward processing (Aarts et al., 2017). One explanation for reward processing deficits is dysregulation of the reward neural network, particularly the uptake of dopamine (Aarts et al., 2017; Volkow et al., 2010). In the gut, monoamines, which are building blocks for neurotransmitters like dopamine, are formed (Aarts et al., 2017). Given that the microbiome influences reward processing, current research is investigating whether changes in the microbiome targeting the creation of these building blocks may be a feasible intervention for ADHD (Stevens et al., 2019).</p>
+</div>
+<div id="ryan-kilcullen" class="section level2">
+<h2>Ryan Kilcullen</h2>
+<p><em>Assessing and Applying Clinically-Relevant and Actionable Findings from Neuroscience to Psychotherapy</em></p>
+<p>My lab here at PSU primarily focuses on practice-oriented research in psychotherapy. One of the tenets of practice-oriented research is an emphasis on asking research questions that are of genuine interest to clinicians (as opposed to just researchers) and that yield (or strive to yield) actionable findings. That is, the findings from solid practice-oriented research ought to be digestible by clinicians and directly informing their practice. Neuroscience is becoming an increasingly central focus of much clinical psychological research; one would be hard-pressed to attain a grant from a major funding agency like NIMH for a study that doesn’t involve a brain imaging component. As I understand it, the inclusion of neuroscience into the paradigm of clinical psychological research has shed much light on neural correlates and other biological correlates of psychopathology. While this information is crucial to psychiatric research and undoubtedly has had direct impacts on psychopharmacological advances, I have struggled to see how such research could inform a psychotherapist and his/her psychological interventions. To my pleasant surprise, research has examined this question; for instance, Cappas, Andres-Hyman, &amp; Davidson (2005) posits a “brain-based psychotherapy.” Relatedly, Fonagy (2004) examined among other things how neuroimaging and genetic research can inform case conceptualization in psychotherapy. Recent research is even suggesting that neuroscience can bolster or support certain psychotherapeutic approaches and theories, for instance, the notion that emphases on relational processes in psychotherapy is supported by neuroscience (Schore, 2014). My plan for the symposium would be to summarize briefly this literature, reflect on the viability of this research with regard to improving clinical practice, as well as touching on prominent limitations, shortcomings, and future directs for this brand of interdisciplinary research.</p>
+</div>
+<div id="tawni-stoop" class="section level2">
+<h2>Tawni Stoop</h2>
+<p><em>Understanding Autism: Social Perception and Underlying Processes</em></p>
+<p>Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by deficits in both social emotion processing and experience, social engagement, and rigid thinking or repetitive interests and behaviors (APA, 2013). To date, diagnosis of ASD relies purely on behavioral cues that may overlap with other neurodevelopmental disorders (i.e., Intellectual Disability) or that may not arise until situational demands increase. These symptoms may be identified early in childhood, however in some instances it may not be until behavioral problems have already escalated that proper diagnosis is attained. It is important to determine what other markers may serve as identifiers that can improve diagnosis earlier in childhood. As the Psychology field moves towards finding pathophysiological and biological markers under the RDoC system to improve diagnoses, it is important to take stock of what research exists that can begin to fill in the blanks within this framework for Autism Spectrum Disorder that can serve to improve diagnostic clarity, speed, and accuracy. This talk will briefly review what is already known about the biological processes of ASD and where there are still gaps in knowledge.</p>
+</div>
+<div id="chelsea-mayo" class="section level2">
+<h2>Chelsea Mayo</h2>
+<p><em>Exploring the Neuropsychology of Intellectual Disability: Multisystemic and Dimensional Views of Intellectual and Adaptive Functioning</em></p>
+<p>Intellectual developmental disorder (IDD), or intellectual disability (ID), is a classifier for a number of neurodevelopmental disorders associated with intellectual and adaptive functioning deficits, and research on this disorder has required an increasingly multilevel and multisystemic approach. Though some known genetic conditions, such as Down Syndrome and Fragile X syndrome, are conceptualized as known causes of ID, these identified genetic abnormalities account for only about a quarter of cases of ID (Lee, Maiman, &amp; Godfrey, 2016; Volk, Chiu, Sharma, &amp; Huganir, 2015). In fact, chromosomal aberrations, single gene mutations, and environmental factors, are just some of the many suspected heterogenous causes of IDD (Iwase et al., 2017; Volk et al., 2015). Extant research on intellectual disabilities has also examined various neurocognitive domains, including memory, inhibition, and cognitive flexibility, in order to illuminate the neurobiology of intellectual disabilities (Pennington, 2009). However, what determines whether a particular gene expression, form of brain plasticity, or type of cognitive functioning constitutes a ‘deficit’ and is therefore indicative of intellectual disability, when intellectual and adaptive functioning comprise spectrums of behavior grounded in the particular societal context in which they are judged? The diagnosis of ID is given usually via a IQ cut-off score of 70, and yet the neuropsychological underpinnings of ID do not so simply map on to these predetermined cutoffs. Thus some scholars are pushing back against research wherein “neuroscience only enters the picture after pathology is taken as fact,” (Altermark, 2014). In contrast to single cognitive deficit models of developmental disorders, future research should pursue how intellectual disability can be better understood as a combination of dimensional differences in multiple cognitive domains.</p>
+</div>
+</div>
+<div id="friday-december-13-2019" class="section level1">
+<h1>Friday, December 13, 2019</h1>
+<div id="holly-zaharchuk" class="section level2">
+<h2>Holly Zaharchuk</h2>
+<p><em>What can time frequency analysis tell us about language processing?</em></p>
+<p>Electroencephalography (EEG) research on language processing typically uses event-related potential (ERP) analyses to measure the neural response to a particular stimulus. Two well-established ERP components, the N400 and P600, index semantic and syntactic integration, respectively. While we know that these components reflect functionally distinct linguistic processes, we do not yet know how these processes combine to form a coherent meaning across an utterance (sentence). Frequency-based analyses of EEG data can help us unpack the level of synchronization across semantic and syntactic processes.</p>
+</div>
+<div id="daisy-lei" class="section level2">
+<h2>Daisy Lei</h2>
+<p><em>Word Learning and Consolidation</em></p>
+<p>Vocabulary acquisition does not stop after one becomes proficient in one native language. Vocabulary knowledge continues across the lifespan and is probably the only cognitive measure that continues to grow after the 20s and remains relatively stable in older adulthood. To that end, what supports novel word learning in adults? According to the complementary learning systems theory (CLS) of word learning (Davis and Gaskell, 2009), offline consolidation (e.g. sleep) is needed for novel words to become incorporated into one’s existing lexicon. EEG may also be used to investigate the lexicalization of novel words. I will present the updated CLS theory (Kumaran, Hassabis, and McClelland, 2016) and results from the neuropsychological literature on novel word learning.</p>
+</div>
+<div id="so-yeon-chun" class="section level2">
+<h2>So Yeon Chun</h2>
+<p>Title: &lt;Language Impairment and Electroencephalography (EEG)&gt; Children with Specific Language Impairment (SLI) are known to have deficits in language processing. Some argue that their linguistic deficits are due to idiosyncratic brain functions and the structure. In line with this assumption, this presentation will provide a brief overview of Event-Related Potential (ERP) components and the brain oscillations related to the linguistic factors that may affect language deficits. Specifically, the presentation will review the distinctive EEG patterns of children with SLI and dyslexia.</p>
+</div>
+<div id="young-in-chung-and-jacob-martin" class="section level2">
+<h2>Young In Chung and Jacob Martin</h2>
+<p><em>Testing the effectiveness of a fMRI-based neurofeedback training of emotion regulation in borderline personality disorder</em></p>
+<p>The main objective of the study is to test the effectiveness of a novel fMRI neurofeedback training targeted for down-regulating emotional reactivity to facilitate emotion regulation in individuals with borderline personality disorder (BPD). Emotion regulation is a prominent feature of a number of mental disorders, and has implications for functioning in areas of interpersonal relationships, coping with stress, and capacity to work. Emotion regulation is core to BPD, with many current treatments for BPD emphasizing ways to improve regulatory skills; as such, individuals with BPD are an ideal sample for studying the application of a novel method of providing feedback that indicates ability to regulate emotions. Neurofeedback has been investigated as a non-invasive method to train self-regulation of brain activity, with a potential concomitant change in relevant behavior. The advantage of neurofeedback is that it offers an individual-specific, real-time feedback so that participants can optimize and shape their strategy learning process. The study aims to address two specific objectives: (1) to determine whether individuals with BPD receiving the veritable fMRI neurofeedback, compared to those in the control condition, will learn strategies to decrease their reactivity to socioemotional stimuli, (2) to understand the extent to which improvement in the ability to regulate emotion-related brain regions is correlated with better interpersonal functioning outcome in real life.</p>
+</div>
+</div>
+
+<p>Copyright &copy; 2019 Rick O. Gilmore</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
