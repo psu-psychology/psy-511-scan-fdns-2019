@@ -23,9 +23,25 @@ knitr::opts_chunk$set(echo = TRUE)
 <!-- - Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved. -->
 <!--   - When thinking about *outputs* make sure to distinguish between *behaviors* (e.g., movements, facial expressions, vocalizations) and *physiological states* (e.g., changes in heart rate, hormone concentrations in the blood, etc.) -->
 
+## Resource write-up
+
+Please write-up a review of i) one of the references you discuss in your symposium presentation or ii) another paper of your choosing in the style of a *Neuron* "Preview" or a *Nature* "Research Highlights" paper ([example](https://www.nature.com/search?article_type=research-highlights&order=date_desc)).
+
+Your review should be 2,000-2,500 words (6-10 pp in length, double-spaced) and is due by **noon on Wednesday, December 18, 2019**.
+
+Here are some examples to get your creative juices flowing:
+
+Bray, N. (2019). Foreseeing compulsion. *Nature Reviews Neuroscience*. Retrieved from http://dx.doi.org/10.1038/s41583-019-0256-8. [PDF](pdf/s41583-019-0256-8.pdf)
+
+Lewis, S. (2019). A good stretch regulates satiety. *Nature Reviews Neuroscience*. Retrieved from http://dx.doi.org/10.1038/s41583-019-0252-z. [PDF](pdf/s41583-019-0252-z.pdf)
+
+Gupta, P. K., & Murphy, T. H. (2019). Cortex-wide computations in complex decision making in mice. *Neuron*, *104*(4), 631–633. Retrieved from http://dx.doi.org/10.1016/j.neuron.2019.10.043. [PDF](pdf/PIIS0896627319309638.pdf)
+
+Mazade, R., & Alonso, J. M. (2019). Synergy in cortical networks. *Neuron*, *104*(2), 184–185. Retrieved from http://dx.doi.org/10.1016/j.neuron.2019.09.041. [PDF](pdf/PIIS089662731930844X.pdf)
+
 ## Planning for the student symposium
 
-You have two class periods (~150 mins), you do you want to spend them?
+You have two class periods (~150 mins), how do you want to spend them?
 
 Constraints:
 
